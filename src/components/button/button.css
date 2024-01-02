@@ -1,0 +1,342 @@
+.previousPage {
+  font-size:var(--font-size-tertiary);
+  align-items:center;
+  display:flex;
+  position:relative;
+  text-align:left;
+  color:var(--text-secondary);
+}
+
+.pages {
+  font-size:var(--font-size-primary);
+  text-decoration:none;
+  width:100%;
+}
+
+.nonClickable {
+  text-decoration:none;
+  width:100%;
+  color:#fff;
+}
+
+.nonClickable:hover {
+  cursor:url('/assets/images/cursor-pointer.png') 10 0,auto;
+}
+
+.invertCursor .nonClickable:hover {
+  cursor:url('/assets/images/cursor-pointer-filled.png') 10 0,auto;
+}
+
+.hiddenImg {
+  display:none;
+}
+
+.hiddenTxt:hover ~ .hiddenImg {
+  display:block;
+  position:absolute;
+  z-index:50;
+  margin-left:30vw;
+}
+
+.clickable {
+  text-decoration:none;
+  width:100%;
+  color:#fff;
+}
+
+.clickable:hover {
+  cursor:url('/assets/images/cursor-pointer.png') 10 0,auto;
+}
+
+.invertCursor .clickable:hover {
+  cursor:url('/assets/images/cursor-pointer-filled.png') 10 0,auto;
+}
+
+
+.certifications::after {
+  content:"CERTIFICATIONS";
+}
+
+.certifications:hover::after {
+  content:"C3R71F1C4710N5";
+}
+
+
+.cipher::after {
+  content:"D|CIPHER";
+}
+
+.cipher:hover::after {
+  content:"D/C1PH3R";
+}
+
+
+.company1::after {
+  content:"CYBER SECURED INDIA";
+}
+
+.company1:hover::after {
+  content:"CY83R 53CUR3D 1ND14";
+}
+
+
+.company2::after {
+  content:"COMPANY2";
+}
+
+.company2:hover::after {
+  content:"C0MP4NY2";
+}
+
+
+.email::after {
+  content:"EMAIL";
+}
+
+.email:hover::after {
+  content:"3M41L";
+}
+
+
+.empower::after {
+  content:"EMPOWERSHELL";
+}
+
+.empower:hover::after {
+  content:"3MP0W3R5H3LL";
+}
+
+
+.experience::after {
+  content:"EXPERIENCE";
+}
+
+.experience:hover::after {
+  content:"3XP3R13NC3";
+}
+
+
+.github::after {
+  content:"GITHUB";
+}
+
+.github:hover::after {
+  content:"617HU8";
+}
+
+
+.google::after {
+  content:"GCPC";
+}
+
+.google:hover::after {
+  content:"6CPC";
+}
+
+
+.hackerOne::after {
+  content:"HACKERONE";
+}
+
+.hackerOne:hover::after {
+  content:"H4CK3R0N3";
+}
+
+
+.hackTheBox::after {
+  content:"HACKTHEBOX";
+}
+
+.hackTheBox:hover::after {
+  content:"H4CK7H380X";
+}
+
+
+.hexplorer::after {
+  content:"HEXPLORER";
+}
+
+.hexplorer:hover::after {
+  content:"H3XPL0R3R";
+}
+
+
+.home::after {
+  content:"HOME";
+}
+
+.home:hover::after {
+  content:"H0M3";
+}
+
+
+.huntr::after {
+  content:"HUNTR";
+}
+
+.huntr:hover::after {
+  content:"HUN7R";
+}
+
+
+.intigriti::after {
+  content:"INTIGRITI";
+}
+
+.intigriti:hover::after {
+  content:"1N716R171";
+}
+
+
+.key::after {
+  content:"PGP KEY";
+}
+
+.key:hover::after {
+  content:"P6P K3Y";
+}
+
+
+.knign::after {
+  content:"KNIGN";
+}
+
+.knign:hover::after {
+  content:"KN16N";
+}
+
+
+.kunalWalavalkar::after {
+  content:"KUNAL WALAVALKAR";
+}
+
+.kunalWalavalkar:hover::after {
+  content:"KUN4L W4L4V4LK4R";
+}
+
+
+.netSleuth::after {
+  content:"NETSLEUTH";
+}
+
+.netSleuth:hover::after {
+  content:"N375L3U7H";
+}
+
+
+.nse::after {
+  content:"NSE";
+}
+
+.nse:hover::after {
+  content:"N53";
+}
+
+
+.opensoc::after {
+  content:"OPENSOC";
+}
+
+.opensoc:hover::after {
+  content:"0P3N50C";
+}
+
+
+.probe::after {
+  content:"PROBE";
+}
+
+.probe:hover::after {
+  content:"PR083";
+}
+
+
+
+.projects::after {
+  content:"PROJECTS";
+}
+
+.projects:hover::after {
+  content:"PR0J3C75";
+}
+
+
+.resume::after {
+  content:"RESUME";
+}
+
+.resume:hover::after {
+  content:"R35UM3";
+}
+
+
+.riskore::after {
+  content:"RISKORE";
+}
+
+.riskore:hover::after {
+  content:"R15K0R3";
+}
+
+
+.signum::after {
+  content:"SIGNUM";
+}
+
+.signum:hover::after {
+  content:"516NUM";
+}
+
+
+.tryHackMe::after {
+  content:"TRYHACKME";
+}
+
+.tryHackMe:hover::after {
+  content:"7RYH4CKM3";
+}
+
+
+.writeUps::after {
+  content:"WRITE-UPS";
+}
+
+.writeUps:hover::after {
+  content:"WR173-UP5";
+}
+
+
+
+
+
+.passward::after {
+  content:"PASSWARD";
+}
+
+.passward:hover::after {
+  content:"P455W4RD";
+}
+
+.pyrefox::after {
+  content:"PYREFOX";
+}
+
+.pyrefox:hover::after {
+  content:"PYR3F0X";
+}
+
+.steghound::after {
+  content:"STEGHOUND";
+}
+
+.steghound:hover::after {
+  content:"5736H0UND";
+}
+
+.suiteBox::after {
+  content:"SUITEBOX";
+}
+
+.suiteBox:hover::after {
+  content:"5U17380X";
+}

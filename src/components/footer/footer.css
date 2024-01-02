@@ -1,0 +1,30 @@
+.footerUl {
+	margin-top:17.5svh;
+	display:grid;
+	grid-template-columns:1fr 1fr 1fr;
+	grid-gap:0;
+	padding:0;
+}
+
+.footerLi {
+	font-size:var(--font-size-secondary);
+	position:relative;
+	text-align:left;
+	line-height:1.5;
+	color:#a0a0a0;
+}
+
+@media (max-width: 960px) {
+	.footerUl {
+		margin-top:15svh;
+		grid-template-columns:1fr 1fr 1fr;
+	}
+}
+
+
+@media (max-width: 480px) {
+	.footerUl {
+		margin-top:12.5svh;
+		grid-template-columns:1fr 1fr;
+	}
+}
