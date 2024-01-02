@@ -26,7 +26,7 @@ const Projects = () => {
 			<Navbar
 				button="KW"
 				buttonClassName="previousPage clickable glitch layers"
-				ariaLabel="Go to my Home page"
+				ariaLabel="Go to KW i.e. home page"
 				buttonHref="/"
 				slash="&nbsp;/&nbsp;"
 				slashClassName="slash"
