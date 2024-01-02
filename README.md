@@ -1,36 +1,40 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Hi, I'm Kunal! </br>Computer Engineering and Cybersecurity Student.
 
-## Getting Started
+<!-- ## Portfolio:
+- [KW](https://kunalwalavalkar.github.io) -->
 
-First, run the development server:
+## Projects:
+- ### Python
+  - [D|Cipher](https://github.com/Knign/D-Cipher) - Cryptography toolkit that allows users to encrypt and decrypt their text using an algorithm of their choice.
+  - [Probe](https://github.com/Knign/Probe) - Portscanner that implements multithreading for swift scans.
+  - [NetSleuth](https://github.com/Knign/NetSleuth) - Network scanner that finds all the devices connected in the network.
+  - [Image Metadata Viewer](https://github.com/Knign/Image-Metadata-Viewer)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- ### C
+  - [Hexplorer](https://github.com/Knign/Hexplorer) - Command-Line utility to dump the binary and hexadecimal rendition of a file.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- ### PowerShell
+  - [EmpowerShell](https://github.com/Knign/EmpowerShell) - Command-Line script that compares hashes to check the integrity of files.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- ### Web development
+  - [RiSkore](https://github.com/Knign/RiSkore) - Web app to evaluate the risk faced by your organization.
+  - [Signum](https://github.com/Knign/Signum) - Web app to generate passwords and check their strength.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+<!-- ## Socials:
+  - [Linkedin](https://linkedin.com/in/kunal-walavalkar-58528a216/)
+  - [Instagram](https://www.instagram.com/kunalxwalavalkar/) -->
 
-## Learn More
+<!--
+**kunalwalavalkar/kunalwalavalkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-To learn more about Next.js, take a look at the following resources:
+Here are some ideas to get you started:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
