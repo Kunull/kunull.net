@@ -2,6 +2,13 @@ import Navbar from '../../components/navbar/navbar';
 import Footer from '../../components/footer/footer';
 import Button from '../../components/button/button';
 
+export const metadata = {
+  title: 'Certifications | Kunal Walavalkar',
+  openGraph: {
+    title: 'Certifications | Kunal Walavalkar',
+  },
+}
+
 const Certifications = () => {
 	return (
 		<>
