@@ -1,6 +1,6 @@
 {
-  "name": "My awesome PWA app",
-  "short_name": "PWA App",
+  "name": "Kunal Walavalkar | Cybersecurity",
+  "short_name": "Kunal Walavalkar | Cybersecurity",
   "icons": [
     {
       "src": "/assets/pwa/icon-192x192.png",
@@ -25,8 +25,8 @@
       "type": "image/png"
     }
   ],
-  "theme_color": "#FFFFFF",
-  "background_color": "#FFFFFF",
+  "theme_color": "#000",
+  "background_color": "#000",
   "start_url": "/",
   "display": "standalone",
   "orientation": "portrait"
