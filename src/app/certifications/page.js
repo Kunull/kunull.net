@@ -58,7 +58,7 @@ const Certifications = () => {
 								buttonClassName="google clickable pages"
 								buttonHref="/assets/certs/Google_Cybersecurity_Professional_Certificate.pdf"
 								target="_blank"
-								aria-label="Check out my Google Cybersecurity certificate"
+								ariaLabel="Check out my Google Cybersecurity certificate"
 							/>
 						</div>
 						<p className="description">Google Cybersecurity Professional Certitificate.</p>
@@ -86,7 +86,7 @@ const Certifications = () => {
 								buttonClassName="nse clickable pages"
 								buttonHref="/assets/certs/NSE_Certification.pdf"
 								target="_blank"
-								aria-label="Check out my NSE certificate"
+								ariaLabel="Check out my NSE certificate"
 							/>
 						</div>
 						<p className="description">Fortinet Training Institute Network Security Expert.</p>
