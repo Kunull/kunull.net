@@ -2,8 +2,14 @@ import Navbar from '../../components/navbar/navbar';
 import Footer from '../../components/footer/footer';
 import Button from '../../components/button/button';
 
-const Projects = () => {
+export const metadata = {
+  title: 'Projects | Kunal Walavalkar',
+  openGraph: {
+    title: 'Projects | Kunal Walavalkar',
+  },
+}
 
+const Projects = () => {
 	return (
 		<>
 			<div className="sticky">
