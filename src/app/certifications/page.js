@@ -84,7 +84,7 @@ const Certifications = () => {
 							<Button
 								button=""
 								buttonClassName="nse clickable pages"
-								buttonHref="/assets/certs/NSE_Certification.pdf"
+								buttonHref="https://kunalwalavalkar/assets/certs/NSE_Certification.pdf"
 								target="_blank"
 								ariaLabel="Check out my NSE certificate"
 							/>
