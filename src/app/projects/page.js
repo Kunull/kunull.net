@@ -46,7 +46,7 @@ const Projects = () => {
 								buttonClassName="cipher clickable pages"
 								buttonHref="https://d-cipher.streamlit.app/"
 								target="_blank"
-								aria-label="Check out the D Cipher project"
+								ariaLabel="Check out the D Cipher project"
 							/>
 						</div>
 						<p className="description">Cryptography toolkit that allows users to encrypt and decrypt their text using an algorithm of their choice.</p>
@@ -59,7 +59,7 @@ const Projects = () => {
 								buttonClassName="empower clickable pages"
 								buttonHref="https://github.com/Knign/Custos-Shell"
 								target="_blank"
-								aria-label="Check out the Empowershell project"
+								ariaLabel="Check out the Empowershell project"
 							/>
 						</div>
 						<p className="description">Powershell utility script that compares hashes to check the integrity of files.</p>
@@ -72,7 +72,7 @@ const Projects = () => {
 								buttonClassName="hexplorer clickable pages"
 								buttonHref="https://github.com/Knign/Hexplorer/"
 								target="_blank"
-								aria-label="Check out the Hexplorer project"
+								ariaLabel="Check out the Hexplorer project"
 							/>
 						</div>
 						<p className="description">Command-Line utility to dump the binary and hexadecimal rendition of a file.</p>
@@ -85,7 +85,7 @@ const Projects = () => {
 								buttonClassName="netSleuth clickable pages"
 								buttonHref="https://github.com/Knign/NetSleuth/"
 								target="_blank"
-								aria-label="Check out the NetSleuth project"
+								ariaLabel="Check out the NetSleuth project"
 							/>
 						</div>
 						<p className="description">Network scanner that finds all the devices connected in the network.</p>
@@ -98,7 +98,7 @@ const Projects = () => {
 								buttonClassName="opensoc clickable pages"
 								buttonHref="https://github.com/Knign/OpenSOC"
 								target="_blank"
-								aria-label="Check out the OpenSOC project"
+								ariaLabel="Check out the OpenSOC project"
 							/>
 						</div>
 						<p className="description">Proof of concept for Security Operations Centre made using open source tools.</p>
@@ -124,7 +124,7 @@ const Projects = () => {
 								buttonClassName="probe clickable pages"
 								buttonHref="https://github.com/Knign/Probe"
 								target="_blank"
-								aria-label="Check out the Probe project"
+								ariaLabel="Check out the Probe project"
 							/>
 						</div>
 						<p className="description">Portscanner that implements multithreading for swift scans.</p>
@@ -151,7 +151,7 @@ const Projects = () => {
 								buttonClassName="signum clickable pages"
 								buttonHref="https://signum-mu.vercel.app/"
 								target="_blank"
-								aria-label="Check out the Signum project"
+								ariaLabel="Check out the Signum project"
 							/>
 						</div>
 						<p className="description">Web app to generate passwords and check their strength.</p>
@@ -164,6 +164,7 @@ const Projects = () => {
 								buttonClassName="steghound clickable pages"
 								buttonHref=""
 								target="_blank"
+								ariaLabel="Check out the Steghound project"
 							/>
 						</div>
 						<p className="description">Steganography tool that allows image, text, audio and video steganography.</p>
@@ -191,7 +192,7 @@ const Projects = () => {
 								buttonClassName="riskore clickable pages"
 								buttonHref="https://riskore.vercel.app/"
 								target="_blank"
-								aria-label="Check out the RiSkore project"
+								ariaLabel="Check out the RiSkore project"
 							/>
 						</div>
 						<p className="description">Web app to evaluate the risk faced by your organization.</p>
