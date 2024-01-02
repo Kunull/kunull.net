@@ -82,7 +82,7 @@ const Footer = ({ button, buttonClassName1, buttonClassName2, buttonClassName3, 
 					<Button 
 	          button=""
 				  	buttonClassName={buttonClassName4}
-						buttonHref="https://kunalwalavalkar.vercel.app/assets/key/kunalwalavalkar_public_key.txt"
+						buttonHref="https://kunalwalavalkar/assets/key/kunalwalavalkar_public_key.txt"
 						target="_blank"
 						ariaLabel="Get my public PGP key"
 	    		/>
