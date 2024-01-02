@@ -56,7 +56,7 @@ const Certifications = () => {
 							<Button
 								button=""
 								buttonClassName="google clickable pages"
-								buttonHref="https://kunalwalavalkar.vercel.app/Google_Cybersecurity_Professional_Certificate.pdf"
+								buttonHref="https://kunalwalavalkar.vercel.app/certifications/Google_Cybersecurity_Professional_Certificate.pdf"
 								target="_blank"
 								aria-label="Check out my Google Cybersecurity certificate"
 							/>
@@ -84,7 +84,7 @@ const Certifications = () => {
 							<Button
 								button=""
 								buttonClassName="nse clickable pages"
-								buttonHref="https://kunalwalavalkar.vercel.app/NSE_Certification.pdf"
+								buttonHref="https://kunalwalavalkar.vercel.app/certifications/NSE_Certification.pdf"
 								target="_blank"
 								aria-label="Check out my NSE certificate"
 							/>
