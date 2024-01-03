@@ -101,8 +101,8 @@ const Projects = () => {
 						<div className="capital">
 							<Button
 								button=""
-								buttonClassName="opensoc clickable pages"
-								buttonHref="https://github.com/Knign/OpenSOC"
+								buttonClassName="ossoc clickable pages"
+								buttonHref="https://ossoc.gitbook.io/"
 								target="_blank"
 								ariaLabel="Check out the OpenSOC project"
 							/>
