@@ -5,26 +5,26 @@ import '../button/button';
 const Footer = ({ button, buttonClassName1, buttonClassName2, buttonClassName3, buttonClassName4, buttonClassName5, buttonClassName6, buttonClassName7, buttonHref, slash, page, pageClassName}) => {
 	return (
 		<footer className="capital">
-      <ul className="footerUl">
+     			<ul className="footerUl">
 				<li className="footerLi">
 					<Button 
-	          button=""
+	          				button=""
 						buttonClassName={buttonClassName1}
 						buttonHref="mailto:walavalkarkunal@skiff.com"
 						target="_blank"
 						ariaLabel="Send me an email"
-	        />
+	        			/>
 				</li>
 		
 				<li className="footerLi">
-	        <Button 
-	    			button=""
+	        			<Button 
+	    					button=""
 						buttonClassName={buttonClassName2}
 						buttonHref="https://github.com/knign"
 						target="_blank"
-			  		ariaLabel="Go to my Github account"
-	  			/>
-    		</li>
+			  			ariaLabel="Go to my Github account"
+	  				/>
+    				</li>
 
 {/*
 					<li className="footerLi">
@@ -39,12 +39,12 @@ const Footer = ({ button, buttonClassName1, buttonClassName2, buttonClassName3, 
 
 				<li className="footerLi">
 					<Button 
-	          button=""
+	          				button=""
 						buttonClassName={buttonClassName3}
 						buttonHref="https://app.hackthebox.com/profile/1158503"
 						ariaLabel="Go to my Hack the Box account"
-	    		/>
-    		</li>
+	    				/>
+    				</li>
 
 {/*								
 					<li className="footerLi">
@@ -80,46 +80,45 @@ const Footer = ({ button, buttonClassName1, buttonClassName2, buttonClassName3, 
 
 				<li className="footerLi">
 					<Button 
-	          button=""
-				  	buttonClassName={buttonClassName4}
+	          				button=""
+				  		buttonClassName={buttonClassName4}
 						buttonHref="https://kunalwalavalkar.vercel.app/assets/key/kunalwalavalkar_public_key.txt"
 						target="_blank"
 						ariaLabel="Get my public PGP key"
-	    		/>
-  			</li>		
+	    				/>
+  				</li>		
 
-			  <li className="footerLi">
+			  	<li className="footerLi">
 					<Button 
-	    			button=""
+	    					button=""
 						buttonClassName={buttonClassName5}
 						buttonHref="https://kunalwalavalkar.vercel.app/assets/resume/Kunal Walavalkar Resume.pdf"
 						target="_blank"
 						ariaLabel="Check out my resume"
-	  			/>
+	  				/>
 				</li>		
 
 				<li className="footerLi">
 					<Button 
-	          button=""
+	          				button=""
 						buttonClassName={buttonClassName6}
 						buttonHref="https://tryhackme.com/p/Knign"
 						target="_blank"
 						ariaLabel="Go to my TryHackMe account"
-	    		/>
-  			</li>	
+	    				/>
+  				</li>	
 
 				<li className="footerLi">
 					<Button 
-	          button=""
+	          				button=""
 						buttonClassName={buttonClassName7}
-						buttonHref="https://kunalwalavalkarwrite-ups.vercel.app"
+						buttonHref="https://kunalwalavalkar.gitbook.io/write-ups/"
 						target="_blank"
 						ariaLabel="Check out my CTF write-ups"
-	    		/>
-      	</li>
-  		</ul>
-    </footer>
-
+	    				/>
+      				</li>
+  			</ul>
+    		</footer>
 	);
 };
 
