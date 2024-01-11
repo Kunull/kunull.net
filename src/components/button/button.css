@@ -53,6 +53,15 @@
 }
 
 
+.cc::after {
+  content:"CC";
+}
+
+.cc:hover::after {
+  content:"CC";
+}
+
+
 .certifications::after {
   content:"CERTIFICATIONS";
 }
@@ -239,6 +248,15 @@
 
 .ossoc:hover::after {
   content:"0550C";
+}
+
+
+.pnpt::after {
+  content:"PNPT";
+}
+
+.pnpt:hover::after {
+  content:"PNP7";
 }
 
 
