@@ -57,6 +57,19 @@ const Certifications = () => {
 						<p className="description">eLearnSecurity Junior Penetration Tester.</p>
 					</li>
 */}     
+
+					<li>
+						<div className="capital">
+							<Button
+								button=""
+								buttonClassName="cc clickable pages"
+								buttonHref=""
+								target="_blank"
+								ariaLabel="Check out my Certified in Cybersecurity certificate"
+							/>
+						</div>
+						<p className="description">ISC2 Certified in Cybersecurity.</p>
+					</li>
 	
 					<li>
 						<div className="capital">
@@ -69,6 +82,19 @@ const Certifications = () => {
 							/>
 						</div>
 						<p className="description">Google Cybersecurity Professional Certitificate.</p>
+					</li>
+
+					<li>
+						<div className="capital">
+							<Button
+								button=""
+								buttonClassName="pnpt clickable pages"
+								buttonHref=""
+								target="_blank"
+								ariaLabel="Check out my Practical Network Penetration Tester certificate"
+							/>
+						</div>
+						<p className="description">TCM Security Practical Network Penetration Tester.</p>
 					</li>
 	
 	{/*
