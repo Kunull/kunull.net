@@ -84,10 +84,9 @@ body {
 	margin-bottom: 12.5svh;
 	font-family: vcr, monospace;
 	animation: textShadow 1.6s infinite;
-/* 	text-shadow: .24vw .22vw rgba(0,150,180,.45),-.24vw -.22vw rgba(150,0,50,.45); */
-/* 	text-shadow: var(--shadow-x-distance) var(--shadow-y-distance) 0 rgba(0,160,180,.45),calc(var(--shadow-x-distance)*-1) calc(var(--shadow-y-distance)*-1) 0 rgba(150,0,50,.45); */
- 	text-shadow: var(--shadow-x-distance) var(--shadow-y-distance) 0 rgba(30,120,180,.5),calc(var(--shadow-x-distance)*-1) calc(var(--shadow-y-distance)*-1) 0 rgba(150,25,100,.5);
-/* 	text-shadow: 0 0 0.3vw #fff; */
+/*
+	text-shadow: var(--shadow-x-distance) var(--shadow-y-distance) 0 rgba(30,120,180,.5),calc(var(--shadow-x-distance)*-1) calc(var(--shadow-y-distance)*-1) 0 rgba(150,25,100,.5);
+*/
 	cursor: url('/assets/images/cursor-default.png') 0 0, auto;
 }
 
