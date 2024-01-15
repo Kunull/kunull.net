@@ -84,7 +84,7 @@ body {
 	margin-bottom: 12.5svh;
 	font-family: vcr, monospace;
 	animation: textShadow 1.6s infinite;
-	text-shadow: var(--shadow-x-distance) var(--shadow-y-distance) 0 rgba(30,120,180,.5),calc(var(--shadow-x-distance)*-1) calc(var(--shadow-y-distance)*-1) 0 rgba(150,25,100,.5);
+	text-shadow: var(--shadow-x-distance) var(--shadow-y-distance) 0 rgba(30,120,180,.5),calc(var(--shadow-x-distance)*-1) calc(var(--shadow-y-distance)*-1) 0 rgba(120,20,80,.5);
 	cursor: url('/assets/images/cursor-default.png') 0 0, auto;
 }
 
