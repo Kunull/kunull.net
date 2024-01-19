@@ -42,6 +42,7 @@ const Footer = () => {
 	          				button=""
 						buttonClassName="hackTheBox clickable"
 						buttonHref="https://app.hackthebox.com/profile/1158503"
+						target="_blank"
 						ariaLabel="Visit my HackTheBox profile"
 	    				/>
     				</li>
