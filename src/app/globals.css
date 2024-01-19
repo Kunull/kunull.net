@@ -77,7 +77,7 @@ body .invertCursor{
 } 
 
 body {
-	background-color: rgba(0, 0, 0, 0.96);
+	background-color: rgba(0, 0, 0, 0.97);
 	margin-left: 10%;
 	margin-right: 10%;
 	margin-top: 12.5svh;
@@ -622,7 +622,7 @@ p {
 	height: 120%;
 	width: 100%;
 	background-size: cover;
-	opacity: 0.06;
+	opacity: 0.065;
 	z-index: -12;
 }
 
