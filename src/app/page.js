@@ -127,15 +127,7 @@ const Home = () => {
 				</p>
 			</main>
 
-			<Footer
-				buttonClassName1="email clickable "	
-				buttonClassName2="github clickable "
-				buttonClassName3="hackTheBox clickable "
-				buttonClassName4="key clickable "
-				buttonClassName5="resume clickable "
-				buttonClassName6="tryHackMe clickable "
-				buttonClassName7="writeUps clickable "
-			/>
+			<Footer/>
 		</>
 	);
 };
