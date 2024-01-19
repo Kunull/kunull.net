@@ -9,7 +9,7 @@ const Footer = () => {
 				<li className="footerLi">
 					<Button 
 	          				button=""
-						buttonClassName="email"
+						buttonClassName="email clickable"
 						buttonHref="mailto:walavalkarkunal@skiff.com"
 						target="_blank"
 						ariaLabel="Send me an email"
@@ -19,7 +19,7 @@ const Footer = () => {
 				<li className="footerLi">
 	        			<Button 
 	    					button=""
-						buttonClassName="github"
+						buttonClassName="github clickable"
 						buttonHref="https://github.com/knign"
 						target="_blank"
 			  			ariaLabel="Go to my Github account"
@@ -40,7 +40,7 @@ const Footer = () => {
 				<li className="footerLi">
 					<Button 
 	          				button=""
-						buttonClassName="hackTheBox"
+						buttonClassName="hackTheBox clickable"
 						buttonHref="https://app.hackthebox.com/profile/1158503"
 						ariaLabel="Go to my Hack the Box account"
 	    				/>
@@ -81,7 +81,7 @@ const Footer = () => {
 				<li className="footerLi">
 					<Button 
 	          				button=""
-				  		buttonClassName="key"
+				  		buttonClassName="key clickable"
 						buttonHref="https://kunalwalavalkar.vercel.app/assets/key/kunalwalavalkar_public_key.txt"
 						target="_blank"
 						ariaLabel="Get my public PGP key"
@@ -91,7 +91,7 @@ const Footer = () => {
 			  	<li className="footerLi">
 					<Button 
 	    					button=""
-						buttonClassName="resume"
+						buttonClassName="resume clickable"
 						buttonHref="https://kunalwalavalkar.vercel.app/assets/resume/Kunal Walavalkar Resume.pdf"
 						target="_blank"
 						ariaLabel="Check out my resume"
@@ -101,7 +101,7 @@ const Footer = () => {
 				<li className="footerLi">
 					<Button 
 	          				button=""
-						buttonClassName="tryHackMe"
+						buttonClassName="tryHackMe clickable"
 						buttonHref="https://tryhackme.com/p/Knign"
 						target="_blank"
 						ariaLabel="Go to my TryHackMe account"
@@ -111,7 +111,7 @@ const Footer = () => {
 				<li className="footerLi">
 					<Button 
 	          				button=""
-						buttonClassName="writeUps"
+						buttonClassName="writeUps clickable"
 						buttonHref="https://kunalwalavalkar.gitbook.io/write-ups/"
 						target="_blank"
 						ariaLabel="Check out my CTF write-ups"
