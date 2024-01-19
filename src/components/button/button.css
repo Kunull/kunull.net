@@ -224,6 +224,15 @@
 }
 
 
+.linkedin::after {
+  content:"LINKEDIN";
+}
+
+.linkedin:hover::after {
+  content:"L1NK3D1N";
+}
+
+
 .netSleuth::after {
   content:"NETSLEUTH";
 }
