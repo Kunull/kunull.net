@@ -2,14 +2,14 @@ import Button from '../button/button';
 import './footer.css';
 import '../button/button';
 
-const Footer = ({ button, buttonClassName1, buttonClassName2, buttonClassName3, buttonClassName4, buttonClassName5, buttonClassName6, buttonClassName7, buttonHref, slash, page, pageClassName}) => {
+const Footer = () => {
 	return (
 		<footer className="capital">
      			<ul className="footerUl">
 				<li className="footerLi">
 					<Button 
 	          				button=""
-						buttonClassName={buttonClassName1}
+						buttonClassName="email"
 						buttonHref="mailto:walavalkarkunal@skiff.com"
 						target="_blank"
 						ariaLabel="Send me an email"
@@ -19,7 +19,7 @@ const Footer = ({ button, buttonClassName1, buttonClassName2, buttonClassName3, 
 				<li className="footerLi">
 	        			<Button 
 	    					button=""
-						buttonClassName={buttonClassName2}
+						buttonClassName="github"
 						buttonHref="https://github.com/knign"
 						target="_blank"
 			  			ariaLabel="Go to my Github account"
@@ -40,7 +40,7 @@ const Footer = ({ button, buttonClassName1, buttonClassName2, buttonClassName3, 
 				<li className="footerLi">
 					<Button 
 	          				button=""
-						buttonClassName={buttonClassName3}
+						buttonClassName="hackTheBox"
 						buttonHref="https://app.hackthebox.com/profile/1158503"
 						ariaLabel="Go to my Hack the Box account"
 	    				/>
@@ -81,7 +81,7 @@ const Footer = ({ button, buttonClassName1, buttonClassName2, buttonClassName3, 
 				<li className="footerLi">
 					<Button 
 	          				button=""
-				  		buttonClassName={buttonClassName4}
+				  		buttonClassName="key"
 						buttonHref="https://kunalwalavalkar.vercel.app/assets/key/kunalwalavalkar_public_key.txt"
 						target="_blank"
 						ariaLabel="Get my public PGP key"
@@ -91,7 +91,7 @@ const Footer = ({ button, buttonClassName1, buttonClassName2, buttonClassName3, 
 			  	<li className="footerLi">
 					<Button 
 	    					button=""
-						buttonClassName={buttonClassName5}
+						buttonClassName="resume"
 						buttonHref="https://kunalwalavalkar.vercel.app/assets/resume/Kunal Walavalkar Resume.pdf"
 						target="_blank"
 						ariaLabel="Check out my resume"
@@ -101,7 +101,7 @@ const Footer = ({ button, buttonClassName1, buttonClassName2, buttonClassName3, 
 				<li className="footerLi">
 					<Button 
 	          				button=""
-						buttonClassName={buttonClassName6}
+						buttonClassName="tryHackMe"
 						buttonHref="https://tryhackme.com/p/Knign"
 						target="_blank"
 						ariaLabel="Go to my TryHackMe account"
@@ -111,7 +111,7 @@ const Footer = ({ button, buttonClassName1, buttonClassName2, buttonClassName3, 
 				<li className="footerLi">
 					<Button 
 	          				button=""
-						buttonClassName={buttonClassName7}
+						buttonClassName="writeUps"
 						buttonHref="https://kunalwalavalkar.gitbook.io/write-ups/"
 						target="_blank"
 						ariaLabel="Check out my CTF write-ups"
