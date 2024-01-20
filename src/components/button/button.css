@@ -324,20 +324,20 @@
 }
 
 
-.tryHackMe::after {
+.try-hack-me::after {
   content:"TRYHACKME";
 }
 
-.tryHackMe:hover::after {
+.try-hack-me:hover::after {
   content:"7RYH4CKM3";
 }
 
 
-.writeUps::after {
+.write-ups::after {
   content:"WRITE-UPS";
 }
 
-.writeUps:hover::after {
+.write-ups:hover::after {
   content:"WR173-UP5";
 }
 
