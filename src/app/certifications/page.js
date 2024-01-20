@@ -121,7 +121,7 @@ const Certifications = () => {
 								ariaLabel="Check out my CompTIA Security+ certificate"
 							/>
 						</div>
-						<p className="description">CompTIA Security+ certificate.</p>
+						<p className="description">CompTIA Security+ (SY0-701) certificate.</p>
 					</li>
 
 
