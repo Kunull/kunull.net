@@ -57,7 +57,7 @@ const Certifications = () => {
 						<p className="description">eLearnSecurity Junior Penetration Tester.</p>
 					</li>
 */}     
-
+{/*
 					<li>
 						<div className="capital">
 							<Button
@@ -70,7 +70,8 @@ const Certifications = () => {
 						</div>
 						<p className="description">ISC2 Certified in Cybersecurity.</p>
 					</li>
-	
+*/}  
+									
 					<li>
 						<div className="capital">
 							<Button
