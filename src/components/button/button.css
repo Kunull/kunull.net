@@ -315,11 +315,11 @@
 }
 
 
-.security+::after {
+.security-plus::after {
   content:"SECURITY+";
 }
 
-.security+:hover::after {
+.security-plus:hover::after {
   content:"53CUR17Y+";
 }
 
