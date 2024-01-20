@@ -40,7 +40,7 @@ const Footer = () => {
 				<li className="footerLi">
 					<Button 
 	          				button=""
-						buttonClassName="hackTheBox clickable"
+						buttonClassName="hack-the-box clickable"
 						buttonHref="https://app.hackthebox.com/profile/1158503"
 						target="_blank"
 						ariaLabel="Visit my HackTheBox profile"
@@ -111,7 +111,7 @@ const Footer = () => {
 				<li className="footerLi">
 					<Button 
 	          				button=""
-						buttonClassName="tryHackMe clickable"
+						buttonClassName="try-hack-me clickable"
 						buttonHref="https://tryhackme.com/p/Knign"
 						target="_blank"
 						ariaLabel="Visit my TryHackMe profile"
@@ -121,7 +121,7 @@ const Footer = () => {
 				<li className="footerLi">
 					<Button 
 	          				button=""
-						buttonClassName="writeUps clickable"
+						buttonClassName="write-ups clickable"
 						buttonHref="https://kunalwalavalkar.gitbook.io/write-ups/"
 						target="_blank"
 						ariaLabel="Check out my CTF write-ups"
