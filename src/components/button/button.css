@@ -135,11 +135,11 @@
 
 
 .google::after {
-  content:"GCPC";
+  content:"GCP";
 }
 
 .google:hover::after {
-  content:"6CPC";
+  content:"6CP";
 }
 
 
@@ -312,6 +312,15 @@
 
 .signum:hover::after {
   content:"516NUM";
+}
+
+
+.security+::after {
+  content:"SECURITY+";
+}
+
+.security+:hover::after {
+  content:"53CUR17Y+";
 }
 
 
