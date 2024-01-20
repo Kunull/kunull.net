@@ -152,11 +152,11 @@
 }
 
 
-.hackTheBox::after {
+.hack-the-box::after {
   content:"HACKTHEBOX";
 }
 
-.hackTheBox:hover::after {
+.hack-the-box:hover::after {
   content:"H4CK7H380X";
 }
 
