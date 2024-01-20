@@ -79,12 +79,25 @@ const Certifications = () => {
 								buttonClassName="google clickable pages"
 								buttonHref="/assets/certifications/Google_Cybersecurity_Professional_Certificate.pdf"
 								target="_blank"
-								ariaLabel="Check out my Google Cybersecurity certificate"
+								ariaLabel="Check out my Google Cybersecurity Professional certificate"
 							/>
 						</div>
-						<p className="description">Google Cybersecurity Professional Certitificate.</p>
+						<p className="description">Google Cybersecurity Professional certificate.</p>
 					</li>
 
+					<li>
+						<div className="capital">
+							<Button
+								button=""
+								buttonClassName="nse clickable pages"
+								buttonHref="/assets/certifications/NSE_Certification.pdf"
+								target="_blank"
+								ariaLabel="Check out my NSE certificate"
+							/>
+						</div>
+						<p className="description">Fortinet Training Institute Network Security Expert certificate.</p>
+					</li>
+									
 					<li>
 						<div className="capital">
 							<Button
@@ -95,9 +108,24 @@ const Certifications = () => {
 								ariaLabel="Check out my Practical Network Penetration Tester certificate"
 							/>
 						</div>
-						<p className="description">TCM Security Practical Network Penetration Tester.</p>
+						<p className="description">TCM Security Practical Network Penetration Tester certificate.</p>
 					</li>
-	
+
+					<li>
+						<div className="capital">
+							<Button
+								button=""
+								buttonClassName="security+ clickable pages"
+								buttonHref=""
+								target="_blank"
+								ariaLabel="Check out my CompTIA Security+ certificate"
+							/>
+						</div>
+						<p className="description">CompTIA Security+ certificate.</p>
+					</li>
+
+
+
 	{/*
 					<li>
 						<h2>
@@ -113,18 +141,7 @@ const Certifications = () => {
 					</li>
 	
 	*/}
-					<li>
-						<div className="capital">
-							<Button
-								button=""
-								buttonClassName="nse clickable pages"
-								buttonHref="/assets/certifications/NSE_Certification.pdf"
-								target="_blank"
-								ariaLabel="Check out my NSE certificate"
-							/>
-						</div>
-						<p className="description">Fortinet Training Institute Network Security Expert.</p>
-					</li>
+
 	      			</ul>
 
 			</main>
