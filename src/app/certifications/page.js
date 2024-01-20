@@ -115,7 +115,7 @@ const Certifications = () => {
 						<div className="capital">
 							<Button
 								button=""
-								buttonClassName="security+ clickable pages"
+								buttonClassName="security-plus clickable pages"
 								buttonHref=""
 								target="_blank"
 								ariaLabel="Check out my CompTIA Security+ certificate"
