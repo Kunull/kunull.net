@@ -111,6 +111,7 @@ const Certifications = () => {
 						<p className="description">TCM Security Practical Network Penetration Tester certificate.</p>
 					</li>
 
+	{/*
 					<li>
 						<div className="capital">
 							<Button
@@ -123,7 +124,7 @@ const Certifications = () => {
 						</div>
 						<p className="description">CompTIA Security+ (SY0-701) certificate.</p>
 					</li>
-
+	*/}
 
 
 	{/*
