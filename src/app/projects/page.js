@@ -162,7 +162,8 @@ const Projects = () => {
 						</div>
 						<p className="description">Web app to generate passwords and check their strength.</p>
 					</li>
-	
+
+	{/*
 					<li>
 						<div className="capital">
 							<Button
@@ -175,8 +176,9 @@ const Projects = () => {
 						</div>
 						<p className="description">Steganography tool that allows image, text, audio and video steganography.</p>
 					</li>
-									
-{/*
+	*/}
+
+	{/*
 					<li>
 						<div className="capital">
 							<Button
