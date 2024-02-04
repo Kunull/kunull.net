@@ -3,9 +3,9 @@ import Footer from '../../components/footer/footer';
 import Button from '../../components/button/button';
 
 export const metadata = {
-  title: 'Kunal Walavalkar | Projects',
+  title: 'Projects | Kunal Walavalkar',
   openGraph: {
-    title: 'Kunal Walavalkar | Projects',
+    title: 'Projects | Kunal Walavalkar',
   },
 }
 
