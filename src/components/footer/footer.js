@@ -6,6 +6,16 @@ const Footer = () => {
 	return (
 		<footer className="capital">
      			<ul className="footerUl">
+		<		li className="footerLi">
+					<Button 
+	          				button=""
+						buttonClassName="blog clickable"
+						buttonHref="https://kunalwalavalkarblog.vercel.app"
+						target="_blank"
+						ariaLabel="Visit my blog"
+	        			/>
+				</li>
+							
 				<li className="footerLi">
 					<Button 
 	          				button=""
@@ -36,7 +46,7 @@ const Footer = () => {
 	    					/>
           				</li>
 */}
-
+{/*
 				<li className="footerLi">
 					<Button 
 	          				button=""
@@ -46,7 +56,7 @@ const Footer = () => {
 						ariaLabel="Visit my HackTheBox profile"
 	    				/>
     				</li>
-
+*/}
 {/*								
 					<li className="footerLi">
 						<Button 
@@ -108,6 +118,7 @@ const Footer = () => {
 	  				/>
 				</li>		
 
+{/*							
 				<li className="footerLi">
 					<Button 
 	          				button=""
@@ -117,6 +128,7 @@ const Footer = () => {
 						ariaLabel="Visit my TryHackMe profile"
 	    				/>
   				</li>	
+*/}
 
 				<li className="footerLi">
 					<Button 
@@ -124,7 +136,7 @@ const Footer = () => {
 						buttonClassName="write-ups clickable"
 						buttonHref="https://kunalwalavalkar.gitbook.io/write-ups/"
 						target="_blank"
-						ariaLabel="Check out my CTF write-ups"
+						ariaLabel="Visit out my CTF write-ups"
 	    				/>
       				</li>
   			</ul>
