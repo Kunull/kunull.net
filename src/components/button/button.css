@@ -53,6 +53,15 @@
 }
 
 
+.blog::after {
+  content:"BLOG";
+}
+
+.blog:hover::after {
+  content:"8L06";
+}
+
+
 .cc::after {
   content:"CC";
 }
