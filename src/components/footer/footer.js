@@ -134,7 +134,7 @@ const Footer = () => {
 					<Button 
 	          				button=""
 						buttonClassName="write-ups clickable"
-						buttonHref="https://kunalwalavalkar.gitbook.io/write-ups/"
+						buttonHref="https://kunalwalavalkarwrite-ups.vercel.app"
 						target="_blank"
 						ariaLabel="Visit out my CTF write-ups"
 	    				/>
