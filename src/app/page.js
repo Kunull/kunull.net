@@ -98,7 +98,7 @@ const Home = () => {
 					<span className="personal">IN MY FREE TIME I LIKE TO SOLVE CTF CHALLENGES AND MAKE </span>
 					<Button 
 						button="" 
-						buttonClassName="writeUps clickable pages" 
+						buttonClassName="write-ups clickable pages" 
 						buttonHref="https://kunalwalavalkar.gitbook.io/write-ups/" 
 						target="_blank"
 						ariaLabel="Go to my Write-Ups page"
