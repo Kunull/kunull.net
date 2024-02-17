@@ -203,7 +203,7 @@ const Projects = () => {
 								ariaLabel="Check out the RiSkore project"
 							/>
 						</div>
-						<p className="description">Web app to evaluate the risk faced by your organization.</p>
+						<p className="description">Web app to evaluate the risk faced by an organization.</p>
 					</li>
 				</ul>
 			</main>
