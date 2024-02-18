@@ -87,7 +87,7 @@ body {
 /* 	text-shadow: var(--shadow-x-distance) var(--shadow-y-distance) 0 rgba(30,120,180,.5),calc(var(--shadow-x-distance)*-1) calc(var(--shadow-y-distance)*-1) 0 rgba(135,22.5,90,.5);
  */
 
-	text-shadow: var(--shadow-x-distance) var(--shadow-y-distance) 0 #222,calc(var(--shadow-x-distance)/2) calc(var(--shadow-y-distance)/2) 0 #111;
+	text-shadow: calc(var(--shadow-x-distance)/2) calc(var(--shadow-y-distance)/2) 0 #111, var(--shadow-x-distance) var(--shadow-y-distance) 0 #222;
 	cursor: url('/assets/images/cursor-default.png') 0 0, auto;
 }
 
