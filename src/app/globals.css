@@ -66,7 +66,7 @@ html {
 	--text-secondary: #909090;
 /* 	--shadow-x-distance: 4px; */
 /*   	--shadow-y-distance: 3px; */
-	--shadow-x-distance: 7.5px;
+	--shadow-x-distance: 6px;
 	--shadow-y-distance: 0px;
 	--font-primary: "VCR OSD Mono",monospace;
  	--font-size-primary: clamp(24px,4.2vw,84px);
@@ -844,7 +844,7 @@ li {
 	:root {
 /* 		--shadow-x-distance: 3px; */
 /* 		--shadow-y-distance: 2px; */
-		--shadow-x-distance: 5.25px;
+		--shadow-x-distance: 4.8px;
 		--shadow-y-distance: 0px;
 	}
 }
@@ -863,7 +863,7 @@ li {
 	:root {
 /* 		--shadow-x-distance: 2px; */
 /* 		--shadow-y-distance: 1px; */
-		--shadow-x-distance: 3.75px;
+		--shadow-x-distance: 3px;
 		--shadow-y-distance: 0px;
 	}
 }
