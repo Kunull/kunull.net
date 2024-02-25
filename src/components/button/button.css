@@ -261,11 +261,11 @@
 
 
 .ossoc::after {
-  content:"OSSOC";
+  content:"O.S.S.O.C.";
 }
 
 .ossoc:hover::after {
-  content:"0550C";
+  content:"0.5.5.0.C.";
 }
 
 
