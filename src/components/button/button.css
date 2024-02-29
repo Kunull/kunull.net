@@ -108,11 +108,11 @@
 
 
 .ejpt::after {
-  content:"eJPT";
+  content:"EJPT";
 }
 
 .ejpt:hover::after {
-  content:"eJP7";
+  content:"3JP7";
 }
 
 
