@@ -43,8 +43,7 @@ const Certifications = () => {
 
 			<main>
 				<ul>
-
-{/*					<li>
+					<li>
 						<div className="capital">
 							<Button
 								button=""
@@ -56,7 +55,7 @@ const Certifications = () => {
 						</div>
 						<p className="description">eLearnSecurity Junior Penetration Tester.</p>
 					</li>
-*/}     
+     
 {/*
 					<li>
 						<div className="capital">
@@ -70,8 +69,8 @@ const Certifications = () => {
 						</div>
 						<p className="description">ISC2 Certified in Cybersecurity.</p>
 					</li>
-*/}  
-									
+*/} 
+
 					<li>
 						<div className="capital">
 							<Button
@@ -97,7 +96,8 @@ const Certifications = () => {
 						</div>
 						<p className="description">Fortinet Training Institute Network Security Expert certificate.</p>
 					</li>
-									
+
+{/*
 					<li>
 						<div className="capital">
 							<Button
@@ -110,6 +110,7 @@ const Certifications = () => {
 						</div>
 						<p className="description">TCM Security Practical Network Penetration Tester certificate.</p>
 					</li>
+*/}
 
 	{/*
 					<li>
