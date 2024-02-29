@@ -107,6 +107,15 @@
 }
 
 
+.ejpt::after {
+  content:"eJPT";
+}
+
+.ejpt:hover::after {
+  content:"eJP7";
+}
+
+
 .email::after {
   content:"EMAIL";
 }
