@@ -68,7 +68,7 @@ const Home = () => {
 				</p>								
 								
 				<p className='spacing'>
-					<span className="personal">ON THIS WEBSITE YOU CAN FIND MY </span>
+					<span className="personal">THIS WEBSITE IS A MEANS TO SHOWCASE MY </span>
 					<Button 
 						button="" 
 						buttonClassName="projects clickable pages" 
