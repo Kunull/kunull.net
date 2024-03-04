@@ -65,10 +65,8 @@ const Home = () => {
      					</span>
 */}	
 					<span className="personal">, A COMPUTER ENGINEERING AND CYBER SECURITY STUDENT.</span>
-				</p>
 				
-				<p className='spacing'>
-					<span className="personal">THIS WEBSITE IS A MEANS TO SHOWCASE MY </span>
+					<span className="personal"> THIS WEBSITE IS A MEANS TO SHOWCASE MY </span>
 					<Button 
 						button="" 
 						buttonClassName="projects clickable pages" 
