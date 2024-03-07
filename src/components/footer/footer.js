@@ -112,7 +112,7 @@ const Footer = () => {
 					<Button 
 	    					button=""
 						buttonClassName="resume clickable"
-						buttonHref="https://kunalwalavalkar.vercel.app/assets/resume/Kunal Walavalkar Resume.pdf"
+						buttonHref="https://kunalwalavalkar.vercel.app/assets/resume/Kunal-Walavalkar-Resume.pdf"
 						target="_blank"
 						ariaLabel="Check out my resume"
 	  				/>
