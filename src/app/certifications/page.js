@@ -85,15 +85,15 @@ const Certifications = () => {
 					</li>
 
 					<li>
-						<h2>
+						<div className="capital">
 							<Button
 								button=""
 								buttonClassName="icca clickable pages"
-								buttonHref=""
+								buttonHref="/assets/certifications/NSE-Certification.pdf"
 								target="_blank"
-								aria-label="Check out my ICCA certificate"
+								ariaLabel="Check out my ICCA certificate"
 							/>
-						</h2>
+						</div>
 						<p className="description">INE Certified Cloud Associate.</p>
 					</li>
 
