@@ -85,6 +85,19 @@ const Certifications = () => {
 					</li>
 
 					<li>
+						<h2>
+							<Button
+								button=""
+								buttonClassName="icca clickable pages"
+								buttonHref=""
+								target="_blank"
+								aria-label="Check out my ICCA certificate"
+							/>
+						</h2>
+						<p className="description">INE Certified Cloud Associate.</p>
+					</li>
+
+					<li>
 						<div className="capital">
 							<Button
 								button=""
@@ -127,27 +140,8 @@ const Certifications = () => {
 					</li>
 	*/}
 
-
-	{/*
-					<li>
-						<h2>
-							<Button
-								button=""
-								buttonClassName="icca clickable pages"
-								buttonHref=""
-								target="_blank"
-								aria-label="Check out my ICCA certificate"
-							/>
-						</h2>
-						<p className="description">INE Certified Cloud Associate.</p>
-					</li>
-	
-	*/}
-
 	      			</ul>
-
-			</main>
-								
+			</main>					
 			<Footer/>
 		</>
 	);
