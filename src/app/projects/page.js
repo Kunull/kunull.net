@@ -30,7 +30,7 @@ const Projects = () => {
         		</div> 
 */}
 			<Navbar
-				button="KW"
+				button="KUNULL"
 				buttonClassName="previousPage clickable glitch layers"
 				ariaLabel="Go to KW i.e. home page"
 				buttonHref="/"
