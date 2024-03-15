@@ -26,7 +26,7 @@ const Navbar = ({ button, buttonClassName, buttonHref, slash, slashClassName, pa
 							<Button 
 		            button=""
 								buttonClassName={pageOption1}
-								buttonHref="https://kunalwalavalkar.vercel.app/certifications"
+								buttonHref="/certifications"
 								ariaLabel={ariaLabel1}
 		   				/>
 	    			</li>
@@ -45,7 +45,7 @@ const Navbar = ({ button, buttonClassName, buttonHref, slash, slashClassName, pa
 							<Button 
 		            button=""
 								buttonClassName={pageOption3}
-								buttonHref="https://kunalwalavalkar.vercel.app/projects"
+								buttonHref="/projects"
 								ariaLabel={ariaLabel3}
 		    			/>
     				</li>
