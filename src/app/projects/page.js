@@ -63,7 +63,7 @@ const Projects = () => {
 							<Button
 								button=""
 								buttonClassName="empower clickable pages"
-								buttonHref="https://github.com/Knign/Custos-Shell"
+								buttonHref="https://github.com/KuNull/Custos-Shell"
 								target="_blank"
 								ariaLabel="Check out the Empowershell project"
 							/>
@@ -76,7 +76,7 @@ const Projects = () => {
 							<Button
 								button=""
 								buttonClassName="hexplorer clickable pages"
-								buttonHref="https://github.com/Knign/Hexplorer/"
+								buttonHref="https://github.com/KuNull/Hexplorer/"
 								target="_blank"
 								ariaLabel="Check out the Hexplorer project"
 							/>
@@ -89,7 +89,7 @@ const Projects = () => {
 							<Button
 								button=""
 								buttonClassName="netSleuth clickable pages"
-								buttonHref="https://github.com/Knign/NetSleuth/"
+								buttonHref="https://github.com/KuNull/NetSleuth/"
 								target="_blank"
 								ariaLabel="Check out the NetSleuth project"
 							/>
@@ -128,7 +128,7 @@ const Projects = () => {
 							<Button
 								button=""
 								buttonClassName="probe clickable pages"
-								buttonHref="https://github.com/Knign/Probe"
+								buttonHref="https://github.com/KuNull/Probe"
 								target="_blank"
 								ariaLabel="Check out the Probe project"
 							/>
@@ -142,7 +142,7 @@ const Projects = () => {
 							<Button
 								button=""
 								buttonClassName="pyrefox clickable pages"
-								buttonHref="https://github.com/Knign/PyreFox"
+								buttonHref="https://github.com/KuNull/PyreFox"
 								target="_blank"
 							/>
 						</h2>
