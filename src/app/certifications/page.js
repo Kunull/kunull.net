@@ -28,7 +28,7 @@ const Certifications = () => {
             <h2 className="current">PROJECTS ►</h2>
         </div> */}
 			<Navbar
-				button="KW"
+				button="KUNULL"
 				buttonClassName="previousPage clickable glitch layers"
 				buttonHref="/"
 				ariaLabel="Go to KW i.e. home page"
