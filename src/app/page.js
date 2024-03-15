@@ -34,7 +34,7 @@ const Home = () => {
 				buttonHref=""
 				slash=""
 				slashClassName=""
-				page="KW"
+				page="KUNULL"
 				pageClassName="currentPage glitch layers"
 				pageOption1="certifications clickable"
 				ariaLabel1="Go to my Certifications page"
