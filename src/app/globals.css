@@ -126,15 +126,15 @@ p {
 }
 
 .layers::before {
-  top: 0.65vw;
-  left: 0.95vw;
+  top: 0.45vw;
+  left: 0.65vw;
 /*   color: rgba(0,160,190,1); */
   color: #ddd;
 }
 
 .layers::after {
-  top: 0.3vw;
-  left: -0.65vw;
+  top: 0.2vw;
+  left: -0.45vw;
 /*   color: rgba(170,0,40,1); */
   color: #ddd;
 }
@@ -456,27 +456,27 @@ p {
 @keyframes movement {
   0% {
     top: 0vw;
-    left: -1.3vw;
+    left: -0.8vw;
   }
 
   15% {
-    top: 0.65vw;
-    left: 0.65vw;
+    top: 0.45vw;
+    left: 0.45vw;
   }
 
   60% {
-    top: 0.3vw;
-    left: -0.65vw;
+    top: 0.2vw;
+    left: -0.45vw;
   }
 
   75% {
-    top: -0.3vw;
-    left: 1.3vw;
+    top: -0.2vw;
+    left: 0.8vw;
   }
 
   100% {
-    top: 0.65vw;
-    left: 0.3vw;
+    top: 0.45vw;
+    left: 0.2vw;
   }
 }
 
