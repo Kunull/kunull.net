@@ -89,7 +89,7 @@ const Certifications = () => {
 							<Button
 								button=""
 								buttonClassName="icca clickable pages"
-								buttonHref="/assets/certifications/NSE-Certification.pdf"
+								buttonHref="/assets/certifications/INE-Certified-Cloud-Associate.pdf"
 								target="_blank"
 								ariaLabel="Check out my ICCA certificate"
 							/>
