@@ -616,7 +616,7 @@ p {
 	height: 120%;
 	width: 100%;
 	background-size: cover;
-	opacity: 0.2;
+	opacity: 0.25;
 	z-index: -12;
 }
 
@@ -627,7 +627,7 @@ p {
 	height: 120%;
 	width: 100%;
 	background-size: cover;
-	opacity: 0.06;
+	opacity: 0.075;
 	z-index: -12;
 }
 
