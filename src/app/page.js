@@ -101,9 +101,16 @@ const Home = () => {
 						buttonClassName="write-ups clickable pages" 
 						buttonHref="https://kunullwrite-ups.vercel.app/" 
 						target="_blank"
-						ariaLabel="Go to my Write-Ups page"
+						ariaLabel="Go to my write-ups"
 					/>
-					<span className="personal"> FOR THE SAME.</span>
+					<span className="personal"> FOR THE SAME. I ALSO DOCUMENT MY LEARNINGS AND EXPERIENCES IN THE FORM OF MY </span>
+					<Button 
+						button="" 
+						buttonClassName="blog clickable pages" 
+						buttonHref="https://kunullblog.vercel.app/" 
+						target="_blank"
+						ariaLabel="Go to my blog"
+					/>
 				</p>								
 								
 				<p className='spacing'>
