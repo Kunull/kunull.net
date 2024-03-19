@@ -111,6 +111,7 @@ const Home = () => {
 						target="_blank"
 						ariaLabel="Go to my blog"
 					/>
+					<span className="personal">.</span>
 				</p>								
 								
 				<p className='spacing'>
