@@ -103,7 +103,7 @@ const Home = () => {
 						target="_blank"
 						ariaLabel="Go to my write-ups"
 					/>
-					<span className="personal"> FOR THE SAME. I ALSO DOCUMENT MY LEARNINGS AND EXPERIENCES IN THE FORM OF MY </span>
+					<span className="personal"> FOR THE SAME. I ALSO SHARE MY LEARNINGS AND EXPERIENCES ON MY </span>
 					<Button 
 						button="" 
 						buttonClassName="blog clickable pages" 
