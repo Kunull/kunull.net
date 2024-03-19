@@ -10,7 +10,7 @@ const Footer = () => {
 					<Button 
 	          				button=""
 						buttonClassName="blog clickable"
-						buttonHref="https://kunalwalavalkarblog.vercel.app"
+						buttonHref="https://kunullblog.vercel.app"
 						target="_blank"
 						ariaLabel="Visit my blog"
 	        			/>
@@ -30,7 +30,7 @@ const Footer = () => {
 	        			<Button 
 	    					button=""
 						buttonClassName="github clickable"
-						buttonHref="https://github.com/KuNull"
+						buttonHref="https://github.com/Kunull"
 						target="_blank"
 			  			ariaLabel="Visit my Github profile"
 	  				/>
@@ -102,7 +102,7 @@ const Footer = () => {
 					<Button 
 	          				button=""
 				  		buttonClassName="key clickable"
-						buttonHref="https://kunalwalavalkar.vercel.app/assets/key/kunalwalavalkar_public_key.txt"
+						buttonHref="https://kunull.vercel.app/assets/key/kunalwalavalkar_public_key.txt"
 						target="_blank"
 						ariaLabel="Get my public PGP key"
 	    				/>
@@ -112,7 +112,7 @@ const Footer = () => {
 					<Button 
 	    					button=""
 						buttonClassName="resume clickable"
-						buttonHref="https://kunalwalavalkar.vercel.app/assets/resume/Kunal-Walavalkar-Resume.pdf"
+						buttonHref="https://kunull.vercel.app/assets/resume/Kunal-Walavalkar-Resume.pdf"
 						target="_blank"
 						ariaLabel="Check out my resume"
 	  				/>
@@ -134,7 +134,7 @@ const Footer = () => {
 					<Button 
 	          				button=""
 						buttonClassName="write-ups clickable"
-						buttonHref="https://kunalwalavalkarwrite-ups.vercel.app"
+						buttonHref="https://kunullwrite-ups.vercel.app"
 						target="_blank"
 						ariaLabel="Visit out my CTF write-ups"
 	    				/>
