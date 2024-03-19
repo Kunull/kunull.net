@@ -99,7 +99,7 @@ const Home = () => {
 					<Button 
 						button="" 
 						buttonClassName="write-ups clickable pages" 
-						buttonHref="https://kunalwalavalkar.gitbook.io/write-ups/" 
+						buttonHref="https://kunullwrite-ups.vercel.app/" 
 						target="_blank"
 						ariaLabel="Go to my Write-Ups page"
 					/>
