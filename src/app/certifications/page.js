@@ -53,7 +53,7 @@ const Certifications = () => {
 								aria-label="Check out my EJPT certificate"
 							/>
 						</div>
-						<p className="description">eLearnSecurity Junior Penetration Tester.</p>
+						<p className="description">E-LEARN SECURITY JUNIOR PENETRATION TESTER.</p>
 					</li>
      
 {/*
@@ -81,7 +81,7 @@ const Certifications = () => {
 								ariaLabel="Check out my Google Cybersecurity Professional certificate"
 							/>
 						</div>
-						<p className="description">Google Cybersecurity Professional certificate.</p>
+						<p className="description">GOOGLE CYBERSECURITY PROFESSIONAL CERTIFICATE.</p>
 					</li>
 
 					<li>
@@ -94,7 +94,7 @@ const Certifications = () => {
 								ariaLabel="Check out my ICCA certificate"
 							/>
 						</div>
-						<p className="description">INE Certified Cloud Associate.</p>
+						<p className="description">INE CERTIFIED CLOUD ASSOCIATE.</p>
 					</li>
 
 					<li>
@@ -107,7 +107,7 @@ const Certifications = () => {
 								ariaLabel="Check out my NSE certificate"
 							/>
 						</div>
-						<p className="description">Fortinet Training Institute Network Security Expert certificate.</p>
+						<p className="description">FORTINET TRAINING INSTITUTE NETWORK SECURITY EXPERT.</p>
 					</li>
 
 {/*
