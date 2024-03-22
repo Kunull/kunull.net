@@ -30,7 +30,7 @@ const Footer = () => {
 	        			<Button 
 	    					button=""
 						buttonClassName="github clickable"
-						buttonHref="https://github.com/Kunull"
+						buttonHref="https://github.com/kunull"
 						target="_blank"
 			  			ariaLabel="Visit my Github profile"
 	  				/>
