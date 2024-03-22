@@ -55,7 +55,7 @@ const Projects = () => {
 								ariaLabel="Check out the D Cipher project"
 							/>
 						</div>
-						<p className="description">Cryptography toolkit that allows users to encrypt and decrypt their text using an algorithm of their choice.</p>
+						<p className="description">CRYPTOGRAPHY TOOLKIT THAT ALLOWS USERS TO ENCRYPT AND DECRYPT THEIR TEXT USING AN ALGORITHM OF THEIR CHOICE.</p>
 					</li>
 	
 					<li>
@@ -68,7 +68,7 @@ const Projects = () => {
 								ariaLabel="Check out the Empowershell project"
 							/>
 						</div>
-						<p className="description">Powershell utility script that compares hashes to check the integrity of files.</p>
+						<p className="description">POWERSHELL UTILITY SCRIPT THAT COMPARES HASHES TO CHECK THE INTEGRITY OF FILES.</p>
 					</li>
 	
 					<li>
@@ -81,7 +81,7 @@ const Projects = () => {
 								ariaLabel="Check out the Hexplorer project"
 							/>
 						</div>
-						<p className="description">Command-Line utility to dump the binary and hexadecimal rendition of a file.</p>
+						<p className="description">COMMAND-LINE UTILITY TO DUMP THE BINARY AND HEXADECIMAL RENDITION OF A FILE.</p>
 					</li>
 	
 					<li>
@@ -94,7 +94,7 @@ const Projects = () => {
 								ariaLabel="Check out the NetSleuth project"
 							/>
 						</div>
-						<p className="description">Network scanner that finds all the devices connected in the network.</p>
+						<p className="description">NETWORK SCANNER THAT FINDS ALL THE DEVICES CONNECTED IN THE NETWORK.</p>
 					</li>
 	
 					<li>
@@ -107,7 +107,7 @@ const Projects = () => {
 								ariaLabel="Check out the OpenSOC project"
 							/>
 						</div>
-						<p className="description">Proof of concept for Security Operations Centre made using open source tools.</p>
+						<p className="description">PROOF OF CONCEPT FOR SECURITY OPERATIONS CENTRE MADE USING OPEN SOURCE TOOLS.</p>
 					</li>
 	
 	{/*				
@@ -133,7 +133,7 @@ const Projects = () => {
 								ariaLabel="Check out the Probe project"
 							/>
 						</div>
-						<p className="description">Portscanner that implements multithreading for swift scans.</p>
+						<p className="description">PORTSCANNER THAT IMPLEMENTS MULTITHREADING FOR SWIFT SCANS.</p>
 					</li>
 	
 	{/*
@@ -160,7 +160,7 @@ const Projects = () => {
 								ariaLabel="Check out the Signum project"
 							/>
 						</div>
-						<p className="description">Web app to generate passwords and check their strength.</p>
+						<p className="description">WEB APP TO GENERATE PASSWORDS AND CHECK THEIR STRENGTH.</p>
 					</li>
 
 	{/*
@@ -203,7 +203,7 @@ const Projects = () => {
 								ariaLabel="Check out the RiSkore project"
 							/>
 						</div>
-						<p className="description">Web app to evaluate the risk faced by an organization.</p>
+						<p className="description">WEB APP TO EVALUATE THE RISK FACED BY AN ORGANIZATION.</p>
 					</li>
 				</ul>
 			</main>
