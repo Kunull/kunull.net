@@ -72,8 +72,8 @@ html {
 /*  	--font-size-primary: clamp(24px,4vw,84px);
 	--font-size-secondary: clamp(16px,1.6vw,32px);
 	--font-size-tertiary: clamp(20px,2.2vw,52px); */
-	--font-size-primary: clamp(16px, 1.8vw, 34px);
-    	--font-size-secondary: clamp(24px, 4.2vw, 64px);
+    	--font-size-primary: clamp(24px, 4.2vw, 64px);
+	--font-size-secondary: clamp(16px, 1.8vw, 34px);
 }
 
 body .invertCursor{
