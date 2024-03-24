@@ -863,14 +863,14 @@ li {
 	}
 	
 	:root {
-/* 		--shadow-x-distance: 2px; */
-/* 		--shadow-y-distance: 1px; */
-		--shadow-x-distance: 3px;
-		--shadow-y-distance: 0px;
+		--shadow-x-distance: 2px;
+		--shadow-y-distance: 1px;
+/* 		--shadow-x-distance: 3px;
+		--shadow-y-distance: 0px; */
 	}
 }
 
-/* @media (min-width: 480px) {
+@media (min-width: 480px) {
   :root {
     --shadow-x-distance: 3px;
     --shadow-y-distance: 2px;
@@ -882,7 +882,7 @@ li {
     --shadow-x-distance: 4px;
     --shadow-y-distance: 3px;
   }
-} */
+}
 
 @media (prefers-reduced-motion: no-preference) {
 	html {
