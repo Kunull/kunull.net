@@ -91,11 +91,11 @@ body {
 	animation: textShadow 1.6s infinite;
 	text-shadow: 
 	/* Red and Blue	 */
-/* 		var(--shadow-x-distance) var(--shadow-y-distance) 0 rgba(30,120,180,.5),
+/* 		var(--shadow-x-distance) var(--shadow-y-distance) 0 rgb(30,120,180,.5),
 		calc(var(--shadow-x-distance)*-1) calc(var(--shadow-y-distance)*-1) 0 rgba(135,22.5,90,.5); */
 
 	/* Ghosting effect */
-		var(--shadow-x-distance) var(--shadow-y-distance) 1px rgba(150,150,150,.5),
+		var(--shadow-x-distance) var(--shadow-y-distance) 1px rgb(100,100,100,0.5),
 		calc(var(--shadow-x-distance)*1.5) calc(var(--shadow-y-distance)*1.5) 1px rgb(90,90,90,0.5);
 
 
