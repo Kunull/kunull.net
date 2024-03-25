@@ -95,8 +95,9 @@ body {
 		calc(var(--shadow-x-distance)*-1) calc(var(--shadow-y-distance)*-1) 0 rgba(135,22.5,90,.5); */
 
 	/* Ghosting effect */
-		var(--shadow-x-distance) var(--shadow-y-distance) 1px rgb(100,100,100,0.5),
-		calc(var(--shadow-x-distance)*1.5) calc(var(--shadow-y-distance)*1.5) 1px rgb(90,90,90,0.5);
+		var(--shadow-x-distance) var(--shadow-y-distance) 1px rgb(90,90,90,0.5),
+		calc(var(--shadow-x-distance)*2) calc(var(--shadow-y-distance)*2) 1px rgb(80,80,80,0.5),
+		calc(var(--shadow-x-distance)*3) calc(var(--shadow-y-distance)*3) 1px rgb(70,70,70,0.5);
 
 
 /* 	text-shadow: var(--shadow-x-distance) var(--shadow-y-distance) 1.5px rgb(90,90,90,0.5); */
