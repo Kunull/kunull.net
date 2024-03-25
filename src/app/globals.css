@@ -851,13 +851,6 @@ li {
 	.spacing {
 		margin-bottom: 9svh;
 	}
-
-	:root {
-/* 		--shadow-x-distance: 3px; */
-/* 		--shadow-y-distance: 2px; */
-		--shadow-x-distance: 4.8px;
-		--shadow-y-distance: 0px;
-	}
 }
 
 
