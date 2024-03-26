@@ -878,8 +878,8 @@ li {
 
 @media (min-width: 480px) {
   :root {
-    --shadow-x-distance: 3px;
-    --shadow-y-distance: 2px;
+    --shadow-x-distance: 2px;
+    --shadow-y-distance: 1px;
   }
 }
 
