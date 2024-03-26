@@ -96,8 +96,11 @@ body {
 
 	/* Ghosting effect */
 		var(--shadow-x-distance) 0px 0.08svh rgb(100,100,100,0.2),
+		calc(var(--shadow-x-distance)*1.5) 0px 0.08svh rgb(90,90,90,0.2),
 		calc(var(--shadow-x-distance)*2) 0px 0.08svh rgb(80,80,80,0.2),
+		calc(var(--shadow-x-distance)*2.5) 0px 0.08svh rgb(70,70,70,0.2),
 		calc(var(--shadow-x-distance)*3) 0px 0.08svh rgb(60,60,60,0.2),
+		calc(var(--shadow-x-distance)*3.5) 0px 0.08svh rgb(50,50,50,0.2),
 		calc(var(--shadow-x-distance)*4) 0px 0.08svh rgb(40,40,40,0.2);
 
 
