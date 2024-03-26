@@ -95,13 +95,13 @@ body {
 		calc(var(--shadow-x-distance)*-1) calc(var(--shadow-y-distance)*-1) 0 rgba(135,22.5,90,.5); */
 
 	/* Ghosting effect */
-		var(--shadow-x-distance) 0px 0.15svh rgb(90,90,90,0.2),
-		calc(var(--shadow-x-distance)*1.5) 0px 0.15svh rgb(80,80,80,0.2),
-		calc(var(--shadow-x-distance)*2) 0px 0.15svh rgb(70,70,70,0.2),
-		calc(var(--shadow-x-distance)*2.5) 0px 0.15svh rgb(60,60,60,0.2),
-		calc(var(--shadow-x-distance)*3) 0px 0.15svh rgb(50,50,50,0.2),
-		calc(var(--shadow-x-distance)*3.5) 0px 0.15svh rgb(40,40,40,0.2),
-		calc(var(--shadow-x-distance)*4) 0px 0.15svh rgb(30,30,30,0.2);
+		var(--shadow-x-distance) 0px 0.2svh rgb(90,90,90,0.2),
+		calc(var(--shadow-x-distance)*1.5) 0px 0.2svh rgb(80,80,80,0.2),
+		calc(var(--shadow-x-distance)*2) 0px 0.2svh rgb(70,70,70,0.2),
+		calc(var(--shadow-x-distance)*2.5) 0px 0.2svh rgb(60,60,60,0.2),
+		calc(var(--shadow-x-distance)*3) 0px 0.2svh rgb(50,50,50,0.2),
+		calc(var(--shadow-x-distance)*3.5) 0px 0.2svh rgb(40,40,40,0.2),
+		calc(var(--shadow-x-distance)*4) 0px 0.2svh rgb(30,30,30,0.2);
 
 
 /* 	text-shadow: var(--shadow-x-distance) var(--shadow-y-distance) 1.5px rgb(90,90,90,0.5); */
