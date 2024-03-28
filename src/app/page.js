@@ -127,7 +127,7 @@ const Home = () => {
 					<Button
 						button=""
 						buttonClassName="key clickable pages"
-						buttonHref="https://kunalwalavalkar.vercel.app/kunalwalavalkar_public_key.txt"
+						buttonHref="/assets/key/kunalwalavalkar_public_key.txt"
 						target="_blank"
 						ariaLabel="Use my pgp key"
 					/>
