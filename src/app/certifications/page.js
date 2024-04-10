@@ -48,7 +48,7 @@ const Certifications = () => {
 							<Button
 								button=""
 								buttonClassName="ejpt clickable pages"
-								buttonHref=""
+								buttonHref="/assets/certifications/eLearnSecurity-Junior-Penetration-Tester.pdf"
 								target="_blank"
 								aria-label="Check out my EJPT certificate"
 							/>
