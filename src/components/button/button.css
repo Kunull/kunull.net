@@ -242,12 +242,12 @@
 }
 
 
-.kunalWalavalkar::after {
-  content:"KUNAL WALAVALKAR";
+.kunal::after {
+  content:"KUNAL W.";
 }
 
-.kunalWalavalkar:hover::after {
-  content:"KUN4L W4L4V4LK4R";
+.kunal:hover::after {
+  content:"KUN4L W.";
 }
 
 
