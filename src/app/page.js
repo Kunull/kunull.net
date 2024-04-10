@@ -5,9 +5,9 @@ import Footer from '../components/footer/footer';
 // import profilepic2 from '../assets/images/image(1).png';
 
 export const metadata = {
-  title: 'Kunull | Kunal Walavalkar',
+  title: 'Kunull | Kunal W.',
   openGraph: {
-    title: 'Kunull | Kunal Walavalkar',
+    title: 'Kunull | Kunal W.',
   },
 }
 
@@ -46,7 +46,7 @@ const Home = () => {
 			<main className="capital">
 				<p className='spacing'>
 					<span className="personal">HELLO. I'M </span>
-					<span className="kunalWalavalkar nonClickable pages">
+					<span className="kunalw nonClickable pages">
 {/*						
 						<div class="profilepic">
   							<img src={profilepic} width="200" alt=""/>
