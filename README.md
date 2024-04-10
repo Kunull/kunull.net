@@ -1,4 +1,4 @@
-# Hi, I'm Kunal Walavalkar (A.K.A. Kunull) </br>Computer Engineering and Cybersecurity Student.
+# Hi, I'm Kunal W. (A.K.A. Kunull) </br>Computer Engineering and Cybersecurity Student.
 
 <!-- ## Portfolio:
 - [KW](https://kunalwalavalkar.github.io) -->
