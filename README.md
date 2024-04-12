@@ -22,7 +22,8 @@
 
 
 ## Certifications:
-[eJPT](https://kunull.vercel.app/assets/certifications/eLearnSecurity-Junior-Penetration-Tester.pdf) | [ICCA](https://kunull.vercel.app/assets/certifications/INE-Certified-Cloud-Associate.pdf)
+- [eJPT](https://kunull.vercel.app/assets/certifications/eLearnSecurity-Junior-Penetration-Tester.pdf)
+- [ICCA](https://kunull.vercel.app/assets/certifications/INE-Certified-Cloud-Associate.pdf)
 
 <!-- ## Socials:
   - [Linkedin](https://linkedin.com/in/kunal-walavalkar-58528a216/)
