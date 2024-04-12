@@ -20,6 +20,10 @@
   - [RiSkore](https://github.com/Knign/RiSkore) - Web app to evaluate the risk faced by your organization.
   - [Signum](https://github.com/Knign/Signum) - Web app to generate passwords and check their strength.
 
+
+## Certifications:
+[eJPT](https://kunull.vercel.app/assets/certifications/eLearnSecurity-Junior-Penetration-Tester.pdf) | [ICCA](https://kunull.vercel.app/assets/certifications/INE-Certified-Cloud-Associate.pdf)
+
 <!-- ## Socials:
   - [Linkedin](https://linkedin.com/in/kunal-walavalkar-58528a216/)
   - [Instagram](https://www.instagram.com/kunalxwalavalkar/) -->
