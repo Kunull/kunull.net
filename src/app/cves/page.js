@@ -36,19 +36,19 @@ const CVEs = () => {
 				buttonHref="/"
 				slash="&nbsp;/&nbsp;"
 				slashClassName="slash"
-				page="PROJECTS"
+				page="CVES"
 				pageClassName="currentPage"
 				pageOption1="certifications clickable"
 				ariaLabel1="Go to my Certifications page"
 //				pageOption2="experience clickable"
-				pageOption3="cves clickable"
-				ariaLabel3="Go to my CVEs page"
+				pageOption2="projects clickable"
+				ariaLabel2="Go to my Projects page"
 			/>
 
-      <main className="capital">
+      			<main className="capital">
 				<p className='spacing'>
 					<span className="personal">NOTHHING TO SEE HERE YET.</span>
-    		</p>								
+    				</p>								
 			</main>
 
 
