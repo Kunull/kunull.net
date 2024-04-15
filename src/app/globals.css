@@ -75,6 +75,7 @@ html {
 	
     	--font-size-primary: clamp(24px, 4.2vw, 84px);
 	--font-size-secondary: clamp(16px, 1.6vw, 44px);
+	--font-size-tertiary: clamp(20px,2vw,52px);
 }
 
 body .invertCursor{
