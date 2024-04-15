@@ -24,31 +24,32 @@ const Navbar = ({ button, buttonClassName, buttonHref, slash, slashClassName, pa
 					<ul className="pageOptionUl">
 						<li className="pageOptionLi">
 							<Button 
-		            button=""
+		            					button=""
 								buttonClassName={pageOption1}
 								buttonHref="/certifications"
 								ariaLabel={ariaLabel1}
-		   				/>
-	    			</li>
+		   					/>
+	    					</li>
 						
-{/*
+
 						<li className="pageOptionLi">
 							<Button 
 		            					button=""
 								buttonClassName={pageOption2}
-								buttonHref="https://kunalwalavalkar.vercel.app/experience"
+								buttonHref="/projects"
+								ariaLabel={ariaLabel3}
 		           				/>
 	          				</li>
-*/}
+
 
 						<li className="pageOptionLi">
 							<Button 
-		            button=""
+		            					button=""
 								buttonClassName={pageOption3}
-								buttonHref="/projects"
+								buttonHref="/cves"
 								ariaLabel={ariaLabel3}
-		    			/>
-    				</li>
+		    					/>
+    						</li>
 					</ul>
 				</div>
 		</header>
