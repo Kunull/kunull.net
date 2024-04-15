@@ -41,8 +41,8 @@ const Home = () => {
 //				pageOption2="experience clickable"
 				pageOption2="projects clickable"
 				ariaLabel2="Go to my Projects page"
-				pageOption3="cves clickable"
-				ariaLabel3="Go to my CVEs page"
+				// pageOption3="cves clickable"
+				// ariaLabel3="Go to my CVEs page"
 			/>
 					
 			<main className="capital">
