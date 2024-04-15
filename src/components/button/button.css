@@ -107,6 +107,15 @@
 }
 
 
+.cves::after {
+  content:"CVES";
+}
+
+.cves:hover::after {
+  content:"CV35";
+}
+
+
 .ejpt::after {
   content:"EJPT";
 }
