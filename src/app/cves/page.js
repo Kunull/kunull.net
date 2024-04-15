@@ -47,7 +47,7 @@ const CVEs = () => {
 
       			<main className="capital">
 				<p className='spacing'>
-					<span className="personal">NOTHHING TO SEE HERE YET.</span>
+					<span className="personal">NOTHING TO SEE HERE YET.</span>
     				</p>								
 			</main>
 
