@@ -37,8 +37,8 @@ const Certifications = () => {
 				page="CERTIFICATIONS"
 				pageClassName="currentPage"
 //				pageOption2="experience clickable"
-				pageOption3="projects clickable"
-				ariaLabel3="Go to my Projects page"
+				pageOption2="projects clickable"
+				ariaLabel2="Go to my Projects page"
 			/>
 
 			<main>
