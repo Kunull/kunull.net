@@ -42,7 +42,7 @@ const Projects = () => {
 				ariaLabel1="Go to my Certifications page"
 //				pageOption2="experience clickable"
 				pageOption3="cves clickable"
-				ariaLabel1="Go to my CVEs page"
+				ariaLabel3="Go to my CVEs page"
 			/>
 			<main>
 				<ul>
