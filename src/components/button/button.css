@@ -278,11 +278,11 @@
 }
 
 
-.nse::after {
+.nse1::after {
   content:"NSE 1";
 }
 
-.nse:hover::after {
+.nse1:hover::after {
   content:"N53 1";
 }
 
