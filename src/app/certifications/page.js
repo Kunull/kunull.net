@@ -103,7 +103,7 @@ const Certifications = () => {
 						<div className="capital">
 							<Button
 								button=""
-								buttonClassName="nse clickable pages"
+								buttonClassName="nse1 clickable pages"
 								buttonHref="/assets/certifications/NSE-Certification.pdf"
 								target="_blank"
 								ariaLabel="Check out my NSE certificate"
