@@ -109,7 +109,7 @@ const Certifications = () => {
 								ariaLabel="Check out my NSE certificate"
 							/>
 						</div>
-						<p className="description">FORTINET TRAINING INSTITUTE NETWORK SECURITY EXPERT.</p>
+						<p className="description">FORTINET TRAINING INSTITUTE NETWORK SECURITY EXPERT LEVEL 1.</p>
 					</li>
 
 {/*
