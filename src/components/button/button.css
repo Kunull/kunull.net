@@ -279,11 +279,11 @@
 
 
 .nse::after {
-  content:"NSE";
+  content:"NSE 1";
 }
 
 .nse:hover::after {
-  content:"N53";
+  content:"N53 1";
 }
 
 
