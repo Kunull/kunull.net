@@ -124,7 +124,7 @@ const Home = () => {
 					<Button
 						button=""
 						buttonClassName="email clickable pages"
-						buttonHref="mailto:walavalkarkunal@skiff.com"
+						buttonHref="mailto:kunalw@skiff.com"
 						target="_blank"
 						ariaLabel="Send me an e-mail"
 					/>
