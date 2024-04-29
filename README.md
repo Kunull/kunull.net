@@ -3,7 +3,7 @@
 <!-- ## Portfolio:
 - [KW](https://kunalwalavalkar.github.io) -->
 
-![Berserk15](https://github.com/Kunull/kunull/assets/110326359/e757cf1f-a6f2-41eb-8196-5d43b54c0e6c)
+![Vagabond 2](https://github.com/Kunull/kunull/assets/110326359/05abca94-cf70-4875-91e8-ae39b2d98fbb)
 
 ## Projects:
 ### Python
