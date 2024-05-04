@@ -1,4 +1,4 @@
-# Hi, I'm Kunal (KuNull) Walavalkar.</br>Computer Engineering and Cybersecurity Student.
+# Hi, I'm Kunal (Kunull) Walavalkar.</br>Computer Engineering and Cybersecurity Student.
 
 <!-- ## Portfolio:
 - [KW](https://kunalwalavalkar.github.io) -->
