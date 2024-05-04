@@ -5,9 +5,9 @@ import Footer from '../components/footer/footer';
 // import profilepic2 from '../assets/images/image(1).png';
 
 export const metadata = {
-  title: 'KuNull | Kunal Walavalkar',
+  title: 'Kunull | Kunal Walavalkar',
   openGraph: {
-    title: 'KuNull | Kunal Walavalkar',
+    title: 'Kunull | Kunal Walavalkar',
   },
 }
 
