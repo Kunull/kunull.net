@@ -3,8 +3,6 @@
 <!-- ## Portfolio:
 - [KW](https://kunalwalavalkar.github.io) -->
 
-![Vagabond 2](https://github.com/Kunull/kunull/assets/110326359/05abca94-cf70-4875-91e8-ae39b2d98fbb)
-
 ## Projects:
 ### Python
   - [D|Cipher](https://github.com/Knign/D-Cipher) - Cryptography toolkit that allows users to encrypt and decrypt their text using an algorithm of their choice.
