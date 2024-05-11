@@ -655,7 +655,7 @@ p {
 	height: 120%;
 	width: 100%;
 	background-size: cover;
-	opacity: 0.125;
+	opacity: 0.0;
 	z-index: -12;
 }
 
@@ -677,7 +677,7 @@ p {
 	left: 0;
 	bottom: 0;
 	right: 0;
-	background: linear-gradient(rgba(0, 0, 0, 0.0) 50%, rgba(0, 0, 0, 0.4) 50%);
+	background: linear-gradient(rgba(0, 0, 0, 0.0) 50%, rgba(0, 0, 0, 0.3) 50%);
 /* 		linear-gradient(90deg, rgba(255, 0, 0, 0.06), rgba(0, 255, 0, 0.03), rgba(0, 0, 255, 0.06));  */
 	z-index: 2000;
 	background-size: 100% 12.5px, 4px 100%;
