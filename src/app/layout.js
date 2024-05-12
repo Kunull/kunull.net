@@ -29,12 +29,14 @@ export default function RootLayout({ children }) {
 
         {children}
     
-        // <div className='content-wrapper-front'>
-        //   {children}
-        // </div>
-        // <div className='content-wrapper-back'>
-        //   {children}
-        // </div>
+  {/*   
+        <div className='content-wrapper-front'>
+          {children}
+        </div>
+        <div className='content-wrapper-back'>
+          {children}
+        </div>
+  */}
       </body>
     </html>
   )
