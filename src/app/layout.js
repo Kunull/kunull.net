@@ -17,7 +17,20 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className={myFont.className}>
-        <div className='content-wrapper'>
+        <div className="sticky">
+          <div className="effectGlitch"></div>
+          <div className="effectNoise"></div>
+          <div className="scanLine"></div>
+          <div className="gradient"></div>
+          <div className="noise"></div>
+          <div className="backgroundLines"></div>
+          <div className="backgroundEffect"></div>
+        </div>
+
+        <div className='content-wrapper-front'>
+          {children}
+        </div>
+        <div className='content-wrapper-back'>
           {children}
         </div>
       </body>
