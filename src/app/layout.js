@@ -16,7 +16,11 @@ export const viewport = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={myFont.className}>{children}</body>
+      <body className={myFont.className}>
+        <div className='content-wrapper'>
+          {children}
+        </div>
+      </body>
     </html>
   )
 }
