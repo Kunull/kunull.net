@@ -12,23 +12,6 @@ export const metadata = {
 const CVEs = () => {
 	return (
 		<>
-			<div className="sticky">
-				<div className="effectGlitch"></div>
-				<div className="effectNoise"></div>
-				<div className="scanLine"></div>
-				<div className="gradient"></div>
-				<div className="noise"></div>
-				<div className="backgroundLines"></div>
-			</div>
-			
-			<div className="backgroundEffect"></div>
-{/*
-   			<div className="navbarContainer">
-		            <h2 className="previous glitch layers" data-text="KW"><a class="clickable" href="/">KW</a></h2>
-		            <h2 className="slash">&nbsp;/&nbsp;</h2>
-		            <h2 className="current">PROJECTS ►</h2>
-        		</div> 
-*/}
 			<Navbar
 				button="KUNULL"
 				buttonClassName="previousPage clickable glitch layers"
