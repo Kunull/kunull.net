@@ -54,7 +54,7 @@ body {
 	filter: blur(10px);
 	top: 0;
 	z-index: -3;
-	text-shadow: 0 0 0.5rem rgba(255, 255, 255, 1);
+	text-shadow: 0 0 1svh rgba(255, 255, 255, 1);
 	pointer-events: none;
 }
 
