@@ -605,7 +605,7 @@ p {
 }
 
 .backgroundLines {
-  height: 120%;
+	height: 120%;
 	content: ' ';
 	display: block;
 	position: fixed;
@@ -616,7 +616,7 @@ p {
 	background: linear-gradient(rgba(0, 0, 0, 0.0) 50%, rgba(0, 0, 0, 0.225) 50%);
 /* 		linear-gradient(90deg, rgba(255, 0, 0, 0.06), rgba(0, 255, 0, 0.03), rgba(0, 0, 255, 0.06));  */
 	z-index: -1;
-	background-size: 100% 12.5px, 4px 100%;
+	background-size: 100% 10px, 4px 100%;
 	pointer-events: none;
 }
 
