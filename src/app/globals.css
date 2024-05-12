@@ -12,6 +12,7 @@ html {
 	--text-secondary: #999;
 	--shadow-x-distance: 4px;
   	--shadow-y-distance: 3px;
+	--shadow-blur: 20px;
 	--font-primary: "VCR OSD Mono",monospace;
 	--font-size-primary: clamp(24px,4.2vw,84px);
 	--font-size-secondary: clamp(16px,1.6vw,44px);
@@ -53,7 +54,7 @@ body {
 	filter: blur(10px);
 	top: 0;
 	z-index: -3;
-	text-shadow: 0 0 1rem rgba(255, 255, 255, 1);
+	text-shadow: 0 0 var(--shadow-blur) rgba(255, 255, 255, 1);
 	pointer-events: none;
 }
 
@@ -808,6 +809,7 @@ li {
 	:root {
 		--shadow-x-distance: 3px;
 		--shadow-y-distance: 2px;
+		--shadow-blur: 15px;
 	}
 }
 
@@ -825,6 +827,7 @@ li {
 	:root {
 		--shadow-x-distance: 2px;
 		--shadow-y-distance: 1px;
+		--shadow-blur: 10px;
 	}
 }
 
