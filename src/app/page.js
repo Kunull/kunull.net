@@ -14,20 +14,6 @@ export const metadata = {
 const Home = () => {
 	return (
 		<>
-			<div className="sticky">
-				<div className="effectGlitch"></div>
-				<div className="effectNoise"></div>
-				<div className="scanLine"></div>
-				<div className="gradient"></div>
-				<div className="noise"></div>
-				<div className="backgroundLines"></div>
-			</div>
-			
-			<div className="backgroundEffect"></div>
-			{/* <div className="navbarContainer">
-            <h2 className="previous glitch layers" data-text="KW"><div>KW ►</div></h2>
-        </div> */}
-			
 			<Navbar
 				button=""
 				buttonClassName=""
