@@ -610,11 +610,11 @@ p {
 .effectNoise {
 	filter: grayscale(100%);
 	position: fixed;
-	background-image: url('/assets/gifs/effect-static.gif');
+	background-image: url('/assets/gifs/effect-static-new.gif');
 	height: 120%;
 	width: 100%;
 	background-size: cover;
-	opacity: 0.075;
+	opacity: 0.6;
 	z-index: -4;
 }
 
