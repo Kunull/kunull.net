@@ -26,15 +26,15 @@ export default function RootLayout({ children }) {
           <div className="backgroundLines"></div>
           <div className="backgroundEffect"></div>
         </div>
-  {/*
+
         {children}
-  */}
+ 
     
-   
+  {/*   
         <div className='content-wrapper-front'>
           {children}
         </div>
-  {/*   
+   
         <div className='content-wrapper-back'>
           {children}
         </div>
