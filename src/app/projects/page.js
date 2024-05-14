@@ -133,7 +133,8 @@ const Projects = () => {
 						<p className="description">user.js file for hardening Firefox browser.</p>
 					</li>
 	*/}
-	
+
+	{/*
 					<li>
 						<div className="capital">
 							<Button
@@ -146,6 +147,7 @@ const Projects = () => {
 						</div>
 						<p className="description">WEB APP TO GENERATE PASSWORDS AND CHECK THEIR STRENGTH.</p>
 					</li>
+     	*/}
 
 	{/*
 					<li>
