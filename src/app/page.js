@@ -33,7 +33,7 @@ const Home = () => {
 					
 			<main className="capital">
 				<p className='spacing'>
-					<span className="personal">HELLO. I'M </span>
+					<span className="personal">Hello. I'm </span>
 					<span className="kunal nonClickable pages">
 {/*						
 						<div class="profilepic">
@@ -52,7 +52,7 @@ const Home = () => {
 					
      					</span>
 */}	
-					<span className="personal">, A COMPUTER ENGINEERING AND CYBER SECURITY STUDENT.</span>
+					<span className="personal">, a Computer Engineering and Cyber Ssecurity student.</span>
 {/*					
 					<span className="personal">, A PENETRATION TESTER BY PROFESSION AND CVE RESEARCHER BY AVOCATION.</span>
 */}
