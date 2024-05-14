@@ -12,6 +12,7 @@ html {
 	--text-secondary: #999;
 	--shadow-x-distance: 4px;
   	--shadow-y-distance: 3px;
+	--filter-blur: 8px;
 	--shadow-blur: 10px;
 	--font-primary: "VCR OSD Mono",monospace;
 	--font-size-primary: clamp(24px,4.2vw,84px);
@@ -70,15 +71,15 @@ body {
 }
 
 .content-wrapper-back {
-  opacity: 0.75;
-  position: relative;
-  width:100%;
-  filter: blur(1svh);
-  top: 0;
-  z-index: -3;
-  text-shadow: 0 0 0.5svh rgba(255, 255, 255, 1);
-  pointer-events: none;
-  /* visibility: hidden; */
+	opacity: 0.75;
+  	position: relative;
+	width:100%;
+	filter: blur(--filter-blur);
+	top: 0;
+	z-index: -3;
+	text-shadow: 0 0 0.5svh rgba(255, 255, 255, 1);
+	pointer-events: none;
+	/* visibility: hidden; */
 }
 
 .capital {
@@ -832,6 +833,7 @@ li {
 	:root {
 		--shadow-x-distance: 3px;
 		--shadow-y-distance: 2px;
+		--filter-blur: 6px;
 		--shadow-blur: 7.5px;
 	}
 }
@@ -850,6 +852,7 @@ li {
 	:root {
 		--shadow-x-distance: 2px;
 		--shadow-y-distance: 1px;
+		--filter-blur: 4px;
 		--shadow-blur: 5px;
 	}
 }
