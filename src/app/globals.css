@@ -24,6 +24,7 @@ body .invertCursor{
 } 
 
 body {
+	position: relative;
 	background-color: rgba(0, 0, 0, 0.975);
 	margin-left: 10%;
 	margin-right: 10%;
