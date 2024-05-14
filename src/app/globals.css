@@ -65,7 +65,7 @@ body {
 .content-wrapper-front {
 	position: absolute;
 	width: 100%;
-	  top: 0;
+/* 	top: 0; */
 	z-index: 0;
 }
 
