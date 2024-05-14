@@ -71,7 +71,7 @@ body {
 }
 
 .content-wrapper-back {
-	opacity: 0.75;
+	opacity: 0.5;
   	position: relative;
 	width:100%;
 	filter: blur(var(--filter-blur));
@@ -853,7 +853,7 @@ li {
 		--shadow-x-distance: 2px;
 		--shadow-y-distance: 1px;
 		--filter-blur: 4px;
-		--shadow-blur: 2px;
+		--shadow-blur: 5px;
 	}
 }
 
