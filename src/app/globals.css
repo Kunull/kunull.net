@@ -13,7 +13,7 @@ html {
 	--shadow-x-distance: 4px;
   	--shadow-y-distance: 3px;
 	--filter-blur: 8px;
-	--shadow-blur: 4px;
+	--shadow-blur: 10px;
 	--font-primary: "VCR OSD Mono",monospace;
 	--font-size-primary: clamp(24px,4.2vw,84px);
 	--font-size-secondary: clamp(16px,1.6vw,44px);
@@ -834,7 +834,7 @@ li {
 		--shadow-x-distance: 3px;
 		--shadow-y-distance: 2px;
 		--filter-blur: 6px;
-		--shadow-blur: 3px;
+		--shadow-blur: 7.5px;
 	}
 }
 
