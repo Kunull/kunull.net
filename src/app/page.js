@@ -33,7 +33,7 @@ const Home = () => {
 					
 			<main className="capital">
 				<p className='spacing'>
-					<span className="personal">HELLO. I'M </span>
+					<span className="personal">Hi. I'M </span>
 					<span className="kunal nonClickable pages">
 {/*						
 						<div class="profilepic">
