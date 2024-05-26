@@ -377,6 +377,20 @@
   content:"WR173-UP5";
 }
 
+.zero {
+  font-size: var(--font-size-quad);
+  text-decoration: none;
+	width: 100%;
+}
+
+.zero::after {
+  content:"0";
+}
+
+.zero:hover::after {
+  content:"0";
+}
+
 
 
 
