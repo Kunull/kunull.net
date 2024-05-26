@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Button from '../components/button/button';
 
-export default function NotFound() {
+const NotFound = () => {
   return (
     <main className="capital">
       <p className='four-o-four'>
@@ -17,3 +17,5 @@ export default function NotFound() {
     </main>
   );
 }
+
+export default NotFound;
