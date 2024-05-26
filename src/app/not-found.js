@@ -1,6 +1,13 @@
 import Link from "next/link";
 import Button from '../components/button/button';
 
+export const metadata = {
+  title: '404 | Kunal Walavalkar',
+  openGraph: {
+    title: '404 | Kunal Walavalkar',
+  },
+}
+
 const NotFound = () => {
   return (
     <main className="capital">
