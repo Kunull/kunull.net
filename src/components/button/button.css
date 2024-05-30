@@ -94,7 +94,7 @@
 }
 
 .cnsp:hover::after {
-  content:"cn5p";
+  content:"CN5P";
 }
 
 
@@ -321,7 +321,6 @@
 .probe:hover::after {
   content:"PR083";
 }
-
 
 
 .projects::after {
