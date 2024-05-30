@@ -89,6 +89,15 @@
 }
 
 
+.cnsp::after {
+  content:"CNSP";
+}
+
+.cnsp:hover::after {
+  content:"CN59";
+}
+
+
 .company1::after {
   content:"CYBER SECURED INDIA";
 }
