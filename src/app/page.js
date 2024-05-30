@@ -52,7 +52,7 @@ const Home = () => {
 					
      					</span>
 */}	
-					<span className="personal">, A CYBER SECURITY RESEARCHER.</span>
+					<span className="personal">, A CYBER SECURITY RESEARCHER NAD ENGINEER.</span>
 {/*					
 					<span className="personal">, A PENETRATION TESTER BY PROFESSION AND CVE RESEARCHER BY AVOCATION.</span>
 */}
