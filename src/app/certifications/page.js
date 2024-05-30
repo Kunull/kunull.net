@@ -42,6 +42,19 @@ const Certifications = () => {
 						</div>
 						<p className="description">E-LEARN SECURITY JUNIOR PENETRATION TESTER.</p>
 					</li>
+
+					<li>
+						<div className="capital">
+							<Button
+								button=""
+								buttonClassName="cnsp clickable pages"
+								buttonHref="/assets/certifications/Google-Cybersecurity-Professional-Certificate.pdf"
+								target="_blank"
+								ariaLabel="Check out my CNSP certificate"
+							/>
+						</div>
+						<p className="description">SEC-OPS GROUP CERTIFIED NETWORK SECURITY PRACTITIONER.</p>
+					</li>
      
 {/*
 					<li>
@@ -57,19 +70,6 @@ const Certifications = () => {
 						<p className="description">ISC2 Certified in Cybersecurity.</p>
 					</li>
 */} 
-
-					<li>
-						<div className="capital">
-							<Button
-								button=""
-								buttonClassName="google clickable pages"
-								buttonHref="/assets/certifications/Google-Cybersecurity-Professional-Certificate.pdf"
-								target="_blank"
-								ariaLabel="Check out my Google Cybersecurity Professional certificate"
-							/>
-						</div>
-						<p className="description">GOOGLE CYBERSECURITY PROFESSIONAL CERTIFICATE.</p>
-					</li>
 
 					<li>
 						<div className="capital">
@@ -95,6 +95,19 @@ const Certifications = () => {
 							/>
 						</div>
 						<p className="description">FORTINET TRAINING INSTITUTE NETWORK SECURITY EXPERT LEVEL 1.</p>
+					</li>
+
+					<li>
+						<div className="capital">
+							<Button
+								button=""
+								buttonClassName="google clickable pages"
+								buttonHref="/assets/certifications/Google-Cybersecurity-Professional-Certificate.pdf"
+								target="_blank"
+								ariaLabel="Check out my Google Cybersecurity Professional certificate"
+							/>
+						</div>
+						<p className="description">GOOGLE CYBERSECURITY PROFESSIONAL CERTIFICATE.</p>
 					</li>
 
 {/*
