@@ -48,7 +48,7 @@ const Certifications = () => {
 							<Button
 								button=""
 								buttonClassName="cnsp clickable pages"
-								buttonHref="/assets/certifications/Google-Cybersecurity-Professional-Certificate.pdf"
+								buttonHref="/assets/certifications/Certified-Network-Security-Practitioner.pdf"
 								target="_blank"
 								ariaLabel="Check out my CNSP certificate"
 							/>
