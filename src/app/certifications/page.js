@@ -40,7 +40,8 @@ const Certifications = () => {
 								aria-label="Check out my EJPT certificate"
 							/>
 						</div>
-						<p className="description">E-LEARN SECURITY JUNIOR PENETRATION TESTER - INE SECURITY.</p>
+						<p className="description">E-LEARN SECURITY JUNIOR PENETRATION TESTER.</p>
+						<p className="description">OFFERED BY: INE SECURITY.</p>
 					</li>
 
 					<li>
@@ -53,7 +54,8 @@ const Certifications = () => {
 								ariaLabel="Check out my CNSP certificate"
 							/>
 						</div>
-						<p className="description">CERTIFIED NETWORK SECURITY PRACTITIONER - SECOPS GROUP.</p>
+						<p className="description">CERTIFIED NETWORK SECURITY PRACTITIONER.</p>
+						<p className="description">BY: SECOPS GROUP.</p>
 					</li>
      
 {/*
