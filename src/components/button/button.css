@@ -260,6 +260,15 @@
 }
 
 
+.kryptos::after {
+  content:"KRYPTOS";
+}
+
+.kryptos:hover::after {
+  content:"KRYP705";
+}
+
+
 .kunal::after {
   content:"KUNAL WALAVALKAR";
 }
