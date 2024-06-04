@@ -33,19 +33,6 @@ const Projects = () => {
 						<div className="capital">
 							<Button
 								button=""
-								buttonClassName="cipher clickable pages"
-								buttonHref="https://d-cipher.streamlit.app/"
-								target="_blank"
-								ariaLabel="Check out the D Cipher project"
-							/>
-						</div>
-						<p className="description">CRYPTOGRAPHY TOOLKIT THAT ALLOWS USERS TO ENCRYPT AND DECRYPT THEIR TEXT USING AN ALGORITHM OF THEIR CHOICE.</p>
-					</li>
-	
-					<li>
-						<div className="capital">
-							<Button
-								button=""
 								buttonClassName="empower clickable pages"
 								buttonHref="https://github.com/KuNull/Custos-Shell"
 								target="_blank"
@@ -66,6 +53,19 @@ const Projects = () => {
 							/>
 						</div>
 						<p className="description">COMMAND-LINE UTILITY TO DUMP THE BINARY AND HEXADECIMAL RENDITION OF A FILE.</p>
+					</li>
+
+					<li>
+						<div className="capital">
+							<Button
+								button=""
+								buttonClassName="kryptos clickable pages"
+								buttonHref="https://d-cipher.streamlit.app/"
+								target="_blank"
+								ariaLabel="Check out the D Cipher project"
+							/>
+						</div>
+						<p className="description">CRYPTOGRAPHY TOOLKIT THAT ALLOWS USERS TO ENCRYPT AND DECRYPT THEIR TEXT USING AN ALGORITHM OF THEIR CHOICE.</p>
 					</li>
 	
 					<li>
