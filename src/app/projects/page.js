@@ -91,7 +91,7 @@ const Projects = () => {
 								ariaLabel="Check out the OpenSOC project"
 							/>
 						</div>
-						<p className="description">PROOF OF CONCEPT FOR SECURITY OPERATIONS CENTRE MADE USING OPEN SOURCE TOOLS.</p>
+						<p className="description">POC FOR IMPLEMENTING OPEN SOURCE SECURITY OPERATIONS CENTRE WHICH POSSESES AUTOMATION CAPABILITIES.</p>
 					</li>
 	
 	{/*				
