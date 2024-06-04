@@ -41,7 +41,6 @@ const Certifications = () => {
 							/>
 						</div>
 						<p className="description">E-LEARN SECURITY JUNIOR PENETRATION TESTER.</p>
-						<p className="description">OFFERED BY: INE SECURITY.</p>
 					</li>
 
 					<li>
@@ -55,7 +54,6 @@ const Certifications = () => {
 							/>
 						</div>
 						<p className="description">CERTIFIED NETWORK SECURITY PRACTITIONER.</p>
-						<p className="description">BY: SECOPS GROUP.</p>
 					</li>
      
 {/*
@@ -83,7 +81,7 @@ const Certifications = () => {
 								ariaLabel="Check out my ICCA certificate"
 							/>
 						</div>
-						<p className="description">INE CERTIFIED CLOUD ASSOCIATE - INE.</p>
+						<p className="description">INE CERTIFIED CLOUD ASSOCIATE.</p>
 					</li>
 
 					<li>
@@ -96,7 +94,7 @@ const Certifications = () => {
 								ariaLabel="Check out my NSE certificate"
 							/>
 						</div>
-						<p className="description">NETWORK SECURITY EXPERT LEVEL 1 - FORTINET TRAINING INSTITUTE.</p>
+						<p className="description">NETWORK SECURITY EXPERT LEVEL 1.</p>
 					</li>
 
 					<li>
@@ -109,7 +107,7 @@ const Certifications = () => {
 								ariaLabel="Check out my Google Cybersecurity Professional certificate"
 							/>
 						</div>
-						<p className="description">CYBERSECURITY PROFESSIONAL CERTIFICATE - GOOGLE.</p>
+						<p className="description">GOOGLE CYBERSECURITY PROFESSIONAL CERTIFICATE.</p>
 					</li>
 
 {/*
