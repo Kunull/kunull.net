@@ -60,9 +60,9 @@ const Projects = () => {
 							<Button
 								button=""
 								buttonClassName="kryptos clickable pages"
-								buttonHref="https://d-cipher.streamlit.app/"
+								buttonHref="https://kryptos.streamlit.app/"
 								target="_blank"
-								ariaLabel="Check out the D Cipher project"
+								ariaLabel="Check out the Kryptos project"
 							/>
 						</div>
 						<p className="description">CRYPTOGRAPHY TOOLKIT THAT ALLOWS USERS TO ENCRYPT AND DECRYPT THEIR TEXT USING AN ALGORITHM OF THEIR CHOICE.</p>
