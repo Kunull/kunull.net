@@ -296,6 +296,15 @@
 }
 
 
+.notes::after {
+  content:"NOTES";
+}
+
+.notes:hover::after {
+  content:"N0735";
+}
+
+
 .nse1::after {
   content:"NSE 1";
 }
@@ -338,6 +347,15 @@
 
 .projects:hover::after {
   content:"9R0J3C75";
+}
+
+
+.reports::after {
+  content:"REPORTS";
+}
+
+.reports:hover::after {
+  content:"R390R75";
 }
 
 
