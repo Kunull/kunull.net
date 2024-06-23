@@ -96,7 +96,17 @@ const Footer = () => {
 						target="_blank"
 						ariaLabel="Visit my LinkedIn profile"
 	    				/>
-  				</li>	
+  				</li>
+
+				<li className="footerLi">
+					<Button 
+	          				button=""
+				  		buttonClassName="notes clickable"
+						buttonHref=""
+						target="_blank"
+						ariaLabel="Visit my LinkedIn profile"
+	    				/>
+  				</li>
 
 				<li className="footerLi">
 					<Button 
@@ -106,7 +116,17 @@ const Footer = () => {
 						target="_blank"
 						ariaLabel="Get my public PGP key"
 	    				/>
-  				</li>		
+  				</li>	
+
+			  	<li className="footerLi">
+					<Button 
+	    					button=""
+						buttonClassName="reports clickable"
+						buttonHref=""
+						target="_blank"
+						ariaLabel="Check out my resume"
+	  				/>
+				</li>
 
 			  	<li className="footerLi">
 					<Button 
