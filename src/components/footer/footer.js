@@ -98,6 +98,7 @@ const Footer = () => {
 	    				/>
   				</li>
 
+{/*
 				<li className="footerLi">
 					<Button 
 	          				button=""
@@ -107,6 +108,7 @@ const Footer = () => {
 						ariaLabel="Visit my LinkedIn profile"
 	    				/>
   				</li>
+*/}
 
 				<li className="footerLi">
 					<Button 
@@ -118,6 +120,7 @@ const Footer = () => {
 	    				/>
   				</li>	
 
+{/*
 			  	<li className="footerLi">
 					<Button 
 	    					button=""
@@ -127,6 +130,7 @@ const Footer = () => {
 						ariaLabel="Check out my resume"
 	  				/>
 				</li>
+*/}
 
 			  	<li className="footerLi">
 					<Button 
