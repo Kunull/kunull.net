@@ -12,7 +12,7 @@
 	--shadow-blur: 10px;
 	--font-primary: "VCR OSD Mono", monospace;
 	--font-size-primary: clamp(24px,4.2vw,84px);
-	--font-size-secondary: clamp(16px,1.6vw,44px);
+	--font-size-secondary: clamp(16px,1.8vw,44px);
 	--font-size-tertiary: clamp(20px,2vw,52px);
 	--font-size-quaternary: clamp(20px,25vw,500px);
 }
