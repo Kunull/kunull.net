@@ -16,7 +16,7 @@ const NotFound = () => {
         <Button 
               button="" 
               buttonClassName="zero clickable pages glitch layers" 
-              data-text: "0"
+              data-text="0"
               buttonHref="/" 
               ariaLabel="Go to my Projects page"
         />
