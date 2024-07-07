@@ -6,7 +6,7 @@ const Navbar = ({ button, buttonClassName, buttonHref, slash, slashClassName, pa
 	return (
 		<header className="capital">
 				<nav>
-					<div className="stickyNav">
+					<div className="currentNav">
 						<div>
 							<Button button={button} buttonClassName={buttonClassName} buttonHref={buttonHref} ariaLabel={ariaLabel}/>
 						</div>
