@@ -735,6 +735,7 @@ li {
 }
 
 .four-o-four {
+	line-height: 1.4;
 	text-align: center;
   	font-size: var(--font-size-quaternary);
   	text-decoration: none;
