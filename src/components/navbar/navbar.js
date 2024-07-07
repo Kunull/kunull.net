@@ -5,8 +5,8 @@ import '../button/button.css';
 const Navbar = ({ button, buttonClassName, buttonHref, slash, slashClassName, page, pageClassName, smallSlash1, pageOption1, pageOption2, pageOption3, ariaLabel, ariaLabel1, ariaLabel3 }) => {
 	return (
 		<header className="capital">
-				<div className="stickyNav">
-					<nav>
+				<nav className="stickyNav">
+					<div>
 						<div>
 							<Button button={button} buttonClassName={buttonClassName} buttonHref={buttonHref} ariaLabel={ariaLabel}/>
 						</div>
@@ -19,7 +19,7 @@ const Navbar = ({ button, buttonClassName, buttonHref, slash, slashClassName, pa
 							</span>
 							&nbsp;►
 						</div>
-					</nav>
+					</div>
 	
 					<ul className="pageOptionUl">
 						<li className="pageOptionLi">
@@ -51,7 +51,7 @@ const Navbar = ({ button, buttonClassName, buttonHref, slash, slashClassName, pa
 		    					/>
     						</li>
 					</ul>
-				</div>
+				</nav>
 		</header>
 	);
 };
