@@ -20,7 +20,7 @@ const Footer = () => {
 					<Button 
 	          				button=""
 						buttonClassName="email clickable"
-						buttonHref="mailto:kunull@tutamail.com"
+						buttonHref="mailto:llunuk@protonmail.com"
 						target="_blank"
 						ariaLabel="Send me an email"
 	        			/>
