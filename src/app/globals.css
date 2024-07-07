@@ -86,7 +86,7 @@ html {
 	pointer-events: none;
 } */
 
-/* .capital {
+.capital {
 	line-height: 1.4;
 	display: block;
 	margin-block-start: 0;
@@ -94,7 +94,7 @@ html {
 	margin-inline-start: 0px;
 	margin-inline-end: 0px;
 	font-weight: 400;
-} */
+}
 
 p {
 	margin-block-start: 0em;
