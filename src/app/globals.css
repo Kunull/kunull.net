@@ -719,7 +719,7 @@ li {
 }
 
 .personal {
-	line-height: 1.5;
+	line-height: 1.4;
 	font-size: var(--font-size-primary);
 	text-decoration: none;
 	width: 100%;
@@ -743,7 +743,7 @@ li {
 	color: var(--text-secondary);
 }
 
-.capital {
+/* .capital {
 	line-height: 1.4;
 	display: block;
 	margin-block-start: 0;
@@ -751,7 +751,7 @@ li {
 	margin-inline-start: 0px;
 	margin-inline-end: 0px;
 	font-weight: 400;
-}
+} */
 
 .spacing {
 	z-index: 10;
