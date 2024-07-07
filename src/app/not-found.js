@@ -10,7 +10,7 @@ export const metadata = {
 
 const NotFound = () => {
   return (
-    <main className="capital">
+    <main>
       <p className='four-o-four'>
         <span className="">4</span>
         <Button 
