@@ -8,7 +8,7 @@ nav {
 	top: 12.5svh;
 }
 
-.stickyNav {
+.currentNav {
 	line-height: 1.3;
 	align-items: center;
 	display: flex;
