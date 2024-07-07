@@ -5,8 +5,8 @@ import '../button/button.css';
 const Navbar = ({ button, buttonClassName, buttonHref, slash, slashClassName, page, pageClassName, smallSlash1, pageOption1, pageOption2, pageOption3, ariaLabel, ariaLabel1, ariaLabel3 }) => {
 	return (
 		<header className="capital">
-				<nav className="stickyNav">
-					<div>
+				<nav>
+					<div className="stickyNav">
 						<div>
 							<Button button={button} buttonClassName={buttonClassName} buttonHref={buttonHref} ariaLabel={ariaLabel}/>
 						</div>
