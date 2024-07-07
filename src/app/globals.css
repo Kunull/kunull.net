@@ -743,6 +743,16 @@ li {
 	color: var(--text-secondary);
 }
 
+.capital {
+	line-height: 1.4;
+	display: block;
+	margin-block-start: 0;
+	margin-block-end: 0;
+	margin-inline-start: 0px;
+	margin-inline-end: 0px;
+	font-weight: 400;
+}
+
 .spacing {
 	z-index: 10;
 	margin-bottom: 12.5svh;
