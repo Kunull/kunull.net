@@ -10,12 +10,14 @@ nav {
 	width: 100%;
 	text-align: left;
 	margin-bottom: 0.0svh;
-}
-
-.stickyNav {
 	position: sticky;
 	top: 12.5svh;
 }
+
+/* .stickyNav {
+	position: sticky;
+	top: 12.5svh;
+} */
 
 .pageOptionUl {
 	margin-block-start: 0em;
