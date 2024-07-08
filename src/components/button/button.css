@@ -65,6 +65,10 @@
   	width: 100%;
 } */
 
+.hidden {
+	display: none;
+}
+
 .clickable {
   	text-decoration: none;
   	width: 100%;
