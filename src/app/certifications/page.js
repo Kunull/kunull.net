@@ -13,17 +13,18 @@ const Certifications = () => {
 	return (
 		<>
 			<Navbar
-				button="KUNULL"
-				buttonClassName="previousPage clickable glitch layers"
-				buttonHref="/"
-				ariaLabel="Go to KW i.e. home page"
+				previousPage="KUNULL"
+				previousPageClassName="previousPage clickable glitch layers"
+				previousPageAriaLabel="Go to KUNULL i.e. home page"
+				previousPageHref="/"
 				slash="&nbsp;/&nbsp;"
 				slashClassName="slash"
-				page="CERTIFICATIONS"
-				pageClassName="currentPage"
-//				pageOption2="experience clickable"
-				pageOption2="projects clickable"
-				ariaLabel2="Go to my Projects page"
+				currentPage="CERTIFICATIONS"
+				currentPageClassName="currentPage"
+//				option2Page="experience clickable"
+				option2Page="PROJECTS"
+				option2PageClassname="projects clickable"
+				option2PageAriaLabel="Go to my Projects page"
 				// pageOption3="cves clickable"
 				// ariaLabel3="Go to my CVEs page"
 			/>
@@ -33,8 +34,8 @@ const Certifications = () => {
 					<li>
 						<div className="capital">
 							<Button
-								button=""
-								buttonClassName="ejpt clickable pages"
+								button="EJPT"
+								buttonClassName="ejpt primaryButton clickable pages"
 								buttonHref="/assets/certifications/eLearnSecurity-Junior-Penetration-Tester.pdf"
 								target="_blank"
 								aria-label="Check out my EJPT certificate"
@@ -46,8 +47,8 @@ const Certifications = () => {
 					<li>
 						<div className="capital">
 							<Button
-								button=""
-								buttonClassName="cnsp clickable pages"
+								button="CNSP"
+								buttonClassName="cnsp primaryButton clickable pages"
 								buttonHref="/assets/certifications/Certified-Network-Security-Practitioner.pdf"
 								target="_blank"
 								ariaLabel="Check out my CNSP certificate"
@@ -74,8 +75,8 @@ const Certifications = () => {
 					<li>
 						<div className="capital">
 							<Button
-								button=""
-								buttonClassName="icca clickable pages"
+								button="ICCA"
+								buttonClassName="icca primaryButton clickable pages"
 								buttonHref="/assets/certifications/INE-Certified-Cloud-Associate.pdf"
 								target="_blank"
 								ariaLabel="Check out my ICCA certificate"
@@ -87,8 +88,8 @@ const Certifications = () => {
 					<li>
 						<div className="capital">
 							<Button
-								button=""
-								buttonClassName="nse1 clickable pages"
+								button="NSE 1"
+								buttonClassName="nse1 primaryButton clickable pages"
 								buttonHref="/assets/certifications/NSE-Certification.pdf"
 								target="_blank"
 								ariaLabel="Check out my NSE certificate"
@@ -100,8 +101,8 @@ const Certifications = () => {
 					<li>
 						<div className="capital">
 							<Button
-								button=""
-								buttonClassName="google clickable pages"
+								button="GCP"
+								buttonClassName="google primaryButton clickable pages"
 								buttonHref="/assets/certifications/Google-Cybersecurity-Professional-Certificate.pdf"
 								target="_blank"
 								ariaLabel="Check out my Google Cybersecurity Professional certificate"
@@ -141,7 +142,8 @@ const Certifications = () => {
 	*/}
 
 	      			</ul>
-			</main>					
+			</main>	
+					
 			<Footer/>
 		</>
 	);
