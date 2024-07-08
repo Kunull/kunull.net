@@ -58,12 +58,12 @@
   	color: var(--text-secondary);
 } */
 
-.pages {
-/*   	line-height: 1.4;
-  	font-size: var(--font-size-primary); */
-/*   	text-decoration: none;
-  	width: 100%; */
-}
+/* .pages {
+  	line-height: 1.4;
+  	font-size: var(--font-size-primary);
+  	text-decoration: none;
+  	width: 100%;
+} */
 
 .clickable {
   	text-decoration: none;
