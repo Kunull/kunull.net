@@ -7,24 +7,6 @@ const Navbar = ({ previousPage, previousPageClassName, previousPageAriaLabel, pr
 		<header className="capital">
 				<nav>
 					<div className="currentNav">
-						<Button 
-							button={previousPage} 
-							buttonClassName={previousPageClassName} 
-							ariaLabel={previousPageAriaLabel}
-							buttonHref={previousPageHref} 
-						/>
-						<span className={slashClassName}>
-							{slash}
-						</span>
-						<span className={currentPageClassName} data-text={currentPage}>
-							{currentPage}
-						</span>
-						<span>
-							&nbsp;►
-						</span>
-
-							
-		/*
 						<div>
 							<Button 
 								button={previousPage} 
@@ -42,7 +24,6 @@ const Navbar = ({ previousPage, previousPageClassName, previousPageAriaLabel, pr
 							</span>
 							&nbsp;►
 						</div>
-      		*/
 					</div>
 	
 					<ul className="pageOptionUl">
