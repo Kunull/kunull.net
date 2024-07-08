@@ -14,7 +14,7 @@ const Projects = () => {
 		<>
 			<Navbar
 				previousPage="KUNULL"
-				previousPageClassName="previousPage clickable glitch layers"
+				previousPageClassName="previousPage tertiaryButton clickable glitch layers"
 				previousPageAriaLabel="Go to KW i.e. home page"
 				previousPageHref="/"
 				slash="&nbsp;/&nbsp;"
