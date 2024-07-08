@@ -19,10 +19,10 @@ const Certifications = () => {
 				previousPageHref="/"
 				
 				slash="&nbsp;/&nbsp;"
-				slashClassName="slash"
+				slashClassName="tertiaryText slash"
 				
 				currentPage="CERTIFICATIONS"
-				currentPageClassName="currentPage"
+				currentPageClassName="tertiaryText currentPage"
 //				option2Page="experience clickable"
 
 				option1Page="CERTIFICATIONS"
