@@ -1,3 +1,39 @@
+.primaryButton {
+	font-size: 0;
+}
+
+.primaryButton::after {
+  	line-height: 1.4;
+  	font-size: var(--font-size-primary);
+}
+
+.secondaryButton {
+	font-size: 0;
+}
+
+.secondaryButton::after {
+  	line-height: 1.5;
+  	font-size: var(--font-size-secondary);
+}
+
+.tertiaryButton {
+	font-size: 0;
+}
+
+.tertiaryButton::after {
+  	line-height: 1.5;
+  	font-size: var(--font-size-tertiary);
+}
+
+.quaternaryButton {
+	font-size: 0;
+}
+
+.quaternaryButton::after {
+  	line-height: 1.4;
+  	font-size: var(--font-size-quaternary);
+}
+
 .previousPage {
   	font-size: var(--font-size-tertiary);
   	align-items: center;
