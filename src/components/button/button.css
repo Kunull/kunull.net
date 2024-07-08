@@ -34,14 +34,14 @@
   	font-size: var(--font-size-quaternary);
 }
 
-.previousPage {
+/* .previousPage {
   	font-size: var(--font-size-tertiary);
   	align-items: center;
  	display: flex;
   	position: relative;
   	text-align: left;
   	color: var(--text-secondary);
-}
+} */
 
 .pages {
 /*   	line-height: 1.4;
