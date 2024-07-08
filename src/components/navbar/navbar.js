@@ -2,7 +2,7 @@ import Button from '../button/button';
 import './navbar.css';
 import '../button/button.css';
 
-const Navbar = ({ button, buttonClassName, buttonHref, slash, slashClassName, page, pageClassName, smallSlash1, pageOption1, pageOption2, pageOption3, ariaLabel, ariaLabel1, ariaLabel3 }) => {
+const Navbar = ({ button, buttonClassName, buttonHref, slash, slashClassName, page, pageClassName, smallSlash1, pageOption1, pageOption2, pageOption3, pageOption1ClassName, pageOption2ClassName, pageOption3ClassName, ariaLabel, ariaLabel1, ariaLabel3 }) => {
 	return (
 		<header className="capital">
 				<nav>
@@ -24,8 +24,8 @@ const Navbar = ({ button, buttonClassName, buttonHref, slash, slashClassName, pa
 					<ul className="pageOptionUl">
 						<li className="pageOptionLi">
 							<Button 
-		            					button=""
-								buttonClassName={pageOption1}
+		            					button={pageOption1}
+								buttonClassName={pageOption1ClassName}
 								buttonHref="/certifications"
 								ariaLabel={ariaLabel1}
 		   					/>
@@ -34,8 +34,8 @@ const Navbar = ({ button, buttonClassName, buttonHref, slash, slashClassName, pa
 
 						<li className="pageOptionLi">
 							<Button 
-		            					button=""
-								buttonClassName={pageOption2}
+		            					button={pageOption2}
+								buttonClassName={pageOption2ClassName}
 								buttonHref="/projects"
 								ariaLabel={ariaLabel3}
 		           				/>
@@ -44,8 +44,8 @@ const Navbar = ({ button, buttonClassName, buttonHref, slash, slashClassName, pa
 
 						<li className="pageOptionLi">
 							<Button 
-		            					button=""
-								buttonClassName={pageOption3}
+		            					button={pageOption3}
+								buttonClassName={pageOption3ClassName}
 								buttonHref="/cves"
 								ariaLabel={ariaLabel3}
 		    					/>
