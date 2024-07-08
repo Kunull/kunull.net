@@ -1,48 +1,57 @@
+.primary {
+	font-size: 0;
+}
+
+.primary::after {
+	font-size: var(--font-size-tertiary);
+}
+
+
 .previousPage {
-  font-size:var(--font-size-tertiary);
-  align-items:center;
-  display:flex;
-  position:relative;
-  text-align:left;
-  color:var(--text-secondary);
+  	font-size: var(--font-size-tertiary);
+  	align-items: center;
+ 	display: flex;
+  	position: relative;
+  	text-align: left;
+  	color: var(--text-secondary);
 }
 
 .pages {
-  line-height: 1.4;
-  font-size:var(--font-size-primary);
-  text-decoration:none;
-  width:100%;
+  	line-height: 1.4;
+  	font-size: var(--font-size-primary);
+  	text-decoration: none;
+  	width: 100%;
 }
 
 .nonClickable {
-  text-decoration:none;
-  width:100%;
-  color:#fff;
+  	text-decoration: none;
+  	width: 100%;
+  	color: #fff;
 }
 
 .nonClickable:hover {
-  cursor:url('/assets/images/cursor-pointer.png') 10 0,auto;
+  	cursor: url('/assets/images/cursor-pointer.png') 10 0,auto;
 }
 
 .invertCursor .nonClickable:hover {
-  cursor:url('/assets/images/cursor-pointer-filled.png') 10 0,auto;
+  	cursor: url('/assets/images/cursor-pointer-filled.png') 10 0,auto;
 }
 
 .hiddenImg {
-  display:none;
+  	display: none;
 }
 
 .hiddenTxt:hover ~ .hiddenImg {
-  display:block;
-  position:absolute;
-  z-index:50;
-  margin-left:30vw;
+  	display: block;
+  	position: absolute;
+  	z-index: 50;
+  	margin-left: 30vw;
 }
 
 .clickable {
-  text-decoration:none;
-  width:100%;
-  color:#fff;
+  	text-decoration: none;
+  	width: 100%;
+  	color: #fff;
 }
 
 .clickable:hover {
