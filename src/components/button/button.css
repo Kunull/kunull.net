@@ -3,7 +3,8 @@
 }
 
 .primary::after {
-	font-size: var(--font-size-tertiary);
+  	line-height: 1.4;
+  	font-size: var(--font-size-primary);
 }
 
 
@@ -17,8 +18,8 @@
 }
 
 .pages {
-/*   	line-height: 1.4; */
-  	font-size: var(--font-size-primary);
+/*   	line-height: 1.4;
+  	font-size: var(--font-size-primary); */
   	text-decoration: none;
   	width: 100%;
 }
