@@ -40,14 +40,14 @@ nav {
 	padding: 0;
 }
 
-.pageOptionLi {
+/* .pageOptionLi {
 	font-size:var(--font-size-secondary);
 	position:relative;
 	text-align:left;
 	line-height:1.5;
 	color:var(--text-secondary);
 }
-
+ */
 .slash {
 	font-size: var(--font-size-tertiary);
 	color: var(--text-secondary);
