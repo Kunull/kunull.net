@@ -60,13 +60,18 @@ body {
 }
 
 .primaryText {
-  	line-height: 1.4;
-  	font-size: var(--font-size-primary);
+	line-height: 1.4;
+	font-size: var(--font-size-primary);
+	width: 100%;
+	color: var(--text-secondary);
+	text-decoration: none;
 }
 
 .secondaryText {
-  	line-height: 1.5;
-  	font-size: var(--font-size-secondary);
+	line-height: 1.5;
+	font-size: var(--font-size-secondary);
+	width: 100%;
+	color: var(--text-secondary);
 }
 
 .tertiaryText {
