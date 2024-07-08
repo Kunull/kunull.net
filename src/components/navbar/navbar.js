@@ -2,7 +2,7 @@ import Button from '../button/button';
 import './navbar.css';
 import '../button/button.css';
 
-const Navbar = ({ previousPage, previousPageClassName, previosPageAriaLabel, previousPageHref, slash, slashClassName, currentPage, currentPageClassName, smallSlash1, option1Page, option1PageClassName, option1PageAriaLabel, option2Page, option2PageClassName, option2PageAriaLabel, option3Page, option3PageClassName, option3PageAriaLabel }) => {
+const Navbar = ({ previousPage, previousPageClassName, previousPageAriaLabel, previousPageHref, slash, slashClassName, currentPage, currentPageClassName, smallSlash1, option1Page, option1PageClassName, option1PageAriaLabel, option2Page, option2PageClassName, option2PageAriaLabel, option3Page, option3PageClassName, option3PageAriaLabel }) => {
 	return (
 		<header className="capital">
 				<nav>
