@@ -59,6 +59,15 @@ body {
 	cursor: url('/assets/images/cursor-default.png') 0 0, auto;
 }
 
+.primary {
+	font-size: 0;
+}
+
+.primary::after {
+  	line-height: 1.4;
+  	font-size: var(--font-size-primary);
+}
+
 header {
 	height: 25svh;
 	padding-bottom: 10svh;
