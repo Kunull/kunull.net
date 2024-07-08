@@ -28,7 +28,7 @@ const Home = () => {
 				option1PageAriaLabel="Go to my Certifications page"
 //				option2Page="experience clickable"
 				option2Page="PROJECTS"
-				page2OptionClassName="projects secondaryButton clickable"
+				option2PageClassName="projects secondaryButton clickable"
 				option2PageAriaLabel="Go to my Projects page"
 				// pageOption3="cves clickable"
 				// ariaLabel3="Go to my CVEs page"
