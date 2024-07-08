@@ -36,31 +36,31 @@ const Home = () => {
 					
 			<main className="capital">
 				<p className='spacing'>
-					<span className="personal">HELLO. I'M </span>
+					<span className="primaryText">HELLO. I'M </span>
 					<span className="kunal primaryButton nonClickable">KUNAL WALAVALKAR</span>	
-					<span className="personal">, A CYBER SECURITY RESEARCHER AND ENGINEER.</span>
+					<span className="primaryText">, A CYBER SECURITY RESEARCHER AND ENGINEER.</span>
     				</p>								
 								
 				<p className='spacing'>
-					<span className="personal">THIS WEBSITE IS A MEANS TO SHOWCASE MY </span>
+					<span className="primaryText">THIS WEBSITE IS A MEANS TO SHOWCASE MY </span>
 					<Button 
 						button="PROJECTS" 
 						buttonClassName="projects primaryButton clickable" 
 						buttonHref="/projects" 
 						ariaLabel="Go to my Projects page"
 					/>
-					<span className="personal"> AS WELL AS </span>
+					<span className="primaryText"> AS WELL AS </span>
 					<Button
 						button="CERTIFICATIONS"
 						buttonClassName="certifications primaryButton clickable"
 						buttonHref="/certifications"
 						ariaLabel="Go to my Certifications page"
 					/>
-					<span className="personal">.</span>
+					<span className="primaryText">.</span>
 				</p>								
 								
 				<p className='spacing'>
-					<span className="personal">IN MY FREE TIME I CREATE </span>
+					<span className="primaryText">IN MY FREE TIME I CREATE </span>
 					<Button 
 						button="WRITEUPS" 
 						buttonClassName="write-ups primaryButton clickable" 
@@ -68,7 +68,7 @@ const Home = () => {
 						target="_blank"
 						ariaLabel="Go to my write-ups"
 					/>
-					<span className="personal"> FOR CTF CHALLENGES AND BOOT2ROOT MACHINES. I ALSO SHARE MY LEARNINGS AND EXPERIENCES ON MY </span>
+					<span className="primaryText"> FOR CTF CHALLENGES AND BOOT2ROOT MACHINES. I ALSO SHARE MY LEARNINGS AND EXPERIENCES ON MY </span>
 					<Button 
 						button="BLOG" 
 						buttonClassName="blog primaryButton clickable" 
@@ -76,11 +76,11 @@ const Home = () => {
 						target="_blank"
 						ariaLabel="Go to my blog"
 					/>
-					<span className="personal">.</span>
+					<span className="primaryText">.</span>
 				</p>								
 								
 				<p className='spacing'>
-					<span className="personal">SEND ME AN </span>
+					<span className="primaryText">SEND ME AN </span>
 					<Button
 						button="EMAIL"
 						buttonClassName="email primaryButton clickable"
@@ -88,7 +88,7 @@ const Home = () => {
 						target="_blank"
 						ariaLabel="Send me an e-mail"
 					/>
-					<span className="personal"> IF YOU'D LIKE TO GET IN TOUCH. YOU CAN USE MY PUBLIC </span>
+					<span className="primaryText"> IF YOU'D LIKE TO GET IN TOUCH. YOU CAN USE MY PUBLIC </span>
 					<Button
 						button="PGP KEY"
 						buttonClassName="key primaryButton clickable"
@@ -96,7 +96,7 @@ const Home = () => {
 						target="_blank"
 						ariaLabel="Use my pgp key"
 					/>
-					<span className="personal"> FOR ENCRYPTION.</span>
+					<span className="primaryText"> FOR ENCRYPTION.</span>
 				</p>
 			</main>
 
