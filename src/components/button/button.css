@@ -17,7 +17,7 @@
 }
 
 .pages {
-  	line-height: 1.4;
+/*   	line-height: 1.4; */
   	font-size: var(--font-size-primary);
   	text-decoration: none;
   	width: 100%;
