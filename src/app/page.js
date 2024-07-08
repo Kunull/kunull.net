@@ -37,7 +37,7 @@ const Home = () => {
 			<main className="capital">
 				<p className='spacing'>
 					<span className="personal">HELLO. I'M </span>
-					<span className="kunal primaryButton nonClickable pages">KUNAL WALAVALKAR</span>	
+					<span className="kunal primaryButton nonClickable">KUNAL WALAVALKAR</span>	
 					<span className="personal">, A CYBER SECURITY RESEARCHER AND ENGINEER.</span>
     				</p>								
 								
@@ -45,14 +45,14 @@ const Home = () => {
 					<span className="personal">THIS WEBSITE IS A MEANS TO SHOWCASE MY </span>
 					<Button 
 						button="PROJECTS" 
-						buttonClassName="projects primaryButton clickable pages" 
+						buttonClassName="projects primaryButton clickable" 
 						buttonHref="/projects" 
 						ariaLabel="Go to my Projects page"
 					/>
 					<span className="personal"> AS WELL AS </span>
 					<Button
 						button="CERTIFICATIONS"
-						buttonClassName="certifications primaryButton clickable pages"
+						buttonClassName="certifications primaryButton clickable"
 						buttonHref="/certifications"
 						ariaLabel="Go to my Certifications page"
 					/>
@@ -63,7 +63,7 @@ const Home = () => {
 					<span className="personal">IN MY FREE TIME I CREATE </span>
 					<Button 
 						button="WRITEUPS" 
-						buttonClassName="write-ups primaryButton clickable pages" 
+						buttonClassName="write-ups primaryButton clickable" 
 						buttonHref="https://kunullwrite-ups.vercel.app/" 
 						target="_blank"
 						ariaLabel="Go to my write-ups"
@@ -71,7 +71,7 @@ const Home = () => {
 					<span className="personal"> FOR CTF CHALLENGES AND BOOT2ROOT MACHINES. I ALSO SHARE MY LEARNINGS AND EXPERIENCES ON MY </span>
 					<Button 
 						button="BLOG" 
-						buttonClassName="blog primaryButton clickable pages" 
+						buttonClassName="blog primaryButton clickable" 
 						buttonHref="https://kunullblog.vercel.app/" 
 						target="_blank"
 						ariaLabel="Go to my blog"
@@ -83,7 +83,7 @@ const Home = () => {
 					<span className="personal">SEND ME AN </span>
 					<Button
 						button="EMAIL"
-						buttonClassName="email primaryButton clickable pages"
+						buttonClassName="email primaryButton clickable"
 						buttonHref="mailto:llunuk@protonmail.com"
 						target="_blank"
 						ariaLabel="Send me an e-mail"
@@ -91,7 +91,7 @@ const Home = () => {
 					<span className="personal"> IF YOU'D LIKE TO GET IN TOUCH. YOU CAN USE MY PUBLIC </span>
 					<Button
 						button="PGP KEY"
-						buttonClassName="key primaryButton clickable pages"
+						buttonClassName="key primaryButton clickable"
 						buttonHref="/assets/key/kunalwalavalkar_public_key.txt"
 						target="_blank"
 						ariaLabel="Use my pgp key"
