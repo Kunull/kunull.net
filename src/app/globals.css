@@ -59,13 +59,24 @@ body {
 	cursor: url('/assets/images/cursor-default.png') 0 0, auto;
 }
 
-.primary {
-	font-size: 0;
-}
-
-.primary::after {
+.primaryText {
   	line-height: 1.4;
   	font-size: var(--font-size-primary);
+}
+
+.secondaryText {
+  	line-height: 1.5;
+  	font-size: var(--font-size-secondary);
+}
+
+.tertiaryText {
+  	line-height: 1.5;
+  	font-size: var(--font-size-tertiary);
+}
+
+.quaternaryText {
+  	line-height: 1.4;
+  	font-size: var(--font-size-quaternary);
 }
 
 header {
