@@ -15,19 +15,29 @@ const Projects = () => {
 			<Navbar
 				previousPage="KUNULL"
 				previousPageClassName="tertiaryButton clickable glitch layers"
-				previousPageAriaLabel="Go to KW i.e. home page"
+				previousPageAriaLabel="Go to KUNULL i.e. home page"
 				previousPageHref="/"
+				
 				slash="&nbsp;/&nbsp;"
 				slashClassName="slash"
+				
 				currentPage="PROJECTS"
 				currentPageClassName="currentPage"
+//				option2Page="experience clickable"
+
 				option1Page="CERTIFICATIONS"
 				option1PageClassName="certifications secondaryButton clickable"
 				option1PageAriaLabel="Go to my Certifications page"
-//				pageOption2="experience clickable"
-				// pageOption3="cves clickable"
-				// ariaLabel3="Go to my CVEs page"
+	
+				option2Page="PROJECTS"
+				option2PageClassName="projects hidden clickable"
+				option2PageAriaLabel="Go to my Projects page"
+
+				option2Page="CVES"
+				option2PageClassName="cves hidden clickable"
+				option2PageAriaLabel="Go to my CVEs page"
 			/>
+					
 			<main>
 				<ul>
 					<li>
