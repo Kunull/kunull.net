@@ -8,21 +8,26 @@ const Navbar = ({ previousPage, previousPageClassName, previosPageAriaLabel, pre
 				<nav>
 					<div className="currentNav">
 						<div>
-							<Button button={button} buttonClassName={buttonClassName} buttonHref={buttonHref} ariaLabel={ariaLabel}/>
+							<Button 
+								button={previousPage} 
+								buttonClassName={previousPageClassName} 
+								ariaLabel={previosPageAriaLabel}
+								buttonHref={previousPageHref} 
+							/>
 						</div>
 						<div className={slashClassName}>
 							{slash}
 						</div>
-						<div className={pageClassName} data-text={page}>
+						<div className={currentPageClassName} data-text={currentPage}>
 							<span>
-								{page}
+								{currentPage}
 							</span>
 							&nbsp;►
 						</div>
 					</div>
 	
 					<ul className="pageOptionUl">
-						<li className="pageOptionLi">
+						<li className="option1Page">
 							<Button 
 		            					button={option1Page}
 								buttonClassName={option1PageClassName}
@@ -32,7 +37,7 @@ const Navbar = ({ previousPage, previousPageClassName, previosPageAriaLabel, pre
 	    					</li>
 						
 
-						<li className="pageOptionLi">
+						<li className="option1Page">
 							<Button 
 		            					button={option2page}
 								buttonClassName={option2pageClassName}
@@ -42,7 +47,7 @@ const Navbar = ({ previousPage, previousPageClassName, previosPageAriaLabel, pre
 	          				</li>
 
 
-						<li className="pageOptionLi">
+						<li className="option1Page">
 							<Button 
 		            					button={option3Page}
 								buttonClassName={option3PageClassName}
