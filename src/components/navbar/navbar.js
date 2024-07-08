@@ -2,8 +2,12 @@ import Button from '../button/button';
 import './navbar.css';
 import '../button/button.css';
 
-const Navbar = ({ previousPage, previousPageClassName, previousPageHref, slash, slashClassName, currentPage, currentPageClassName, smallSlash1, 
-		 pageOption1, pageOption2, pageOption3, pageOption1ClassName, pageOption2ClassName, pageOption3ClassName, ariaLabel, ariaLabel1, ariaLabel3 }) => {
+const Navbar = ({ previousPage, previousPageClassName, previosPageAriaLabel, previousPageHref, 
+		 slash, slashClassName, 
+		 currentPage, currentPageClassName, smallSlash1, 
+		 option1Page, option1PageClassName, option1PageAriaLabel, 
+		 option2Page, option2PageClassName, option2PageAriaLabel, 
+		 option3Page, option3PageClassName, option3PageAriaLabel }) => {
 	return (
 		<header className="capital">
 				<nav>
@@ -25,30 +29,30 @@ const Navbar = ({ previousPage, previousPageClassName, previousPageHref, slash, 
 					<ul className="pageOptionUl">
 						<li className="pageOptionLi">
 							<Button 
-		            					button={pageOption1}
-								buttonClassName={pageOption1ClassName}
+		            					button={option1Page}
+								buttonClassName={option1PageClassName}
 								buttonHref="/certifications"
-								ariaLabel={ariaLabel1}
+								ariaLabel={option1PageAriaLabel}
 		   					/>
 	    					</li>
 						
 
 						<li className="pageOptionLi">
 							<Button 
-		            					button={pageOption2}
-								buttonClassName={pageOption2ClassName}
+		            					button={option2page}
+								buttonClassName={option2pageClassName}
 								buttonHref="/projects"
-								ariaLabel={ariaLabel3}
+								ariaLabel={option2PageAriaLabel}
 		           				/>
 	          				</li>
 
 
 						<li className="pageOptionLi">
 							<Button 
-		            					button={pageOption3}
-								buttonClassName={pageOption3ClassName}
+		            					button={option3Page}
+								buttonClassName={option3PageClassName}
 								buttonHref="/cves"
-								ariaLabel={ariaLabel3}
+								ariaLabel={option2PageAriaLabel}
 		    					/>
     						</li>
 					</ul>
