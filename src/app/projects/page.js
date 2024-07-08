@@ -34,7 +34,7 @@ const Projects = () => {
 						<div className="capital">
 							<Button
 								button="EMPOWERSHELL"
-								buttonClassName="empower primaryButton clickable pages"
+								buttonClassName="empower primaryButton clickable"
 								buttonHref="https://github.com/KuNull/Custos-Shell"
 								target="_blank"
 								ariaLabel="Check out the Empowershell project"
@@ -47,7 +47,7 @@ const Projects = () => {
 						<div className="capital">
 							<Button
 								button="HEXPLORER"
-								buttonClassName="hexplorer primaryButton clickable pages"
+								buttonClassName="hexplorer primaryButton clickable"
 								buttonHref="https://github.com/KuNull/Hexplorer/"
 								target="_blank"
 								ariaLabel="Check out the Hexplorer project"
@@ -60,7 +60,7 @@ const Projects = () => {
 						<div className="capital">
 							<Button
 								button="KRUPTOS"
-								buttonClassName="kryptos primaryButton clickable pages"
+								buttonClassName="kryptos primaryButton clickable"
 								buttonHref="https://kryptos.streamlit.app/"
 								target="_blank"
 								ariaLabel="Check out the Kryptos project"
@@ -73,7 +73,7 @@ const Projects = () => {
 						<div className="capital">
 							<Button
 								button="NETSLEUTH"
-								buttonClassName="netSleuth primaryButton clickable pages"
+								buttonClassName="netSleuth primaryButton clickable"
 								buttonHref="https://github.com/KuNull/NetSleuth/"
 								target="_blank"
 								ariaLabel="Check out the NetSleuth project"
@@ -86,7 +86,7 @@ const Projects = () => {
 						<div className="capital">
 							<Button
 								button="O.S.S.O.C."
-								buttonClassName="ossoc primaryButton clickable pages"
+								buttonClassName="ossoc primaryButton clickable"
 								buttonHref="https://ossoc.gitbook.io/"
 								target="_blank"
 								ariaLabel="Check out the OpenSOC project"
@@ -100,7 +100,7 @@ const Projects = () => {
 						<h2>
 							<Button
 								button=""
-								buttonClassName="passward clickable pages"
+								buttonClassName="passward clickable"
 								buttonHref=""
 								target="_blank"
 							/>
@@ -112,7 +112,7 @@ const Projects = () => {
 						<div className="capital">
 							<Button
 								button="PROBE"
-								buttonClassName="probe primaryButton clickable pages"
+								buttonClassName="probe primaryButton clickable"
 								buttonHref="https://github.com/KuNull/Probe"
 								target="_blank"
 								ariaLabel="Check out the Probe project"
@@ -126,7 +126,7 @@ const Projects = () => {
 						<h2>
 							<Button
 								button=""
-								buttonClassName="pyrefox clickable pages"
+								buttonClassName="pyrefox clickable"
 								buttonHref="https://github.com/KuNull/PyreFox"
 								target="_blank"
 							/>
@@ -140,7 +140,7 @@ const Projects = () => {
 						<div className="capital">
 							<Button
 								button=""
-								buttonClassName="signum clickable pages"
+								buttonClassName="signum clickable"
 								buttonHref="https://signum-mu.vercel.app/"
 								target="_blank"
 								ariaLabel="Check out the Signum project"
@@ -155,7 +155,7 @@ const Projects = () => {
 						<div className="capital">
 							<Button
 								button=""
-								buttonClassName="steghound clickable pages"
+								buttonClassName="steghound clickable"
 								buttonHref=""
 								target="_blank"
 								ariaLabel="Check out the Steghound project"
@@ -170,7 +170,7 @@ const Projects = () => {
 						<div className="capital">
 							<Button
 								button=""
-								buttonClassName="suiteBox clickable pages"
+								buttonClassName="suiteBox clickable"
 								buttonHref=""
 								target="_blank"
 								aria-label="Check out the SuiteBox project"
@@ -184,7 +184,7 @@ const Projects = () => {
 						<div className="capital">
 							<Button
 								button="RISKORE"
-								buttonClassName="riskore primaryButton clickable pages"
+								buttonClassName="riskore primaryButton clickable"
 								buttonHref="https://riskore.vercel.app/"
 								target="_blank"
 								ariaLabel="Check out the RiSkore project"
