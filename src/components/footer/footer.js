@@ -156,7 +156,7 @@ const Footer = () => {
 
 				<li className="footerLi">
 					<Button 
-	          				button=WRITEUPS""
+	          				button="WRITEUPS"
 						buttonClassName="write-ups secondaryButton clickable"
 						buttonHref="https://kunullwrite-ups.vercel.app"
 						target="_blank"
