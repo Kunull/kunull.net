@@ -48,7 +48,7 @@ nav {
 	color:var(--text-secondary);
 } */
 
-.slash {
+/* .slash {
 	font-size: var(--font-size-tertiary);
 	color: var(--text-secondary);
 }
@@ -56,7 +56,7 @@ nav {
 .currentPage {
 	font-size: var(--font-size-tertiary);
 	color: var(--text-secondary);
-}
+} */
 
 @media (max-width: 960px) {
 	header {
