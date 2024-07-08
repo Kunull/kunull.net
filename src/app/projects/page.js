@@ -13,16 +13,17 @@ const Projects = () => {
 	return (
 		<>
 			<Navbar
-				button="KUNULL"
-				buttonClassName="previousPage clickable glitch layers"
-				ariaLabel="Go to KW i.e. home page"
-				buttonHref="/"
+				previousPage="KUNULL"
+				previousPageClassName="previousPage clickable glitch layers"
+				previousPageAriaLabel="Go to KW i.e. home page"
+				previousPageHref="/"
 				slash="&nbsp;/&nbsp;"
 				slashClassName="slash"
-				page="PROJECTS"
-				pageClassName="currentPage"
-				pageOption1="certifications clickable"
-				ariaLabel1="Go to my Certifications page"
+				currentPage="PROJECTS"
+				currentPageClassName="currentPage"
+				option1Page="CERTIFICATIONS"
+				option1PageClassName="certifications secondaryButton clickable"
+				option1PageAriaLabel="Go to my Certifications page"
 //				pageOption2="experience clickable"
 				// pageOption3="cves clickable"
 				// ariaLabel3="Go to my CVEs page"
@@ -32,8 +33,8 @@ const Projects = () => {
 					<li>
 						<div className="capital">
 							<Button
-								button=""
-								buttonClassName="empower clickable pages"
+								button="EMPOWERSHELL"
+								buttonClassName="empower primaryButton clickable pages"
 								buttonHref="https://github.com/KuNull/Custos-Shell"
 								target="_blank"
 								ariaLabel="Check out the Empowershell project"
@@ -45,8 +46,8 @@ const Projects = () => {
 					<li>
 						<div className="capital">
 							<Button
-								button=""
-								buttonClassName="hexplorer clickable pages"
+								button="HEXPLORER"
+								buttonClassName="hexplorer primaryButton clickable pages"
 								buttonHref="https://github.com/KuNull/Hexplorer/"
 								target="_blank"
 								ariaLabel="Check out the Hexplorer project"
@@ -58,8 +59,8 @@ const Projects = () => {
 					<li>
 						<div className="capital">
 							<Button
-								button=""
-								buttonClassName="kryptos clickable pages"
+								button="KRUPTOS"
+								buttonClassName="kryptos primaryButton clickable pages"
 								buttonHref="https://kryptos.streamlit.app/"
 								target="_blank"
 								ariaLabel="Check out the Kryptos project"
@@ -71,8 +72,8 @@ const Projects = () => {
 					<li>
 						<div className="capital">
 							<Button
-								button=""
-								buttonClassName="netSleuth clickable pages"
+								button="NETSLEUTH"
+								buttonClassName="netSleuth primaryButton clickable pages"
 								buttonHref="https://github.com/KuNull/NetSleuth/"
 								target="_blank"
 								ariaLabel="Check out the NetSleuth project"
@@ -84,8 +85,8 @@ const Projects = () => {
 					<li>
 						<div className="capital">
 							<Button
-								button=""
-								buttonClassName="ossoc clickable pages"
+								button="O.S.S.O.C."
+								buttonClassName="ossoc primaryButton clickable pages"
 								buttonHref="https://ossoc.gitbook.io/"
 								target="_blank"
 								ariaLabel="Check out the OpenSOC project"
@@ -110,8 +111,8 @@ const Projects = () => {
 					<li>
 						<div className="capital">
 							<Button
-								button=""
-								buttonClassName="probe clickable pages"
+								button="PROBE"
+								buttonClassName="probe primaryButton clickable pages"
 								buttonHref="https://github.com/KuNull/Probe"
 								target="_blank"
 								ariaLabel="Check out the Probe project"
@@ -182,8 +183,8 @@ const Projects = () => {
 					<li>
 						<div className="capital">
 							<Button
-								button=""
-								buttonClassName="riskore clickable pages"
+								button="RISKORE"
+								buttonClassName="riskore primaryButton clickable pages"
 								buttonHref="https://riskore.vercel.app/"
 								target="_blank"
 								ariaLabel="Check out the RiSkore project"
