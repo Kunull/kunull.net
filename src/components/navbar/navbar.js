@@ -11,7 +11,7 @@ const Navbar = ({ previousPage, previousPageClassName, previosPageAriaLabel, pre
 							<Button 
 								button={previousPage} 
 								buttonClassName={previousPageClassName} 
-								ariaLabel={previosPageAriaLabel}
+								ariaLabel={previousPageAriaLabel}
 								buttonHref={previousPageHref} 
 							/>
 						</div>
