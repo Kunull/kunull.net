@@ -61,8 +61,8 @@ const Home = () => {
 				<p className='spacing'>
 					<span className="personal">THIS WEBSITE IS A MEANS TO SHOWCASE MY </span>
 					<Button 
-						button="" 
-						buttonClassName="projects clickable pages" 
+						button="PROJECTS" 
+						buttonClassName="projects primary clickable pages" 
 						buttonHref="/projects" 
 						ariaLabel="Go to my Projects page"
 					/>
