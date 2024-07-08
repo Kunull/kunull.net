@@ -39,7 +39,7 @@ const Certifications = () => {
 							target="_blank"
 							aria-label="Check out my EJPT certificate"
 						/>
-						<p className="description">E-LEARN SECURITY JUNIOR PENETRATION TESTER.</p>
+						<p className="secondaryText">E-LEARN SECURITY JUNIOR PENETRATION TESTER.</p>
 					</li>
 
 					<li>
@@ -52,7 +52,7 @@ const Certifications = () => {
 								ariaLabel="Check out my CNSP certificate"
 							/>
 						</div>
-						<p className="description">CERTIFIED NETWORK SECURITY PRACTITIONER.</p>
+						<p className="secondaryText">CERTIFIED NETWORK SECURITY PRACTITIONER.</p>
 					</li>
      
 {/*
@@ -66,7 +66,7 @@ const Certifications = () => {
 								ariaLabel="Check out my Certified in Cybersecurity certificate"
 							/>
 						</div>
-						<p className="description">ISC2 Certified in Cybersecurity.</p>
+						<p className="secondaryText">ISC2 Certified in Cybersecurity.</p>
 					</li>
 */} 
 
@@ -80,7 +80,7 @@ const Certifications = () => {
 								ariaLabel="Check out my ICCA certificate"
 							/>
 						</div>
-						<p className="description">INE CERTIFIED CLOUD ASSOCIATE.</p>
+						<p className="secondaryText">INE CERTIFIED CLOUD ASSOCIATE.</p>
 					</li>
 
 					<li>
@@ -93,7 +93,7 @@ const Certifications = () => {
 								ariaLabel="Check out my NSE certificate"
 							/>
 						</div>
-						<p className="description">NETWORK SECURITY EXPERT LEVEL 1.</p>
+						<p className="secondaryText">NETWORK SECURITY EXPERT LEVEL 1.</p>
 					</li>
 
 					<li>
@@ -106,7 +106,7 @@ const Certifications = () => {
 								ariaLabel="Check out my Google Cybersecurity Professional certificate"
 							/>
 						</div>
-						<p className="description">GOOGLE CYBERSECURITY PROFESSIONAL CERTIFICATE.</p>
+						<p className="secondaryText">GOOGLE CYBERSECURITY PROFESSIONAL CERTIFICATE.</p>
 					</li>
 
 {/*
@@ -120,7 +120,7 @@ const Certifications = () => {
 								ariaLabel="Check out my Practical Network Penetration Tester certificate"
 							/>
 						</div>
-						<p className="description">TCM Security Practical Network Penetration Tester certificate.</p>
+						<p className="secondaryText">TCM Security Practical Network Penetration Tester certificate.</p>
 					</li>
 */}
 
@@ -135,7 +135,7 @@ const Certifications = () => {
 								ariaLabel="Check out my CompTIA Security+ certificate"
 							/>
 						</div>
-						<p className="description">CompTIA Security+ (SY0-701) certificate.</p>
+						<p className="secondaryText">CompTIA Security+ (SY0-701) certificate.</p>
 					</li>
 	*/}
 
