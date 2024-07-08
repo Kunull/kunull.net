@@ -14,7 +14,7 @@ const Certifications = () => {
 		<>
 			<Navbar
 				previousPage="KUNULL"
-				previousPageClassName="previousPage clickable glitch layers"
+				previousPageClassName="previousPage tertiaryButton clickable glitch layers"
 				previousPageAriaLabel="Go to KUNULL i.e. home page"
 				previousPageHref="/"
 				slash="&nbsp;/&nbsp;"
@@ -23,7 +23,7 @@ const Certifications = () => {
 				currentPageClassName="currentPage"
 //				option2Page="experience clickable"
 				option2Page="PROJECTS"
-				option2PageClassName="projects clickable"
+				option2PageClassName="projects secondaryButton clickable"
 				option2PageAriaLabel="Go to my Projects page"
 				// pageOption3="cves clickable"
 				// ariaLabel3="Go to my CVEs page"
