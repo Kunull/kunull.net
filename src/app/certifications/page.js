@@ -34,7 +34,7 @@ const Certifications = () => {
 					<li>
 						<Button
 							button="EJPT"
-							buttonClassName="ejpt primaryButton clickable pages"
+							buttonClassName="ejpt primaryButton clickable"
 							buttonHref="/assets/certifications/eLearnSecurity-Junior-Penetration-Tester.pdf"
 							target="_blank"
 							aria-label="Check out my EJPT certificate"
@@ -46,7 +46,7 @@ const Certifications = () => {
 						<div className="capital">
 							<Button
 								button="CNSP"
-								buttonClassName="cnsp primaryButton clickable pages"
+								buttonClassName="cnsp primaryButton clickable"
 								buttonHref="/assets/certifications/Certified-Network-Security-Practitioner.pdf"
 								target="_blank"
 								ariaLabel="Check out my CNSP certificate"
@@ -60,7 +60,7 @@ const Certifications = () => {
 						<div className="capital">
 							<Button
 								button=""
-								buttonClassName="cc clickable pages"
+								buttonClassName="cc clickable"
 								buttonHref=""
 								target="_blank"
 								ariaLabel="Check out my Certified in Cybersecurity certificate"
@@ -74,7 +74,7 @@ const Certifications = () => {
 						<div className="capital">
 							<Button
 								button="ICCA"
-								buttonClassName="icca primaryButton clickable pages"
+								buttonClassName="icca primaryButton clickable"
 								buttonHref="/assets/certifications/INE-Certified-Cloud-Associate.pdf"
 								target="_blank"
 								ariaLabel="Check out my ICCA certificate"
@@ -87,7 +87,7 @@ const Certifications = () => {
 						<div className="capital">
 							<Button
 								button="NSE 1"
-								buttonClassName="nse1 primaryButton clickable pages"
+								buttonClassName="nse1 primaryButton clickable"
 								buttonHref="/assets/certifications/NSE-Certification.pdf"
 								target="_blank"
 								ariaLabel="Check out my NSE certificate"
@@ -100,7 +100,7 @@ const Certifications = () => {
 						<div className="capital">
 							<Button
 								button="GCP"
-								buttonClassName="google primaryButton clickable pages"
+								buttonClassName="google primaryButton clickable"
 								buttonHref="/assets/certifications/Google-Cybersecurity-Professional-Certificate.pdf"
 								target="_blank"
 								ariaLabel="Check out my Google Cybersecurity Professional certificate"
@@ -114,7 +114,7 @@ const Certifications = () => {
 						<div className="capital">
 							<Button
 								button=""
-								buttonClassName="pnpt clickable pages"
+								buttonClassName="pnpt clickable"
 								buttonHref=""
 								target="_blank"
 								ariaLabel="Check out my Practical Network Penetration Tester certificate"
@@ -129,7 +129,7 @@ const Certifications = () => {
 						<div className="capital">
 							<Button
 								button=""
-								buttonClassName="security-plus clickable pages"
+								buttonClassName="security-plus clickable"
 								buttonHref=""
 								target="_blank"
 								ariaLabel="Check out my CompTIA Security+ certificate"
