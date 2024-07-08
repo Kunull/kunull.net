@@ -21,7 +21,7 @@ const Home = () => {
 				slash=""
 				slashClassName=""
 				page="KUNULL"
-				pageClassName="currentPage glitch layers"
+				pageClassName="tertiary currentPage glitch layers"
 				pageOption1="certifications clickable"
 				ariaLabel1="Go to my Certifications page"
 //				pageOption2="experience clickable"
