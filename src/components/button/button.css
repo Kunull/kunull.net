@@ -5,6 +5,8 @@
 .primaryButton::after {
   	line-height: 1.4;
   	font-size: var(--font-size-primary);
+  	text-decoration: none;
+  	width: 100%;
 }
 
 .secondaryButton {
@@ -14,6 +16,8 @@
 .secondaryButton::after {
   	line-height: 1.5;
   	font-size: var(--font-size-secondary);
+  	text-decoration: none;
+  	width: 100%;
 }
 
 .tertiaryButton {
@@ -23,6 +27,8 @@
 .tertiaryButton::after {
   	line-height: 1.5;
   	font-size: var(--font-size-tertiary);
+  	text-decoration: none;
+  	width: 100%;
 }
 
 .quaternaryButton {
@@ -32,6 +38,8 @@
 .quaternaryButton::after {
   	line-height: 1.4;
   	font-size: var(--font-size-quaternary);
+  	text-decoration: none;
+  	width: 100%;
 }
 
 /* .previousPage {
@@ -46,8 +54,8 @@
 .pages {
 /*   	line-height: 1.4;
   	font-size: var(--font-size-primary); */
-  	text-decoration: none;
-  	width: 100%;
+/*   	text-decoration: none;
+  	width: 100%; */
 }
 
 .nonClickable {
