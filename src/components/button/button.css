@@ -1,14 +1,4 @@
-.primary {
-	font-size: 0;
-}
-
-.primary::after {
-  	line-height: 1.4;
-  	font-size: var(--font-size-primary);
-}
-
-
-.previousPage {
+previousPage {
   	font-size: var(--font-size-tertiary);
   	align-items: center;
  	display: flex;
