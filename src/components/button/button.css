@@ -21,7 +21,13 @@
 }
 
 .tertiaryButton {
-	font-size: 0;
+/* 	font-size: 0; */
+	font-size: var(--font-size-tertiary);
+  	align-items: center;
+ 	display: flex;
+  	position: relative;
+  	text-align: left;
+  	color: var(--text-secondary);
 }
 
 .tertiaryButton::after {
