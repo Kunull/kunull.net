@@ -32,15 +32,13 @@ const Certifications = () => {
 			<main>
 				<ul>
 					<li>
-						<div className="capital">
-							<Button
-								button="EJPT"
-								buttonClassName="ejpt primaryButton clickable pages"
-								buttonHref="/assets/certifications/eLearnSecurity-Junior-Penetration-Tester.pdf"
-								target="_blank"
-								aria-label="Check out my EJPT certificate"
-							/>
-						</div>
+						<Button
+							button="EJPT"
+							buttonClassName="ejpt primaryButton clickable pages"
+							buttonHref="/assets/certifications/eLearnSecurity-Junior-Penetration-Tester.pdf"
+							target="_blank"
+							aria-label="Check out my EJPT certificate"
+						/>
 						<p className="description">E-LEARN SECURITY JUNIOR PENETRATION TESTER.</p>
 					</li>
 
