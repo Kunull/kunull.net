@@ -9,7 +9,6 @@ const Button = ({ button, buttonClassName, buttonHref, target, ariaLabel }) => {
 				<span>
 					{button}
 				</span>
-				// {button}
 			</Link>
 		</>
 	);
