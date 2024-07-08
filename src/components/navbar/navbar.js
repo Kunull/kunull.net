@@ -39,8 +39,8 @@ const Navbar = ({ previousPage, previousPageClassName, previosPageAriaLabel, pre
 
 						<li className="pageOptionLi">
 							<Button 
-		            					button={option2page}
-								buttonClassName={option2pageClassName}
+		            					button={option2Page}
+								buttonClassName={option2PageClassName}
 								buttonHref="/projects"
 								ariaLabel={option2PageAriaLabel}
 		           				/>
