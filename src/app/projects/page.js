@@ -40,7 +40,7 @@ const Projects = () => {
 								ariaLabel="Check out the Empowershell project"
 							/>
 						</div>
-						<p className="description">POWERSHELL UTILITY SCRIPT THAT COMPARES HASHES TO CHECK THE INTEGRITY OF FILES.</p>
+						<p className="secondaryText">POWERSHELL UTILITY SCRIPT THAT COMPARES HASHES TO CHECK THE INTEGRITY OF FILES.</p>
 					</li>
 	
 					<li>
@@ -53,7 +53,7 @@ const Projects = () => {
 								ariaLabel="Check out the Hexplorer project"
 							/>
 						</div>
-						<p className="description">COMMAND-LINE UTILITY TO DUMP THE BINARY AND HEXADECIMAL RENDITION OF A FILE.</p>
+						<p className="secondaryText">COMMAND-LINE UTILITY TO DUMP THE BINARY AND HEXADECIMAL RENDITION OF A FILE.</p>
 					</li>
 
 					<li>
@@ -66,7 +66,7 @@ const Projects = () => {
 								ariaLabel="Check out the Kryptos project"
 							/>
 						</div>
-						<p className="description">CRYPTOGRAPHY TOOLKIT THAT ALLOWS USERS TO ENCRYPT AND DECRYPT THEIR TEXT USING AN ALGORITHM OF THEIR CHOICE.</p>
+						<p className="secondaryText">CRYPTOGRAPHY TOOLKIT THAT ALLOWS USERS TO ENCRYPT AND DECRYPT THEIR TEXT USING AN ALGORITHM OF THEIR CHOICE.</p>
 					</li>
 	
 					<li>
@@ -79,7 +79,7 @@ const Projects = () => {
 								ariaLabel="Check out the NetSleuth project"
 							/>
 						</div>
-						<p className="description">NETWORK SCANNER THAT FINDS ALL THE DEVICES CONNECTED IN THE NETWORK.</p>
+						<p className="secondaryText">NETWORK SCANNER THAT FINDS ALL THE DEVICES CONNECTED IN THE NETWORK.</p>
 					</li>
 	
 					<li>
@@ -92,7 +92,7 @@ const Projects = () => {
 								ariaLabel="Check out the OpenSOC project"
 							/>
 						</div>
-						<p className="description">POC FOR OPEN SOURCE SECURITY OPERATIONS CENTRE WHICH POSSESES AUTOMATION CAPABILITIES.</p>
+						<p className="secondaryText">POC FOR OPEN SOURCE SECURITY OPERATIONS CENTRE WHICH POSSESES AUTOMATION CAPABILITIES.</p>
 					</li>
 	
 	{/*				
@@ -105,7 +105,7 @@ const Projects = () => {
 								target="_blank"
 							/>
 						</h2>
-						<span className="description">Local password manager with a built-in web server/interface.</span>
+						<span className="secondaryText">Local password manager with a built-in web server/interface.</span>
 					</li>
 	*/}
 					<li>
@@ -118,7 +118,7 @@ const Projects = () => {
 								ariaLabel="Check out the Probe project"
 							/>
 						</div>
-						<p className="description">PORTSCANNER THAT IMPLEMENTS MULTITHREADING FOR SWIFT SCANS.</p>
+						<p className="secondaryText">PORTSCANNER THAT IMPLEMENTS MULTITHREADING FOR SWIFT SCANS.</p>
 					</li>
 	
 	{/*
@@ -131,7 +131,7 @@ const Projects = () => {
 								target="_blank"
 							/>
 						</h2>
-						<p className="description">user.js file for hardening Firefox browser.</p>
+						<p className="secondaryText">user.js file for hardening Firefox browser.</p>
 					</li>
 	*/}
 
@@ -146,7 +146,7 @@ const Projects = () => {
 								ariaLabel="Check out the Signum project"
 							/>
 						</div>
-						<p className="description">WEB APP TO GENERATE PASSWORDS AND CHECK THEIR STRENGTH.</p>
+						<p className="secondaryText">WEB APP TO GENERATE PASSWORDS AND CHECK THEIR STRENGTH.</p>
 					</li>
      	*/}
 
@@ -161,7 +161,7 @@ const Projects = () => {
 								ariaLabel="Check out the Steghound project"
 							/>
 						</div>
-						<p className="description">Steganography tool that allows image, text, audio and video steganography.</p>
+						<p className="secondaryText">Steganography tool that allows image, text, audio and video steganography.</p>
 					</li>
 	*/}
 
@@ -176,7 +176,7 @@ const Projects = () => {
 								aria-label="Check out the SuiteBox project"
 							/>
 						</div>
-						<p className="description">Collection of Burp Suite extensions to enhace security testing.</p>
+						<p className="secondaryText">Collection of Burp Suite extensions to enhace security testing.</p>
 					</li>
 	*/}
 					
@@ -190,7 +190,7 @@ const Projects = () => {
 								ariaLabel="Check out the RiSkore project"
 							/>
 						</div>
-						<p className="description">WEB APP TO EVALUATE THE RISK FACED BY AN ORGANIZATION.</p>
+						<p className="secondaryText">WEB APP TO EVALUATE THE RISK FACED BY AN ORGANIZATION.</p>
 					</li>
 				</ul>
 			</main>
