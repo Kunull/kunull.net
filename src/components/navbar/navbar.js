@@ -3,7 +3,7 @@ import './navbar.css';
 import '../button/button.css';
 
 const Navbar = ({ previousPage, previousPageClassName, previousPageHref, slash, slashClassName, currentPage, currentPageClassName, smallSlash1, 
-		 pageOption1, pageOption2, pageOption3, pageOption1ClassName, pageOption2ClassName, pageOption3ClassName, ariaLabel, ariaLabel1, ariaLabel3 })=> {
+		 pageOption1, pageOption2, pageOption3, pageOption1ClassName, pageOption2ClassName, pageOption3ClassName, ariaLabel, ariaLabel1, ariaLabel3 }) => {
 	return (
 		<header className="capital">
 				<nav>
