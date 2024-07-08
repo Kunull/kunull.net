@@ -1,6 +1,6 @@
+import Button from '../components/button/button';
 import Navbar from '../../components/navbar/navbar';
 import Footer from '../../components/footer/footer';
-import Button from '../../components/button/button';
 
 export const metadata = {
   title: 'CVEs | Kunal Walavalkar',
