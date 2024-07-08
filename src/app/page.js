@@ -15,10 +15,10 @@ const Home = () => {
 	return (
 		<>
 			<Navbar
-				previousPage=""
-				previousPageClassName=""
-				previousAriaLabel=""
-				previousPageHref=""
+				previousPage="KUNULL"
+				previousPageClassName="hidden"
+				previousAriaLabel="Go to Kunull (i.e. home page)"
+				previousPageHref="/"
 				slash=""
 				slashClassName=""
 				currentPage="KUNULL"
