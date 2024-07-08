@@ -22,6 +22,7 @@
 
 .tertiaryButton {
 /* 	font-size: 0; */
+	line-height: 1.3;
 	font-size: var(--font-size-tertiary);
   	align-items: center;
  	display: flex;
@@ -30,12 +31,12 @@
   	color: var(--text-secondary);
 }
 
-.tertiaryButton::after {
-  	line-height: 1.5;
+/* .tertiaryButton::after {
+  	line-height: 1.3;
   	font-size: var(--font-size-tertiary);
   	text-decoration: none;
   	width: 100%;
-}
+} */
 
 .quaternaryButton {
 	font-size: 0;
