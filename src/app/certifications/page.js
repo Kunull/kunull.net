@@ -23,7 +23,7 @@ const Certifications = () => {
 				currentPageClassName="currentPage"
 //				option2Page="experience clickable"
 				option2Page="PROJECTS"
-				option2PageClassname="projects clickable"
+				option2PageClassName="projects clickable"
 				option2PageAriaLabel="Go to my Projects page"
 				// pageOption3="cves clickable"
 				// ariaLabel3="Go to my CVEs page"
