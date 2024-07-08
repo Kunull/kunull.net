@@ -15,13 +15,13 @@ const Home = () => {
 	return (
 		<>
 			<Navbar
-				button=""
-				buttonClassName=""
-				buttonHref=""
+				previousPage=""
+				previousPageClassName=""
+				previousPageHref=""
 				slash=""
 				slashClassName=""
-				page="KUNULL"
-				pageClassName="tertiary currentPage glitch layers"
+				currentPage="KUNULL"
+				currentPageClassName="tertiary currentPage glitch layers"
 				pageOption1="CERTIFICATIONS"	
 				pageOption1ClassName="certifications secondaryButton clickable"
 				ariaLabel1="Go to my Certifications page"
