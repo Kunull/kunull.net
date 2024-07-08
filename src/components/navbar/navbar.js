@@ -27,7 +27,7 @@ const Navbar = ({ previousPage, previousPageClassName, previosPageAriaLabel, pre
 					</div>
 	
 					<ul className="pageOptionUl">
-						<li className="option1Page">
+						<li className="pageOptionLi">
 							<Button 
 		            					button={option1Page}
 								buttonClassName={option1PageClassName}
@@ -37,7 +37,7 @@ const Navbar = ({ previousPage, previousPageClassName, previosPageAriaLabel, pre
 	    					</li>
 						
 
-						<li className="option1Page">
+						<li className="pageOptionLi">
 							<Button 
 		            					button={option2page}
 								buttonClassName={option2pageClassName}
@@ -47,7 +47,7 @@ const Navbar = ({ previousPage, previousPageClassName, previosPageAriaLabel, pre
 	          				</li>
 
 
-						<li className="option1Page">
+						<li className="pageOptionLi">
 							<Button 
 		            					button={option3Page}
 								buttonClassName={option3PageClassName}
