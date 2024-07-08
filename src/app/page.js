@@ -34,28 +34,8 @@ const Home = () => {
 			<main className="capital">
 				<p className='spacing'>
 					<span className="personal">HELLO. I'M </span>
-					<span className="kunal nonClickable pages">
-{/*						
-						<div class="profilepic">
-  							<img src={profilepic} width="200" alt=""/>
-						</div>	
-*/}					
-					</span>	
-{/*	
-					<span className="personal">, AKA </span>
-					<span className="knign nonClickable pages">
-*/}	
-{/*						
-						<div class="profilepic2">
-  							<img src={profilepic2} width="200" alt=""/>
-						</div>	
-					
-     					</span>
-*/}	
+					<span className="kunal nonClickable pages">	
 					<span className="personal">, A CYBER SECURITY RESEARCHER AND ENGINEER.</span>
-{/*					
-					<span className="personal">, A PENETRATION TESTER BY PROFESSION AND CVE RESEARCHER BY AVOCATION.</span>
-*/}
     				</p>								
 								
 				<p className='spacing'>
@@ -68,20 +48,11 @@ const Home = () => {
 					/>
 					<span className="personal"> AS WELL AS </span>
 					<Button
-						button=""
+						button="CERTIFICATIONS"
 						buttonClassName="certifications clickable pages"
 						buttonHref="/certifications"
 						ariaLabel="Go to my Certifications page"
 					/>
-{/*					
-					<span className="personal"> AND ALSO SHARE MY </span>
-					<Button
-						button=""
-						buttonClassName="experience clickable pages"
-						buttonHref="/experience"
-						aria-label="Go to my Experience page"
-					/>
-*/}
 					<span className="personal">.</span>
 				</p>								
 								
