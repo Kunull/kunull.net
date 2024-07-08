@@ -68,7 +68,7 @@ const Home = () => {
 						target="_blank"
 						ariaLabel="Go to my write-ups"
 					/>
-					<span className="primaryText"> FOR CTF CHALLENGES AND BOOT2ROOT MACHINES. I ALSO SHARE MY LEARNINGS AND EXPERIENCES ON MY </span>
+					<span className="primaryText"> FOR CTF CHALLENGES AND BOOT2ROOT MACHINES. I ALSO HAVE A </span>
 					<Button 
 						button="BLOG" 
 						buttonClassName="blog primaryButton clickable" 
@@ -76,7 +76,7 @@ const Home = () => {
 						target="_blank"
 						ariaLabel="Go to my blog"
 					/>
-					<span className="primaryText">.</span>
+					<span className="primaryText"> WHERE I WRITE ABOUT MY INTERESTS.</span>
 				</p>								
 								
 				<p className='spacing'>
