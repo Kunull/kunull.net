@@ -13,19 +13,21 @@ const CVEs = () => {
 	return (
 		<>
 			<Navbar
-				button="KUNULL"
-				buttonClassName="previousPage clickable glitch layers"
-				ariaLabel="Go to KW i.e. home page"
-				buttonHref="/"
+				previousPage="KUNULL"
+				previousPageClassName="previousPage tertiaryButton clickable glitch layers"
+				previousPageAriaLabel="Go to KW i.e. home page"
+				previousPageHref="/"
 				slash="&nbsp;/&nbsp;"
 				slashClassName="slash"
-				page="CVES"
-				pageClassName="currentPage"
-				pageOption1="certifications clickable"
-				ariaLabel1="Go to my Certifications page"
+				currentPage="CVES"
+				currentPageClassName="tertiaryText currentPage"
+				option1Page="CERTIFICATIONS"
+				option1PageClassName="certifications secondaryButton clickable"
+				option1PageAriaLabel="Go to my Certifications page"
 //				pageOption2="experience clickable"
-				pageOption2="projects clickable"
-				ariaLabel2="Go to my Projects page"
+				option2Page="projects"
+				option2PageClassName="projects secondaryButton clickable"
+				option2PageAriaLabel="Go to my Projects page"
 			/>
 
       			<main className="capital">
