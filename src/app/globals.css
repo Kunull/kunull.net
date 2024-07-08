@@ -77,11 +77,16 @@ body {
 .tertiaryText {
   	line-height: 1.3;
   	font-size: var(--font-size-tertiary);
+	color: var(--text-secondary);
 }
 
 .quaternaryText {
-  	line-height: 1.4;
+	line-height: 1.4;
+	text-align: center;
   	font-size: var(--font-size-quaternary);
+  	text-decoration: none;
+	width: 100%;
+	color: var(--text-secondary);
 }
 
 header {
