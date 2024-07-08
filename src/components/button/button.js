@@ -6,10 +6,9 @@ const Button = ({ button, buttonClassName, buttonHref, target, ariaLabel }) => {
 	return (
 		<>
 			<Link className={buttonClassName} href={buttonHref} target={target} data-text={button} aria-label={ariaLabel}>
-				// <span>
-				// 	{button}
-				// </span>
-				{button}
+				<span>
+					{button}
+				</span>
 			</Link>
 		</>
 	);
