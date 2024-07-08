@@ -8,8 +8,8 @@ const Footer = () => {
      			<ul className="footerUl">
 				<li className="footerLi">
 					<Button 
-	          				button=""
-						buttonClassName="blog clickable"
+	          				button="BLOG"
+						buttonClassName="blog secondaryButton clickable"
 						buttonHref="https://kunullblog.vercel.app"
 						target="_blank"
 						ariaLabel="Visit my blog"
@@ -18,8 +18,8 @@ const Footer = () => {
 							
 				<li className="footerLi">
 					<Button 
-	          				button=""
-						buttonClassName="email clickable"
+	          				button="EMAIL"
+						buttonClassName="email secondaryButton clickable"
 						buttonHref="mailto:llunuk@protonmail.com"
 						target="_blank"
 						ariaLabel="Send me an email"
@@ -28,8 +28,8 @@ const Footer = () => {
 		
 				<li className="footerLi">
 	        			<Button 
-	    					button=""
-						buttonClassName="github clickable"
+	    					button="GITHUB"
+						buttonClassName="github secondaryButton clickable"
 						buttonHref="https://github.com/kunull"
 						target="_blank"
 			  			ariaLabel="Visit my Github profile"
@@ -90,8 +90,8 @@ const Footer = () => {
 */}
 				<li className="footerLi">
 					<Button 
-	          				button=""
-				  		buttonClassName="linkedin clickable"
+	          				button="LINKEDIN"
+				  		buttonClassName="linkedin secondaryButton clickable"
 						buttonHref="https://www.linkedin.com/in/kunalwalavalkar/"
 						target="_blank"
 						ariaLabel="Visit my LinkedIn profile"
@@ -112,8 +112,8 @@ const Footer = () => {
 
 				<li className="footerLi">
 					<Button 
-	          				button=""
-				  		buttonClassName="key clickable"
+	          				button="PGP KEY"
+				  		buttonClassName="key secondaryButton clickable"
 						buttonHref="https://kunull.vercel.app/assets/key/kunalwalavalkar_public_key.txt"
 						target="_blank"
 						ariaLabel="Get my public PGP key"
@@ -134,8 +134,8 @@ const Footer = () => {
 
 			  	<li className="footerLi">
 					<Button 
-	    					button=""
-						buttonClassName="resume clickable"
+	    					button="RESUME"
+						buttonClassName="resume secondaryButton clickable"
 						buttonHref="/assets/resume/Kunal-Walavalkar-Resume.pdf"
 						target="_blank"
 						ariaLabel="Check out my resume"
@@ -156,8 +156,8 @@ const Footer = () => {
 
 				<li className="footerLi">
 					<Button 
-	          				button=""
-						buttonClassName="write-ups clickable"
+	          				button=WRITEUPS""
+						buttonClassName="write-ups secondaryButton clickable"
 						buttonHref="https://kunullwrite-ups.vercel.app"
 						target="_blank"
 						ariaLabel="Visit out my CTF write-ups"
