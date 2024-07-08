@@ -33,9 +33,9 @@ const Certifications = () => {
 				option2PageClassName="projects secondaryButton clickable"
 				option2PageAriaLabel="Go to my Projects page"
 
-				option2Page="CVES"
-				option2PageClassName="cves hidden clickable"
-				option2PageAriaLabel="Go to my CVEs page"
+				option3Page="CVES"
+				option3PageClassName="cves hidden clickable"
+				option3PageAriaLabel="Go to my CVEs page"
 			/>
 
 			<main>
