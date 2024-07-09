@@ -15,7 +15,7 @@ const Projects = () => {
 			<Navbar
 				previousPage="KUNULL"
 				previousPageClassName="tertiaryButton clickable glitch layers"
-				previousPageAriaLabel="Go to KUNULL i.e. home page"
+				previousPageAriaLabel=""
 				previousPageHref="/"
 				
 				slash="&nbsp;/&nbsp;"
@@ -27,16 +27,17 @@ const Projects = () => {
 
 				option1Page="CERTIFICATIONS"
 				option1PageClassName="certifications secondaryButton clickable"
-				option1PageAriaLabel="Go to my Certifications page"
+				option1PageAriaLabel=""
 	
 				option2Page="PROJECTS"
 				option2PageClassName="projects hidden clickable"
-				option2PageAriaLabel="Go to my Projects page"
+				option2PageAriaLabel=""
 
 				option3Page="CVES"
 				option3PageClassName="cves secondaryButton clickable"
-				option3PageAriaLabel="Go to my CVEs page"
+				option3PageAriaLabel=""
 			/>
+
 					
 			<main>
 				<ul>
@@ -47,7 +48,7 @@ const Projects = () => {
 								buttonClassName="empower primaryButton clickable"
 								buttonHref="https://github.com/KuNull/Custos-Shell"
 								target="_blank"
-								ariaLabel="Check out the Empowershell project"
+								ariaLabel=""
 							/>
 						</div>
 						<p className="secondaryText">POWERSHELL UTILITY SCRIPT THAT COMPARES HASHES TO CHECK THE INTEGRITY OF FILES.</p>
@@ -60,7 +61,7 @@ const Projects = () => {
 								buttonClassName="hexplorer primaryButton clickable"
 								buttonHref="https://github.com/KuNull/Hexplorer/"
 								target="_blank"
-								ariaLabel="Check out the Hexplorer project"
+								ariaLabel=""
 							/>
 						</div>
 						<p className="secondaryText">COMMAND-LINE UTILITY TO DUMP THE BINARY AND HEXADECIMAL RENDITION OF A FILE.</p>
@@ -73,7 +74,7 @@ const Projects = () => {
 								buttonClassName="kryptos primaryButton clickable"
 								buttonHref="https://kryptos.streamlit.app/"
 								target="_blank"
-								ariaLabel="Check out the Kryptos project"
+								ariaLabel=""
 							/>
 						</div>
 						<p className="secondaryText">CRYPTOGRAPHY TOOLKIT THAT ALLOWS USERS TO ENCRYPT AND DECRYPT THEIR TEXT USING AN ALGORITHM OF THEIR CHOICE.</p>
@@ -86,7 +87,7 @@ const Projects = () => {
 								buttonClassName="netSleuth primaryButton clickable"
 								buttonHref="https://github.com/KuNull/NetSleuth/"
 								target="_blank"
-								ariaLabel="Check out the NetSleuth project"
+								ariaLabel=""
 							/>
 						</div>
 						<p className="secondaryText">NETWORK SCANNER THAT FINDS ALL THE DEVICES CONNECTED IN THE NETWORK.</p>
@@ -99,7 +100,7 @@ const Projects = () => {
 								buttonClassName="ossoc primaryButton clickable"
 								buttonHref="https://ossoc.gitbook.io/"
 								target="_blank"
-								ariaLabel="Check out the OpenSOC project"
+								ariaLabel=""
 							/>
 						</div>
 						<p className="secondaryText">POC FOR OPEN SOURCE SECURITY OPERATIONS CENTRE WHICH POSSESES AUTOMATION CAPABILITIES.</p>
@@ -125,7 +126,7 @@ const Projects = () => {
 								buttonClassName="probe primaryButton clickable"
 								buttonHref="https://github.com/KuNull/Probe"
 								target="_blank"
-								ariaLabel="Check out the Probe project"
+								ariaLabel=""
 							/>
 						</div>
 						<p className="secondaryText">PORTSCANNER THAT IMPLEMENTS MULTITHREADING FOR SWIFT SCANS.</p>
@@ -197,7 +198,7 @@ const Projects = () => {
 								buttonClassName="riskore primaryButton clickable"
 								buttonHref="https://riskore.vercel.app/"
 								target="_blank"
-								ariaLabel="Check out the RiSkore project"
+								ariaLabel=""
 							/>
 						</div>
 						<p className="secondaryText">WEB APP TO EVALUATE THE RISK FACED BY AN ORGANIZATION.</p>
@@ -205,6 +206,7 @@ const Projects = () => {
 				</ul>
 			</main>
 
+									
 			<Footer/>
 		</>
 	);
