@@ -76,7 +76,7 @@
 }
 
 .clickable:hover {
-  cursor:url('/assets/images/cursor-pointer.png') 10 0,auto;
+  	cursor:url('/assets/images/cursor-pointer-small.png') 10 0,auto;
 }
 
 .nonClickable {
@@ -86,7 +86,7 @@
 }
 
 .nonClickable:hover {
-  	cursor: url('/assets/images/cursor-pointer.png') 10 0,auto;
+  	cursor: url('/assets/images/cursor-pointer-small.png') 10 0,auto;
 }
 
 .invertCursor .nonClickable:hover {
