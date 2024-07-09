@@ -42,6 +42,7 @@ const Home = () => {
 				// pageOption3="cves clickable"
 				// ariaLabel3="Go to my CVEs page"
 			/>
+
 					
 			<main className="capital">
 				<p className='spacing'>
@@ -109,6 +110,7 @@ const Home = () => {
 				</p>
 			</main>
 
+							
 			<Footer/>
 		</>
 	);
