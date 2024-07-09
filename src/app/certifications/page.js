@@ -15,7 +15,7 @@ const Certifications = () => {
 			<Navbar
 				previousPage="KUNULL"
 				previousPageClassName="tertiaryButton clickable glitch layers"
-				previousPageAriaLabel="Go to KUNULL i.e. home page"
+				previousPageAriaLabel=""
 				previousPageHref="/"
 				
 				slash="&nbsp;/&nbsp;"
@@ -27,15 +27,15 @@ const Certifications = () => {
 
 				option1Page="CERTIFICATIONS"
 				option1PageClassName="certifications hidden clickable"
-				option1PageAriaLabel="Go to my Certifications page"
+				option1PageAriaLabel=""
 	
 				option2Page="PROJECTS"
 				option2PageClassName="projects secondaryButton clickable"
-				option2PageAriaLabel="Go to my Projects page"
+				option2PageAriaLabel=""
 
 				option3Page="CVES"
 				option3PageClassName="cves secondaryButton clickable"
-				option3PageAriaLabel="Go to my CVEs page"
+				option3PageAriaLabel=""
 			/>
 
 			<main>
@@ -46,7 +46,7 @@ const Certifications = () => {
 							buttonClassName="ejpt primaryButton clickable"
 							buttonHref="/assets/certifications/eLearnSecurity-Junior-Penetration-Tester.pdf"
 							target="_blank"
-							aria-label="Check out my EJPT certificate"
+							aria-label=""
 						/>
 						<p className="secondaryText">E-LEARN SECURITY JUNIOR PENETRATION TESTER.</p>
 					</li>
@@ -58,7 +58,7 @@ const Certifications = () => {
 								buttonClassName="cnsp primaryButton clickable"
 								buttonHref="/assets/certifications/Certified-Network-Security-Practitioner.pdf"
 								target="_blank"
-								ariaLabel="Check out my CNSP certificate"
+								ariaLabel=""
 							/>
 						</div>
 						<p className="secondaryText">CERTIFIED NETWORK SECURITY PRACTITIONER.</p>
@@ -86,7 +86,7 @@ const Certifications = () => {
 								buttonClassName="icca primaryButton clickable"
 								buttonHref="/assets/certifications/INE-Certified-Cloud-Associate.pdf"
 								target="_blank"
-								ariaLabel="Check out my ICCA certificate"
+								ariaLabel=""
 							/>
 						</div>
 						<p className="secondaryText">INE CERTIFIED CLOUD ASSOCIATE.</p>
@@ -99,7 +99,7 @@ const Certifications = () => {
 								buttonClassName="nse1 primaryButton clickable"
 								buttonHref="/assets/certifications/NSE-Certification.pdf"
 								target="_blank"
-								ariaLabel="Check out my NSE certificate"
+								ariaLabel=""
 							/>
 						</div>
 						<p className="secondaryText">NETWORK SECURITY EXPERT LEVEL 1.</p>
@@ -112,7 +112,7 @@ const Certifications = () => {
 								buttonClassName="google primaryButton clickable"
 								buttonHref="/assets/certifications/Google-Cybersecurity-Professional-Certificate.pdf"
 								target="_blank"
-								ariaLabel="Check out my Google Cybersecurity Professional certificate"
+								ariaLabel=""
 							/>
 						</div>
 						<p className="secondaryText">GOOGLE CYBERSECURITY PROFESSIONAL CERTIFICATE.</p>
