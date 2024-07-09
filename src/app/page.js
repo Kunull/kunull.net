@@ -17,7 +17,7 @@ const Home = () => {
 			<Navbar
 				previousPage="KUNULL"
 				previousPageClassName="hidden"
-				previousAriaLabel="Go to Kunull (i.e. home page)"
+				previousAriaLabel=""
 				previousPageHref="/"
 	
 				slash=""
@@ -28,16 +28,16 @@ const Home = () => {
 	
 				option1Page="CERTIFICATIONS"	
 				option1PageClassName="certifications secondaryButton clickable"
-				option1PageAriaLabel="Go to my Certifications page"
+				option1PageAriaLabel=""
 	
 //				option2Page="experience clickable"
 				option2Page="PROJECTS"
 				option2PageClassName="projects secondaryButton clickable"
-				option2PageAriaLabel="Go to my Projects page"
+				option2PageAriaLabel=""
 
 				option3Page="CVES"
 				option3PageClassName="cves secondaryButton clickable"
-				option3PageAriaLabel="Go to my CVEs page"
+				option3PageAriaLabel=""
 					
 				// pageOption3="cves clickable"
 				// ariaLabel3="Go to my CVEs page"
@@ -56,14 +56,14 @@ const Home = () => {
 						button="PROJECTS" 
 						buttonClassName="projects primaryButton clickable" 
 						buttonHref="/projects" 
-						ariaLabel="Go to my Projects page"
+						ariaLabel=""
 					/>
 					<span className="primaryText"> AS WELL AS </span>
 					<Button
 						button="CERTIFICATIONS"
 						buttonClassName="certifications primaryButton clickable"
 						buttonHref="/certifications"
-						ariaLabel="Go to my Certifications page"
+						ariaLabel=""
 					/>
 					<span className="primaryText">.</span>
 				</p>								
@@ -75,7 +75,7 @@ const Home = () => {
 						buttonClassName="write-ups primaryButton clickable" 
 						buttonHref="https://kunullwrite-ups.vercel.app/" 
 						target="_blank"
-						ariaLabel="Go to my write-ups"
+						ariaLabel=""
 					/>
 					<span className="primaryText"> FOR CTF CHALLENGES AND BOOT2ROOT MACHINES. I ALSO HAVE A </span>
 					<Button 
@@ -83,7 +83,7 @@ const Home = () => {
 						buttonClassName="blog primaryButton clickable" 
 						buttonHref="https://kunullblog.vercel.app/" 
 						target="_blank"
-						ariaLabel="Go to my blog"
+						ariaLabel=""
 					/>
 					<span className="primaryText"> WHERE I WRITE ABOUT MY INTERESTS.</span>
 				</p>								
@@ -95,7 +95,7 @@ const Home = () => {
 						buttonClassName="email primaryButton clickable"
 						buttonHref="mailto:llunuk@protonmail.com"
 						target="_blank"
-						ariaLabel="Send me an e-mail"
+						ariaLabel=""
 					/>
 					<span className="primaryText"> IF YOU'D LIKE TO GET IN TOUCH. YOU CAN USE MY PUBLIC </span>
 					<Button
@@ -103,7 +103,7 @@ const Home = () => {
 						buttonClassName="key primaryButton clickable"
 						buttonHref="/assets/key/kunalwalavalkar_public_key.txt"
 						target="_blank"
-						ariaLabel="Use my pgp key"
+						ariaLabel=""
 					/>
 					<span className="primaryText"> FOR ENCRYPTION.</span>
 				</p>
