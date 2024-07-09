@@ -57,7 +57,7 @@ body {
 
 
 /* 	text-shadow: var(--shadow-x-distance) var(--shadow-y-distance) 1.5px rgb(90,90,90,0.5); */
-	cursor: url('/assets/images/cursor-default.png') 0 0, auto;
+	cursor: url('/assets/images/cursor-default-small.png') 0 0, auto;
 }
 
 .primaryText {
@@ -706,7 +706,7 @@ p {
 }
 
 .cursor {
-	cursor: url('/assets/images/cursor-default.png') 0 0, auto;
+	cursor: url('/assets/images/cursor-default-small.png') 0 0, auto;
 }
 
 .century {
