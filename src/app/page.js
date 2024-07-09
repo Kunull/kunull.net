@@ -19,17 +19,26 @@ const Home = () => {
 				previousPageClassName="hidden"
 				previousAriaLabel="Go to Kunull (i.e. home page)"
 				previousPageHref="/"
+	
 				slash=""
 				slashClassName=""
+	
 				currentPage="KUNULL"
 				currentPageClassName="tertiaryText currentPage glitch layers"
+	
 				option1Page="CERTIFICATIONS"	
 				option1PageClassName="certifications secondaryButton clickable"
 				option1PageAriaLabel="Go to my Certifications page"
+	
 //				option2Page="experience clickable"
 				option2Page="PROJECTS"
 				option2PageClassName="projects secondaryButton clickable"
 				option2PageAriaLabel="Go to my Projects page"
+
+				option3Page="CVES"
+				option3PageClassName="cves secondaryButton clickable"
+				option3PageAriaLabel="Go to my CVEs page"
+					
 				// pageOption3="cves clickable"
 				// ariaLabel3="Go to my CVEs page"
 			/>
