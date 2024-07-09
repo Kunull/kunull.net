@@ -22,10 +22,11 @@ body .invertCursor{
 } 
 
 body {
+	max-width: 1080px;
 	position: relative;
 	background-color: rgba(0, 0, 0, 0.975);
-	margin-left: 10%;
-	margin-right: 10%;
+	margin-left: 80px;
+	margin-right: 80px;
 	margin-top: 12.5svh;
 	margin-bottom: 12.5svh;
 	font-family: vcr, monospace;
@@ -870,41 +871,110 @@ li {
 	}
 }
 
+
+@media (min-width: 1920px) {
+  	body {
+    		margin-left: auto;
+    		margin-right: auto;
+    		max-width: 1700px;
+  	}
+}
+
+
+@media (min-width: 1680px) and (max-width: 1920px) {
+  	body {
+    		margin-left: auto;
+    		margin-right: auto;
+    		max-width: 1460px;
+  	}
+}
+
+
+@media (min-width: 1440px) and (max-width: 1680px) {
+  	body {
+    		margin-left: auto;
+    		margin-right: auto;
+    		max-width: 1220px;
+  	}
+}
+
+
 @media (max-width: 960px) {
+  	body {
+    		margin-left: 60px;
+    		margin-right: 60px;
+    		width: auto;
+    		max-width: 100%;
+ 	 }
+
 	ul {
-		grid-gap: 10svh;
+		grid-gap: 9svh;
 	}
 
 	.spacing {
-		margin-bottom: 10svh;
+		margin-bottom: 9svh;
 	}
 
 	:root {
 		--shadow-x-distance: 3px;
 		--shadow-y-distance: 2px;
-		--filter-blur: 4.5px;
-		--shadow-blur: 7.5px;
+    --filter-blur: 6px;
+    --shadow-blur: 3px;
+	}
+}
+
+
+@media (max-width: 720px) {
+  	body {
+    		margin-left: 40px;
+    		margin-right: 40px;
+    		width: auto;
+    		max-width: 100%;
+  	}
+
+	ul {
+    		grid-template-columns: 1fr;
+		grid-gap: 9svh;
+	}
+
+	.spacing {
+		margin-bottom: 9svh;
+	}
+
+	:root {
+		--shadow-x-distance: 3px;
+		--shadow-y-distance: 2px;
+    		--filter-blur: 6px;
+    		--shadow-blur: 3px;
 	}
 }
 
 
 @media (max-width: 480px) {
-	ul {
-    		grid-template-columns: 1fr;
-		grid-gap: 7.5svh;
+  	body {
+    		margin-left: 20px;
+    		margin-right: 20px;
+    		width: auto;
+    		max-width: 100%;
+  	}
+
+  	ul {
+		grid-template-columns: 1fr;
+		grid-gap: 8svh;
 	}
 
 	.spacing {
-		margin-bottom: 7.5svh;
+		margin-bottom: 8svh;
 	}
 	
 	:root {
 		--shadow-x-distance: 2px;
 		--shadow-y-distance: 1px;
-		--filter-blur: 3px;
-		--shadow-blur: 5px;
+   	 	--filter-blur: 4px;
+    		--shadow-blur: 2px;
 	}
 }
+
 
 /* @media (min-width: 480px) {
   :root {
