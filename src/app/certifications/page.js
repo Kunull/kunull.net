@@ -38,6 +38,7 @@ const Certifications = () => {
 				option3PageAriaLabel=""
 			/>
 
+					
 			<main>
 				<ul>
 					<li>
@@ -147,9 +148,9 @@ const Certifications = () => {
 						<p className="secondaryText">CompTIA Security+ (SY0-701) certificate.</p>
 					</li>
 	*/}
-
 	      			</ul>
 			</main>	
+
 					
 			<Footer/>
 		</>
