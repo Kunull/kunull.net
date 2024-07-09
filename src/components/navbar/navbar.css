@@ -1,11 +1,11 @@
 header {
-	height: 35svh;
+	height: 37.5svh;
 	padding-bottom: 5svh;
 }
 
 nav {
 	position: sticky;
-	top: 12.5svh;
+	top: 10svh;
 }
 
 .currentNav {
