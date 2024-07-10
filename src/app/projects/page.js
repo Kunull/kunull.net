@@ -70,7 +70,7 @@ const Projects = () => {
 					<li>
 						<div className="capital">
 							<Button
-								button="KRUPTOS"
+								button="KRYPTOS"
 								buttonClassName="kryptos primaryButton clickable"
 								buttonHref="https://kryptos.streamlit.app/"
 								target="_blank"
@@ -96,14 +96,14 @@ const Projects = () => {
 					<li>
 						<div className="capital">
 							<Button
-								button="O.S.S.O.C."
-								buttonClassName="ossoc primaryButton clickable"
-								buttonHref="https://ossoc.gitbook.io/"
+								button="F.O.S.S.O.C."
+								buttonClassName="fossoc primaryButton clickable"
+								buttonHref="https://fossoc.gitbook.io/"
 								target="_blank"
 								ariaLabel=""
 							/>
 						</div>
-						<p className="secondaryText">POC FOR OPEN SOURCE SECURITY OPERATIONS CENTRE WHICH POSSESES AUTOMATION CAPABILITIES.</p>
+						<p className="secondaryText">POC FOR A FREE, OPEN SOURCE SECURITY OPERATIONS CENTRE WHICH POSSESES AUTOMATION CAPABILITIES.</p>
 					</li>
 	
 	{/*				
