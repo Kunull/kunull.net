@@ -217,6 +217,15 @@
 }
 
 
+.fossoc::after {
+  content:"F.O.S.S.O.C.";
+}
+
+.fossoc:hover::after {
+  content:"F.0.5.5.0.C.";
+}
+
+
 .github::after {
   content:"GITHUB";
 }
@@ -367,15 +376,6 @@
 
 .nse1:hover::after {
   content:"N53 1";
-}
-
-
-.ossoc::after {
-  content:"O.S.S.O.C.";
-}
-
-.ossoc:hover::after {
-  content:"0.5.5.0.C.";
 }
 
 
