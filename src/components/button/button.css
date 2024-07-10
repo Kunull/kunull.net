@@ -14,7 +14,7 @@
 }
 
 .secondaryButton::after {
-  	line-height: 1.5;
+  	line-height: 1.45;
   	font-size: var(--font-size-secondary);
   	text-decoration: none;
   	width: 100%;
