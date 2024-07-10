@@ -103,7 +103,7 @@ const Projects = () => {
 								ariaLabel=""
 							/>
 						</div>
-						<p className="secondaryText">POC FOR A FREE, OPEN SOURCE SECURITY OPERATIONS CENTRE WHICH POSSESES AUTOMATION CAPABILITIES.</p>
+						<p className="secondaryText">POC FOR A FREE, OPEN-SOURCE SECURITY OPERATIONS CENTRE WHICH POSSESES AUTOMATION CAPABILITIES.</p>
 					</li>
 	
 	{/*				
