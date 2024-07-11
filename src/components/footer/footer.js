@@ -12,7 +12,7 @@ const Footer = () => {
 						buttonClassName="blog secondaryButton clickable"
 						buttonHref="https://kunullblog.vercel.app"
 						target="_blank"
-						ariaLabel="Visit my blog"
+						ariaLabel=""
 	        			/>
 				</li>
 							
@@ -32,7 +32,7 @@ const Footer = () => {
 						buttonClassName="github secondaryButton clickable"
 						buttonHref="https://github.com/kunull"
 						target="_blank"
-			  			ariaLabel="Visit my Github profile"
+			  			ariaLabel=""
 	  				/>
     				</li>
 
@@ -94,7 +94,7 @@ const Footer = () => {
 				  		buttonClassName="linkedin secondaryButton clickable"
 						buttonHref="https://www.linkedin.com/in/kunalwalavalkar/"
 						target="_blank"
-						ariaLabel="Visit my LinkedIn profile"
+						ariaLabel=""
 	    				/>
   				</li>
 
@@ -116,21 +116,19 @@ const Footer = () => {
 				  		buttonClassName="key secondaryButton clickable"
 						buttonHref="https://kunull.vercel.app/assets/key/kunalwalavalkar_public_key.txt"
 						target="_blank"
-						ariaLabel="Get my public PGP key"
+						ariaLabel=""
 	    				/>
   				</li>	
 
-{/*
 			  	<li className="footerLi">
 					<Button 
-	    					button=""
-						buttonClassName="reports clickable"
+	    					button="REPORTS"
+						buttonClassName="reports secondaryButton clickable"
 						buttonHref=""
 						target="_blank"
-						ariaLabel="Check out my resume"
+						ariaLabel=""
 	  				/>
 				</li>
-*/}
 
 			  	<li className="footerLi">
 					<Button 
@@ -160,7 +158,7 @@ const Footer = () => {
 						buttonClassName="write-ups secondaryButton clickable"
 						buttonHref="https://kunullwrite-ups.vercel.app"
 						target="_blank"
-						ariaLabel="Visit out my CTF write-ups"
+						ariaLabel=""
 	    				/>
       				</li>
   			</ul>
