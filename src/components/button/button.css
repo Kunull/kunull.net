@@ -186,7 +186,7 @@
 }
 
 .cve-2024-12345:hover::after {
-  content:"CVE-2024-12345";
+  content:"CV3-2024-12345";
 }
 
 
