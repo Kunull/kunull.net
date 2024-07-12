@@ -40,6 +40,8 @@ const CVEs = () => {
 
 					
       			<main className="capital">
+
+{/*
 				<ul>
 					<li>
 						<Button
@@ -52,12 +54,12 @@ const CVEs = () => {
 						<p className="secondaryText">TIME-BASED BLIND SQLI IN ADVOCATE OFFICE MANAGEMENT SYSTEM (SOURCECODESTER).</p>
 					</li>
 				</ul>	
-
-{/*
+*/}
+					
 				<p className='spacing'>
 					<span className="personal">NOTHING TO SEE HERE YET.</span>
     				</p>	
-*/}
+
 			</main>
 
 
