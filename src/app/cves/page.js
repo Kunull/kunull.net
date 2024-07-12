@@ -49,7 +49,7 @@ const CVEs = () => {
 							target="_blank"
 							aria-label=""
 						/>
-						<p className="secondaryText">TIME BASED BLIND SQLI IN ADVOCATE OFFICE MANAGEMENT SYSTEM (SOURCECODESTER).</p>
+						<p className="secondaryText">TIME-BASED BLIND SQLI IN ADVOCATE OFFICE MANAGEMENT SYSTEM (SOURCECODESTER).</p>
 					</li>
 				</ul>	
 
