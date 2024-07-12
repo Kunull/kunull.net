@@ -181,6 +181,15 @@
 }
 
 
+.cve-2024-12345::after {
+  content:"CVE-2024-12345";
+}
+
+.cve-2024-12345:hover::after {
+  content:"CVE-2024-12345";
+}
+
+
 .ejpt::after {
   content:"EJPT";
 }
