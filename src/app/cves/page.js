@@ -43,13 +43,35 @@ const CVEs = () => {
 				<ul>
 					<li>
 						<Button
+							button="CVE-2024-6732"
+							buttonClassName="cve-2024-6732 primaryButton clickable"
+							buttonHref="https://vuldb.com/?id.271402"
+							target="_blank"
+							aria-label=""
+						/>
+						<p className="secondaryText">BOOLEAN-BASED BLIND SQLI IN STUDENT STUDY CENTER DESK MANAGEMENT (VERSION 1.0)</p>
+					</li>
+
+					<li>
+						<Button
+							button="CVE-2024-6731"
+							buttonClassName="cve-2024-6731 primaryButton clickable"
+							buttonHref="https://vuldb.com/?id.271402"
+							target="_blank"
+							aria-label=""
+						/>
+						<p className="secondaryText">ERROR-BASED SQLI IN STUDENT STUDY CENTER DESK MANAGEMENT SYSTEM (VERSION 1.0)</p>
+					</li>
+								
+					<li>
+						<Button
 							button="CVE-2024-6729"
 							buttonClassName="cve-2024-6729 primaryButton clickable"
 							buttonHref="https://vuldb.com/?id.271402"
 							target="_blank"
 							aria-label=""
 						/>
-						<p className="secondaryText">BOOLEAN-BASED BLIND SQLI IN KORTEX LITE ADVOCATE OFFICE MANAGEMENT SYSTEM VERSION 1.0</p>
+						<p className="secondaryText">BOOLEAN-BASED BLIND SQLI IN KORTEX LITE ADVOCATE OFFICE MANAGEMENT SYSTEM (VERSION 1.0)</p>
 					</li>
 				</ul>	
 
