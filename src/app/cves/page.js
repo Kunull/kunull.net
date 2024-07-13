@@ -41,6 +41,7 @@ const CVEs = () => {
 					
       			<main className="capital">
 				<ul>
+{/*
 					<li>
 						<Button
 							button="CVE-2024-6732"
@@ -75,7 +76,7 @@ const CVEs = () => {
 					</li>
 				</ul>	
 
-{/*					
+					
 				<p className='spacing'>
 					<span className="personal">NOTHING TO SEE HERE YET.</span>
     				</p>	
