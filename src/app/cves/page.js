@@ -45,7 +45,7 @@ const CVEs = () => {
 						<Button
 							button="CVE-2024-6729"
 							buttonClassName="cve-2024-6729 primaryButton clickable"
-							buttonHref=""
+							buttonHref="https://vuldb.com/?id.271402"
 							target="_blank"
 							aria-label=""
 						/>
