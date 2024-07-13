@@ -40,8 +40,8 @@ const CVEs = () => {
 
 					
       			<main className="capital">
-				<ul>
 {/*
+				<ul>
 					<li>
 						<Button
 							button="CVE-2024-6732"
