@@ -10,7 +10,7 @@ const Footer = () => {
 					<Button 
 	          				button="BLOG"
 						buttonClassName="blog secondaryButton clickable"
-						buttonHref="https://kunullblog.vercel.app"
+						buttonHref="https://blog-kunull.vercel.app/"
 						target="_blank"
 						ariaLabel=""
 	        			/>
@@ -124,7 +124,7 @@ const Footer = () => {
 					<Button 
 	    					button="REPORTS"
 						buttonClassName="reports secondaryButton clickable"
-						buttonHref="https://reports-kunull.vercel.app/"
+						buttonHref="https://reports-kunull.vercel.app"
 						target="_blank"
 						ariaLabel=""
 	  				/>
@@ -156,7 +156,7 @@ const Footer = () => {
 					<Button 
 	          				button="WRITEUPS"
 						buttonClassName="write-ups secondaryButton clickable"
-						buttonHref="https://kunullwrite-ups.vercel.app"
+						buttonHref="https://writeups-kunull.vercel.app"
 						target="_blank"
 						ariaLabel=""
 	    				/>
