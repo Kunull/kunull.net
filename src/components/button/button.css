@@ -190,6 +190,24 @@
 }
 
 
+.cve-2024-6731::after {
+  content:"CVE-2024-6731";
+}
+
+.cve-2024-6731:hover::after {
+  content:"CV3_2024_6731";
+}
+
+
+.cve-2024-6732::after {
+  content:"CVE-2024-6732";
+}
+
+.cve-2024-6732:hover::after {
+  content:"CV3_2024_6732";
+}
+
+
 .ejpt::after {
   content:"EJPT";
 }
