@@ -124,7 +124,7 @@ const Footer = () => {
 					<Button 
 	    					button="REPORTS"
 						buttonClassName="reports secondaryButton clickable"
-						buttonHref=""
+						buttonHref="https://reports-kunull.vercel.app/"
 						target="_blank"
 						ariaLabel=""
 	  				/>
