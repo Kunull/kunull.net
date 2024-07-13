@@ -49,7 +49,7 @@ const CVEs = () => {
 							target="_blank"
 							aria-label=""
 						/>
-						<p className="secondaryText">BOOLEAN-BASED BLIND SQLI IN KORTEX-LITE ADVOCATE OFFICE MANAGEMENT SYSTEM.</p>
+						<p className="secondaryText">BOOLEAN-BASED BLIND SQLI IN KORTEX-LITE ADVOCATE OFFICE MANAGEMENT SYSTEM VERSION 1.0.</p>
 					</li>
 				</ul>	
 
