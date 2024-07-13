@@ -181,12 +181,12 @@
 }
 
 
-.cve-2024-12345::after {
-  content:"CVE-2024-12345";
+.cve-2024-6729::after {
+  content:"CVE-2024-6729";
 }
 
-.cve-2024-12345:hover::after {
-  content:"CV3-2024-12345";
+.cve-2024-6729:hover::after {
+  content:"CV3-2024-6729";
 }
 
 
