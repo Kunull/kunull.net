@@ -67,22 +67,42 @@ const Home = () => {
 						ariaLabel=""
 					/>
 					<span className="primaryText">.</span>
-				</p>								
-								
+				</p>	
+							
 				<p className='spacing'>
-					<span className="primaryText">IN MY FREE TIME I CREATE </span>
+					<span className="primaryText">IN MY FREE TIME I CONDUCT </span>
 					<Button 
-						button="WRITEUPS" 
-						buttonClassName="write-ups primaryButton clickable" 
-						buttonHref="https://kunullwrite-ups.vercel.app/" 
+						button="CVE" 
+						buttonClassName="cve primaryButton clickable" 
+						buttonHref="https://kunull.vercel.app/cves" 
 						target="_blank"
 						ariaLabel=""
 					/>
-					<span className="primaryText"> FOR CTF CHALLENGES AND BOOT2ROOT MACHINES. I ALSO HAVE A </span>
+					<span className="primaryText"> RESEARCH. I ALSO PUBLISH </span>
+					<Button 
+						button="REPORTS" 
+						buttonClassName="reports primaryButton clickable" 
+						buttonHref="https://reports-kunull.vercel.app/" 
+						target="_blank"
+						ariaLabel=""
+					/>
+					<span className="primaryText"> FOR THE SAME.</span>
+				</p>
+							
+				<p className='spacing'>
+					<span className="primaryText">I ALSO CREATE </span>
+					<Button 
+						button="WRITEUPS" 
+						buttonClassName="write-ups primaryButton clickable" 
+						buttonHref="https://writeups-kunull.vercel.app/" 
+						target="_blank"
+						ariaLabel=""
+					/>
+					<span className="primaryText"> FOR CTF CHALLENGES AND BOOT2ROOT MACHINES AND MAINTAIN </span>
 					<Button 
 						button="BLOG" 
 						buttonClassName="blog primaryButton clickable" 
-						buttonHref="https://kunullblog.vercel.app/" 
+						buttonHref="https://blog-kunull.vercel.app/" 
 						target="_blank"
 						ariaLabel=""
 					/>
