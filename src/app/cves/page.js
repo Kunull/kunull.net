@@ -46,7 +46,7 @@ const CVEs = () => {
 						<Button
 							button="CVE-2024-6732"
 							buttonClassName="cve-2024-6732 primaryButton clickable"
-							buttonHref="https://vuldb.com/?id.271402"
+							buttonHref="https://vuldb.com/?id.271450"
 							target="_blank"
 							aria-label=""
 						/>
@@ -57,7 +57,7 @@ const CVEs = () => {
 						<Button
 							button="CVE-2024-6731"
 							buttonClassName="cve-2024-6731 primaryButton clickable"
-							buttonHref="https://vuldb.com/?id.271402"
+							buttonHref="https://vuldb.com/?id.271449"
 							target="_blank"
 							aria-label=""
 						/>
