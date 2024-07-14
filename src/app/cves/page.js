@@ -77,12 +77,6 @@ const CVEs = () => {
 						<p className="secondaryText">BOOLEAN-BASED BLIND SQLI IN KORTEX LITE ADVOCATE OFFICE MANAGEMENT SYSTEM (VERSION 1.0)</p>
 					</li>
 				</ul>	
-
-					
-				<p className='spacing'>
-					<span className="personal">NOTHING TO SEE HERE YET.</span>
-    				</p>	
-
 			</main>
 
 
