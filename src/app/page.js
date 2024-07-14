@@ -97,7 +97,7 @@ const Home = () => {
 						target="_blank"
 						ariaLabel=""
 					/>
-					<span className="primaryText"> FOR CTF CHALLENGES AND BOOT2ROOT MACHINES AND MAINTAIN </span>
+					<span className="primaryText"> FOR CTF CHALLENGES AND BOOT2ROOT MACHINES AND MAINTAIN A </span>
 					<Button 
 						button="BLOG" 
 						buttonClassName="blog primaryButton clickable" 
