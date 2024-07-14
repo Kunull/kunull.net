@@ -181,6 +181,15 @@
 }
 
 
+.cve::after {
+  content:"CVE";
+}
+
+.cve:hover::after {
+  content:"CV3";
+}
+
+
 .cve-2024-6729::after {
   content:"CVE-2024-6729";
 }
