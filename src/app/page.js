@@ -78,7 +78,7 @@ const Home = () => {
 						target="_blank"
 						ariaLabel=""
 					/>
-					<span className="primaryText"> RESEARCH. I ALSO PUBLISH </span>
+					<span className="primaryText"> RESEARCH AND PUBLISH </span>
 					<Button 
 						button="REPORTS" 
 						buttonClassName="reports primaryButton clickable" 
