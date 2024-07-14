@@ -75,7 +75,6 @@ const Home = () => {
 						button="CVE" 
 						buttonClassName="cve primaryButton clickable" 
 						buttonHref="https://kunull.vercel.app/cves" 
-						target="_blank"
 						ariaLabel=""
 					/>
 					<span className="primaryText"> RESEARCH AND PUBLISH </span>
