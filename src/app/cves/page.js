@@ -40,7 +40,7 @@ const CVEs = () => {
 
 					
       			<main className="capital">
-{/*
+
 				<ul>
 					<li>
 						<Button
@@ -52,7 +52,9 @@ const CVEs = () => {
 						/>
 						<p className="secondaryText">BOOLEAN-BASED BLIND SQLI IN STUDENT STUDY CENTER DESK MANAGEMENT (VERSION 1.0)</p>
 					</li>
-
+				</ul>
+	
+{/*
 					<li>
 						<Button
 							button="CVE-2024-6731"
