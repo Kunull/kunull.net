@@ -20,7 +20,6 @@ const CVEs = () => {
 				
 				slash="&nbsp;/&nbsp;"
 				slashClassName="tertiaryText slash"
-				<p className="secondaryText">CVSS: 5.3, SEVERITY: MEDIUM</p>
 				currentPage="CVES"
 				currentPageClassName="tertiaryText currentPage"
 //				option2Page="experience clickable"
