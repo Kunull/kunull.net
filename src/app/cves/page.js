@@ -20,7 +20,7 @@ const CVEs = () => {
 				
 				slash="&nbsp;/&nbsp;"
 				slashClassName="tertiaryText slash"
-				
+				<p className="secondaryText">CVSS: 5.3, SEVERITY: MEDIUM</p>
 				currentPage="CVES"
 				currentPageClassName="tertiaryText currentPage"
 //				option2Page="experience clickable"
@@ -50,7 +50,6 @@ const CVEs = () => {
 							target="_blank"
 							aria-label=""
 						/>
-						<p className="secondaryText">CVSS: 5.3, SEVERITY: MEDIUM</p>
 						<p className="secondaryText">BOOLEAN-BASED BLIND SQLI IN STUDENT STUDY CENTER DESK MANAGEMENT (VERSION 1.0)</p>
 					</li>
 	
