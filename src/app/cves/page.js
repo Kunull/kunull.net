@@ -48,7 +48,7 @@ const CVEs = () => {
 							target="_blank"
 							aria-label=""
 						/>
-						<p className="secondaryText">XSS IN STUDENT STUDY CENTER DESK MANAGEMENT SYSTEM</p>
+						<p className="secondaryText">XSS IN STUDENT STUDY CENTER DESK MANAGEMENT SYSTEM (firstname, middlename, lastname, username)</p>
 					</li>
 	
 					<li>
