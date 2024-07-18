@@ -23,7 +23,6 @@ body .invertCursor{
 } 
 
 body {
-	width: 100%;
 	max-width: 1080px;
 	position: relative;
 	background-color: rgba(0, 0, 0, 0.975);
