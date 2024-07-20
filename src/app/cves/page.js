@@ -42,58 +42,13 @@ const CVEs = () => {
 				<ul>
 					<li>
 						<Button
-							button="CVE-2024-6807"
-							buttonClassName="cve-2024-6807 primaryButton clickable"
-							buttonHref="https://vuldb.com/?id.271706"
+							button="CVE-2024-*"
+							buttonClassName="cve-2024-* primaryButton clickable"
+							buttonHref="https://reports-kunull.vercel.app/CVE%20research/2024/"
 							target="_blank"
 							aria-label=""
 						/>
-						<p className="secondaryText">XSS IN STUDENT STUDY CENTER DESK MANAGEMENT SYSTEM (firstname, middlename, lastname, username)</p>
-					</li>
-	
-					<li>
-						<Button
-							button="CVE-2024-6802"
-							buttonClassName="cve-2024-6802 primaryButton clickable"
-							buttonHref="https://vuldb.com/?id.271704"
-							target="_blank"
-							aria-label=""
-						/>
-						<p className="secondaryText">SQLI IN STUDENT STUDY CENTER DESK MANAGEMENT SYSTEM (Master.php?f=save_record)</p>
-					</li>
-
-					
-					<li>
-						<Button
-							button="CVE-2024-6732"
-							buttonClassName="cve-2024-6732 primaryButton clickable"
-							buttonHref="https://vuldb.com/?id.271450"
-							target="_blank"
-							aria-label=""
-						/>
-						<p className="secondaryText">BOOLEAN-BASED BLIND SQLI IN STUDENT STUDY CENTER DESK MANAGEMENT (VERSION 1.0)</p>
-					</li>
-	
-					<li>
-						<Button
-							button="CVE-2024-6731"
-							buttonClassName="cve-2024-6731 primaryButton clickable"
-							buttonHref="https://vuldb.com/?id.271449"
-							target="_blank"
-							aria-label=""
-						/>
-						<p className="secondaryText">ERROR-BASED SQLI IN STUDENT STUDY CENTER DESK MANAGEMENT SYSTEM (VERSION 1.0)</p>
-					</li>
-	
-					<li>
-						<Button
-							button="CVE-2024-6729"
-							buttonClassName="cve-2024-6729 primaryButton clickable"
-							buttonHref="https://vuldb.com/?id.271402"
-							target="_blank"
-							aria-label=""
-						/>
-						<p className="secondaryText">BOOLEAN-BASED BLIND SQLI IN KORTEX LITE ADVOCATE OFFICE MANAGEMENT SYSTEM (VERSION 1.0)</p>
+						<p className="secondaryText">ALL CVES DISCLOSED IN 2024</p>
 					</li>
 				</ul>	
 			</main>
