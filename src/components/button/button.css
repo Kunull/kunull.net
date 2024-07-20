@@ -190,48 +190,12 @@
 }
 
 
-.cve-2024-6729::after {
-  content:"CVE-2024-6729";
+.cve-2024-*::after {
+  content:"CVE-2024-*";
 }
 
-.cve-2024-6729:hover::after {
-  content:"CV3=2024=6729";
-}
-
-
-.cve-2024-6731::after {
-  content:"CVE-2024-6731";
-}
-
-.cve-2024-6731:hover::after {
-  content:"CV3=2024=6731";
-}
-
-
-.cve-2024-6732::after {
-  content:"CVE-2024-6732";
-}
-
-.cve-2024-6732:hover::after {
-  content:"CV3=2024=6732";
-}
-
-
-.cve-2024-6802::after {
-  content:"CVE-2024-6802";	
-}
-
-.cve-2024-6802:hover::after {
-  content:"CV3=2024=6802";
-}
-
-
-.cve-2024-6807::after {
-  content:"CVE-2024-6807";	
-}
-
-.cve-2024-6807:hover::after {
-  content:"CV3=2024=6807";
+.cve-2024-*:hover::after {
+  content:"CV3=2024=^";
 }
 
 
