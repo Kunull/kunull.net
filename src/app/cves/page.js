@@ -48,7 +48,7 @@ const CVEs = () => {
 							target="_blank"
 							aria-label=""
 						/>
-						<p className="secondaryText">ALL DISCLOSURES THAT WERE ASSIGNED A CVE ID IN 2024</p>
+						<p className="secondaryText">ALL OF MY DISCLOSURES THAT WERE ASSIGNED A CVE ID IN 2024</p>
 					</li>
 				</ul>	
 			</main>
