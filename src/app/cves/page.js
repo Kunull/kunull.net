@@ -43,12 +43,12 @@ const CVEs = () => {
 					<li>
 						<Button
 							button="CVE-2024-*"
-							buttonClassName="cve-2024-* primaryButton clickable"
+							buttonClassName="cve-2024 primaryButton clickable"
 							buttonHref="https://reports-kunull.vercel.app/CVE%20research/2024/"
 							target="_blank"
 							aria-label=""
 						/>
-						<p className="secondaryText">ALL CVES DISCLOSED IN 2024</p>
+						<p className="secondaryText">ALL CVES I DISCLOSED IN 2024</p>
 					</li>
 				</ul>	
 			</main>
