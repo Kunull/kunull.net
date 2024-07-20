@@ -190,11 +190,11 @@
 }
 
 
-.cve-2024-*::after {
+.cve-2024::after {
   content:"CVE-2024-*";
 }
 
-.cve-2024-*:hover::after {
+.cve-2024:hover::after {
   content:"CV3=2024=^";
 }
 
