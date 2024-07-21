@@ -92,7 +92,7 @@ const Footer = () => {
 					<Button 
 	          				button="LINKEDIN"
 				  		buttonClassName="linkedin secondaryButton clickable"
-						buttonHref="https://www.linkedin.com/in/kunalwalavalkar/"
+						buttonHref="https://www.linkedin.com/in/kunull/"
 						target="_blank"
 						ariaLabel=""
 	    				/>
