@@ -40,7 +40,7 @@ const Certifications = () => {
 
 					
 			<main>
-				<ul>
+				<ul className="grid">
 					<li>
 						<Button
 							button="EJPT"
