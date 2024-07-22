@@ -1,8 +1,8 @@
 .footerUl {
-	margin-top: 15svh;
+	margin-top: 20svh;
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr;
-	grid-gap: 0;
+	grid-gap: 5svh;
 	padding: 0;
 }
 
@@ -12,7 +12,7 @@
 /* 	display: grid;
   	grid-template-columns: 1fr; */
 	padding: 0;
-	padding-top: 5svh
+/* 	padding-top: 5svh */
 }
 
 .footerLi {
