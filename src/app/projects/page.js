@@ -40,7 +40,7 @@ const Projects = () => {
 
 					
 			<main>
-				<ul>
+				<ul className="grid">
 					<li>
 						<div className="capital">
 							<Button
