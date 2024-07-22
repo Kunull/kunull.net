@@ -6,7 +6,7 @@ const Footer = () => {
 	return (
 		<footer className="capital">
      			<ul className="footerUl">
-				<ul className="footerGrigInner">
+				<ul className="footerGridInner">
 				  	<li className="footerLi">
 						<Button 
 		    					button="REPORTS"
