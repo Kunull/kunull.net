@@ -6,6 +6,14 @@
 	padding:0;
 }
 
+.footerGridInner {
+	margin-block-start: 0em;
+    	margin-block-end: 0em;
+	display: grid;
+  	grid-template-columns: 1fr;
+	padding: 0;
+}
+
 .footerLi {
 	font-size:var(--font-size-secondary);
 	position:relative;
