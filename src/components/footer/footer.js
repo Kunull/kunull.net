@@ -6,36 +6,39 @@ const Footer = () => {
 	return (
 		<footer className="capital">
      			<ul className="footerUl">
-			  	<li className="footerLi">
-					<Button 
-	    					button="REPORTS"
-						buttonClassName="reports secondaryButton clickable"
-						buttonHref="https://reports-kunull.vercel.app"
-						target="_blank"
-						ariaLabel=""
-	  				/>
-				</li>
+				<ul>
+				  	<li className="footerLi">
+						<Button 
+		    					button="REPORTS"
+							buttonClassName="reports secondaryButton clickable"
+							buttonHref="https://reports-kunull.vercel.app"
+							target="_blank"
+							ariaLabel=""
+		  				/>
+					</li>
 
-				<li className="footerLi">
-	        			<Button 
-	    					button="GITHUB"
-						buttonClassName="github secondaryButton clickable"
-						buttonHref="https://github.com/kunull"
-						target="_blank"
-			  			ariaLabel=""
-	  				/>
-    				</li>
+					<li className="footerLi">
+		        			<Button 
+		    					button="GITHUB"
+							buttonClassName="github secondaryButton clickable"
+							buttonHref="https://github.com/kunull"
+							target="_blank"
+				  			ariaLabel=""
+		  				/>
+	    				</li>
+	
+					<li className="footerLi">
+						<Button 
+		          				button="EMAIL"
+							buttonClassName="email secondaryButton clickable"
+							buttonHref="mailto:llunuk@protonmail.com"
+							target="_blank"
+							ariaLabel="Send me an email"
+		        			/>
+					</li>
 
-				<li className="footerLi">
-					<Button 
-	          				button="EMAIL"
-						buttonClassName="email secondaryButton clickable"
-						buttonHref="mailto:llunuk@protonmail.com"
-						target="_blank"
-						ariaLabel="Send me an email"
-	        			/>
-				</li>
-
+				</ul>
+				
 				<li className="footerLi">
 					<Button 
 	          				button="WRITEUPS"
