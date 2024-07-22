@@ -9,8 +9,8 @@
 .footerGridInner {
 	margin-block-start: 0em;
     	margin-block-end: 0em;
-	display: grid;
-  	grid-template-columns: 1fr;
+/* 	display: grid;
+  	grid-template-columns: 1fr; */
 	padding: 0;
 }
 
