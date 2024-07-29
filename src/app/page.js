@@ -85,11 +85,7 @@ const Home = () => {
 						target="_blank"
 						ariaLabel=""
 					/>
-					<span className="primaryText"> FOR THE SAME.</span>
-				</p>
-							
-				<p className='spacing'>
-					<span className="primaryText">I ALSO CREATE </span>
+					<span className="primaryText"> FOR THE SAME. I ALSO CREATE </span>
 					<Button 
 						button="WRITEUPS" 
 						buttonClassName="write-ups primaryButton clickable" 
