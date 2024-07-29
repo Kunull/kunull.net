@@ -70,14 +70,14 @@ const Home = () => {
 				</p>	
 							
 				<p className='spacing'>
-					<span className="primaryText">IN MY FREE TIME I CONDUCT </span>
+					<span className="primaryText">IN MY FREE TIME I HUNT FOR </span>
 					<Button 
-						button="CVE" 
-						buttonClassName="cve primaryButton clickable" 
+						button="CVEs" 
+						buttonClassName="cves primaryButton clickable" 
 						buttonHref="https://kunull.vercel.app/cves" 
 						ariaLabel=""
 					/>
-					<span className="primaryText"> RESEARCH AND PUBLISH </span>
+					<span className="primaryText"> AND PUBLISH </span>
 					<Button 
 						button="REPORTS" 
 						buttonClassName="reports primaryButton clickable" 
