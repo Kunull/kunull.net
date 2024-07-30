@@ -85,7 +85,11 @@ const Home = () => {
 						target="_blank"
 						ariaLabel=""
 					/>
-					<span className="primaryText"> FOR THE SAME. I ALSO CREATE </span>
+					<span className="primaryText"> FOR THE SAME.</span>
+				</p>	
+							
+				<p className='spacing'>
+					<span className="primaryText">ADDITIONALLY, I CREATE </span>
 					<Button 
 						button="WRITEUPS" 
 						buttonClassName="write-ups primaryButton clickable" 
@@ -93,7 +97,7 @@ const Home = () => {
 						target="_blank"
 						ariaLabel=""
 					/>
-					<span className="primaryText"> FOR CTF CHALLENGES AND BOOT2ROOT MACHINES AND MAINTAIN A </span>
+					<span className="primaryText"> FOR CTF CHALLENGES AND BOOT2ROOT MACHINES AND ALSO MAINTAIN A </span>
 					<Button 
 						button="BLOG" 
 						buttonClassName="blog primaryButton clickable" 
