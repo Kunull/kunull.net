@@ -195,7 +195,7 @@
 }
 
 .cve-2024:hover::after {
-  content:"CV3=2024=^";
+  content:"CV3=2024=*";
 }
 
 
