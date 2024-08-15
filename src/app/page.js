@@ -66,11 +66,7 @@ const Home = () => {
 						buttonHref="/certifications"
 						ariaLabel=""
 					/>
-					<span className="primaryText">.</span>
-				</p>	
-							
-				<p className='spacing'>
-					<span className="primaryText">IN MY FREE TIME I HUNT FOR </span>
+					<span className="primaryText">. IN MY FREE TIME I HUNT FOR </span>
 					<Button 
 						button="CVEs" 
 						buttonClassName="cves primaryButton clickable" 
