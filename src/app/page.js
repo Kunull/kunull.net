@@ -81,7 +81,7 @@ const Home = () => {
 						target="_blank"
 						ariaLabel=""
 					/>
-					<span className="primaryText"> FOR THE SAME.</span>
+					<span className="primaryText"> OF THE SAME.</span>
 				</p>	
 							
 				<p className='spacing'>
