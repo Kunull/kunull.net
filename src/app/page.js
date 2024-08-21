@@ -1,6 +1,6 @@
-import Button from '../components/button/button';
-import Navbar from '../components/navbar/navbar';
-import Footer from '../components/footer/footer';
+import Button from '../components/Button/Button';
+import Navbar from '../components/Navbar/Navbar';
+import Footer from '../components/Footer/Footer';
 // import profilepic from '../assets/images/profilepic.png';
 // import profilepic2 from '../assets/images/image(1).png';
 
