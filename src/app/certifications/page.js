@@ -1,6 +1,6 @@
-import Button from '../../components/button/button';
-import Navbar from '../../components/navbar/navbar';
-import Footer from '../../components/footer/footer';
+import Button from '../../components/Button/Button';
+import Navbar from '../../components/Navbar/Navbar';
+import Footer from '../../components/Footer/Footer';
 
 export const metadata = {
   title: 'Certifications | Kunal Walavalkar',
