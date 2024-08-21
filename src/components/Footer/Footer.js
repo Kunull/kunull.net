@@ -83,15 +83,15 @@ const Footer = () => {
 		        			/>
 					</li>
 
-					<li className="footerLi">
-						<Button 
-		          				button="PGP KEY"
-					  		buttonClassName="key secondaryButton clickable"
-							buttonHref="https://kunull.vercel.app/assets/key/kunalwalavalkar_public_key.txt"
-							target="_blank"
-							ariaLabel=""
-		    				/>
-	  				</li>	
+					// <li className="footerLi">
+					// 	<Button 
+		   			//        	button="PGP KEY"
+					//   		buttonClassName="key secondaryButton clickable"
+					// 		buttonHref="https://kunull.vercel.app/assets/key/kunalwalavalkar_public_key.txt"
+					// 		target="_blank"
+					// 		ariaLabel=""
+		  			//  	/>
+	  				// </li>	
 
 					<li className="footerLi">
 						<Button 
