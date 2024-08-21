@@ -121,7 +121,7 @@ const Home = () => {
 						target="_blank"
 						ariaLabel=""
 					/>			
-					<span className="primaryText">.</span>
+					<span className="primaryText"> IF YOU'D LIKE TO GET IN TOUCH.</span>
 {/*						
 					<span className="primaryText"> IF YOU'D LIKE TO GET IN TOUCH. YOU CAN USE MY PUBLIC </span>
 					<Button
