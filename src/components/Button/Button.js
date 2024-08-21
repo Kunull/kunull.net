@@ -1,5 +1,5 @@
-import './button.css';
-import '../navbar/navbar.css';
+import './Button.css';
+import '../Navbar/Navbar.css';
 import Link from 'next/link';
 
 const Button = ({ button, buttonClassName, buttonHref, target, ariaLabel }) => {
