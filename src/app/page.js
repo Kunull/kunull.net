@@ -113,6 +113,14 @@ const Home = () => {
 						target="_blank"
 						ariaLabel=""
 					/>
+					<span className="primaryText"> OR MESSAGE ME THROUGH </span>
+					<Button
+						button="MATRIX"
+						buttonClassName="matrix primaryButton clickable"
+						buttonHref="https://matrix.to/#/@kunull:matrix.org"
+						target="_blank"
+						ariaLabel=""
+					/>							
 					<span className="primaryText"> IF YOU'D LIKE TO GET IN TOUCH. YOU CAN USE MY PUBLIC </span>
 					<Button
 						button="PGP KEY"
@@ -121,15 +129,7 @@ const Home = () => {
 						target="_blank"
 						ariaLabel=""
 					/>
-					<span className="primaryText"> FOR ENCRYPTION. OR YOU CAN MESSAGE ME THROUGH </span>
-					<Button
-						button="MATRIX"
-						buttonClassName="matrix primaryButton clickable"
-						buttonHref="https://matrix.to/#/@kunull:matrix.org"
-						target="_blank"
-						ariaLabel=""
-					/>
-					<span className="primaryText">.</span>
+					<span className="primaryText"> FOR ENCRYPTION.</span>
 				</p>
 			</main>
 
