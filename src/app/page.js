@@ -121,7 +121,15 @@ const Home = () => {
 						target="_blank"
 						ariaLabel=""
 					/>
-					<span className="primaryText"> FOR ENCRYPTION.</span>
+					<span className="primaryText"> FOR ENCRYPTION. OR YOU CAN MESSAGE ME THROUGH </span>
+					<Button
+						button="MATRIX"
+						buttonClassName="matrix primaryButton clickable"
+						buttonHref="https://matrix.to/#/@kunull:matrix.org"
+						target="_blank"
+						ariaLabel=""
+					/>
+					<span className="primaryText">.</span>
 				</p>
 			</main>
 
