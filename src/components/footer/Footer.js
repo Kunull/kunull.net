@@ -1,6 +1,6 @@
-import Button from '../button/button';
-import './footer.css';
-import '../button/button';
+import Button from '../Button/Button';
+import './Footer.css';
+import '../Button/Button';
 
 const Footer = () => {
 	return (
@@ -88,6 +88,16 @@ const Footer = () => {
 		          				button="PGP KEY"
 					  		buttonClassName="key secondaryButton clickable"
 							buttonHref="https://kunull.vercel.app/assets/key/kunalwalavalkar_public_key.txt"
+							target="_blank"
+							ariaLabel=""
+		    				/>
+	  				</li>	
+
+					<li className="footerLi">
+						<Button 
+		          				button="MATRIX"
+					  		buttonClassName="matrix secondaryButton clickable"
+							buttonHref="https://matrix.to/#/@kunull:matrix.org"
 							target="_blank"
 							ariaLabel=""
 		    				/>
