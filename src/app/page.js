@@ -120,16 +120,18 @@ const Home = () => {
 						buttonHref="https://matrix.to/#/@kunull:matrix.org"
 						target="_blank"
 						ariaLabel=""
-					/>							
-					<span className="primaryText"> IF YOU'D LIKE TO GET IN TOUCH. YOU CAN USE MY PUBLIC </span>
-					<Button
-						button="PGP KEY"
-						buttonClassName="key primaryButton clickable"
-						buttonHref="/assets/key/kunalwalavalkar_public_key.txt"
-						target="_blank"
-						ariaLabel=""
-					/>
-					<span className="primaryText"> FOR ENCRYPTION.</span>
+					/>			
+					<span className="primaryText">.</span>
+							
+					// <span className="primaryText"> IF YOU'D LIKE TO GET IN TOUCH. YOU CAN USE MY PUBLIC </span>
+					// <Button
+					// 	button="PGP KEY"
+					// 	buttonClassName="key primaryButton clickable"
+					// 	buttonHref="/assets/key/kunalwalavalkar_public_key.txt"
+					// 	target="_blank"
+					// 	ariaLabel=""
+					// />
+					// <span className="primaryText"> FOR ENCRYPTION.</span>
 				</p>
 			</main>
 
