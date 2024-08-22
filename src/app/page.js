@@ -52,7 +52,7 @@ const Home = () => {
     				</p>								
 								
 				<p className='spacing'>
-					<span className="primaryText">THIS WEBSITE IS A MEANS TO SHOWCASE MY </span>
+					<span className="primaryText">THIS SITE SHOWCASES MY </span>
 					<Button 
 						button="PROJECTS" 
 						buttonClassName="projects primaryButton clickable" 
@@ -66,7 +66,7 @@ const Home = () => {
 						buttonHref="/certifications"
 						ariaLabel=""
 					/>
-					<span className="primaryText">. IN MY FREE TIME I HUNT FOR </span>
+					<span className="primaryText">. IN MY SPARE TIME I HUNT FOR </span>
 					<Button 
 						button="CVEs" 
 						buttonClassName="cves primaryButton clickable" 
