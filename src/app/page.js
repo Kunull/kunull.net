@@ -48,7 +48,7 @@ const Home = () => {
 				<p className='spacing'>
 					<span className="primaryText">HELLO. I AM </span>
 					<span className="kunal primaryButton nonClickable">KUNAL WALAVALKAR</span>	
-					<span className="primaryText">, A CYBER SECURITY RESEARCHER AND ENGINEER.</span>
+					<span className="primaryText">, A CYBER SECURITY RESEARCHER AND PRACTITIONER.</span>
     				</p>								
 								
 				<p className='spacing'>
