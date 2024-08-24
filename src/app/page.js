@@ -109,7 +109,7 @@ const Home = () => {
 					<Button
 						button="EMAIL"
 						buttonClassName="email primaryButton clickable"
-						buttonHref="mailto:kunull.contact@protonmail.com"
+						buttonHref="mailto:contact@kunull.net"
 						target="_blank"
 						ariaLabel=""
 					/>
