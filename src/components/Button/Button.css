@@ -75,9 +75,9 @@
   	color: #fff;
 }
 
-.clickable:hover {
+/* .clickable:hover {
   	cursor:url('/assets/images/cursor-pointer-small.png') 10 0,auto;
-}
+} */
 
 .nonClickable {
   	text-decoration: none;
@@ -89,9 +89,9 @@
   	cursor: url('/assets/images/cursor-pointer-small.png') 10 0,auto;
 }
 
-.invertCursor .nonClickable:hover {
+/* .invertCursor .nonClickable:hover {
   	cursor: url('/assets/images/cursor-pointer-filled.png') 10 0,auto;
-}
+} */
 
 .hiddenImg {
   	display: none;
@@ -104,9 +104,9 @@
   	margin-left: 30vw;
 }
 
-.invertCursor .clickable:hover {
+/* .invertCursor .clickable:hover {
   cursor:url('/assets/images/cursor-pointer-filled.png') 10 0,auto;
-}
+} */
 
 
 .blog::after {
