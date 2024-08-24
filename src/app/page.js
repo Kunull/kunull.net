@@ -77,7 +77,7 @@ const Home = () => {
 					<Button 
 						button="REPORTS" 
 						buttonClassName="reports primaryButton clickable" 
-						buttonHref="https://reports-kunull.vercel.app/" 
+						buttonHref="https://reports.kunull.net/" 
 						target="_blank"
 						ariaLabel=""
 					/>
@@ -89,7 +89,7 @@ const Home = () => {
 					<Button 
 						button="WRITEUPS" 
 						buttonClassName="write-ups primaryButton clickable" 
-						buttonHref="https://writeups-kunull.vercel.app/" 
+						buttonHref="https://writeups.kunull.net/" 
 						target="_blank"
 						ariaLabel=""
 					/>
@@ -97,7 +97,7 @@ const Home = () => {
 					<Button 
 						button="BLOG" 
 						buttonClassName="blog primaryButton clickable" 
-						buttonHref="https://blog-kunull.vercel.app/" 
+						buttonHref="https://blog.kunull.net/" 
 						target="_blank"
 						ariaLabel=""
 					/>
