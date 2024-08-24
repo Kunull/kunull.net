@@ -18,9 +18,9 @@
 	--content-width: min(100%,var(--container-max-width,1220px))
 }
 
-body .invertCursor{
+/* body .invertCursor{
 	cursor: url('/assets/images/cursor-default-filled.png') 0 0, auto;
-} 
+}  */
 
 body {
 	max-width: 1080px;
