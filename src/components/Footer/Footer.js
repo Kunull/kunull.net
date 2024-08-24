@@ -77,7 +77,7 @@ const Footer = () => {
 						<Button 
 		          				button="EMAIL"
 							buttonClassName="email secondaryButton clickable"
-							buttonHref="mailto:kunull.contact@protonmail.com"
+							buttonHref="mailto:contact@kunull.net"
 							target="_blank"
 							ariaLabel="Send me an email"
 		        			/>
