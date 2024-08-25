@@ -3,9 +3,9 @@ import Navbar from '../../components/Navbar/Navbar';
 import Footer from '../../components/Footer/Footer';
 
 export const metadata = {
-  title: 'CVEs | Kunal Walavalkar',
+  title: 'Kunull | CVEs',
   openGraph: {
-    title: 'CVEs | Kunal Walavalkar',
+    title: 'Kunull | CVEs',
   },
 }
 
