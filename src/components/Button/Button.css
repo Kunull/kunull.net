@@ -3,7 +3,7 @@
 }
 
 .primaryButton::after {
-  	line-height: 1.4;
+  	line-height: 1.35;
   	font-size: var(--font-size-primary);
   	text-decoration: none;
   	width: 100%;
