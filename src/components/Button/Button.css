@@ -75,9 +75,9 @@
   	color: #fff;
 }
 
-/* .clickable:hover {
+.clickable:hover {
   	cursor:url('/assets/images/cursor-pointer-small.png') 10 0,auto;
-} */
+}
 
 .nonClickable {
   	text-decoration: none;
