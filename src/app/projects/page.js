@@ -46,7 +46,7 @@ const Projects = () => {
 							<Button
 								button="EMPOWERSHELL"
 								buttonClassName="empower primaryButton clickable"
-								buttonHref="https://github.com/KuNull/Custos-Shell"
+								buttonHref="https://github.com/Kunull/EmpowerShell"
 								target="_blank"
 								ariaLabel=""
 							/>
@@ -59,7 +59,7 @@ const Projects = () => {
 							<Button
 								button="HEXPLORER"
 								buttonClassName="hexplorer primaryButton clickable"
-								buttonHref="https://github.com/KuNull/Hexplorer/"
+								buttonHref="https://github.com/Kunull/Hexplorer/"
 								target="_blank"
 								ariaLabel=""
 							/>
@@ -85,7 +85,7 @@ const Projects = () => {
 							<Button
 								button="NETSLEUTH"
 								buttonClassName="netSleuth primaryButton clickable"
-								buttonHref="https://github.com/KuNull/NetSleuth/"
+								buttonHref="https://github.com/Kunull/NetSleuth/"
 								target="_blank"
 								ariaLabel=""
 							/>
@@ -124,12 +124,25 @@ const Projects = () => {
 							<Button
 								button="PROBE"
 								buttonClassName="probe primaryButton clickable"
-								buttonHref="https://github.com/KuNull/Probe"
+								buttonHref="https://github.com/Kunull/Probe"
 								target="_blank"
 								ariaLabel=""
 							/>
 						</div>
 						<p className="secondaryText">PORTSCANNER THAT IMPLEMENTS MULTITHREADING FOR SWIFT SCANS.</p>
+					</li>
+
+					<li>
+						<div className="capital">
+							<Button
+								button="PROXDUMP"
+								buttonClassName="proxdump primaryButton clickable"
+								buttonHref="https://github.com/Kunull/proxdump"
+								target="_blank"
+								ariaLabel=""
+							/>
+						</div>
+						<p className="secondaryText">DUMPS READILY USABLE PROXIES TO BE USED FOR WEB-SCRAPING.</p>
 					</li>
 	
 	{/*
@@ -138,7 +151,7 @@ const Projects = () => {
 							<Button
 								button=""
 								buttonClassName="pyrefox clickable"
-								buttonHref="https://github.com/KuNull/PyreFox"
+								buttonHref="https://github.com/Kunull/PyreFox"
 								target="_blank"
 							/>
 						</h2>
