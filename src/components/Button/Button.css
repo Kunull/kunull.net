@@ -433,6 +433,15 @@
 }
 
 
+.proxdump::after {
+  content:"PROXDUMP";
+}
+
+.proxdump:hover::after {
+  content:"9R0XDUM9";
+}
+
+
 .reports::after {
   content:"REPORTS";
 }
