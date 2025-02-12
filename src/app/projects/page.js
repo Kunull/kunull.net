@@ -13,7 +13,7 @@ const Projects = () => {
 	return (
 		<>
 			<Navbar
-				previousPage="KUNULL"
+				previousPage="Kunull"
 				previousPageClassName="tertiaryButton clickable glitch layers"
 				previousPageAriaLabel=""
 				previousPageHref="/"
@@ -21,19 +21,19 @@ const Projects = () => {
 				slash="&nbsp;/&nbsp;"
 				slashClassName="tertiaryText slash"
 				
-				currentPage="PROJECTS"
+				currentPage="projects"
 				currentPageClassName="tertiaryText currentPage"
 //				option2Page="experience clickable"
 
-				option1Page="CERTIFICATIONS"
+				option1Page="certifications"
 				option1PageClassName="certifications secondaryButton clickable"
 				option1PageAriaLabel=""
 	
-				option2Page="PROJECTS"
+				option2Page="projects"
 				option2PageClassName="projects hidden clickable"
 				option2PageAriaLabel=""
 
-				option3Page="CVES"
+				option3Page="CVEs"
 				option3PageClassName="cves secondaryButton clickable"
 				option3PageAriaLabel=""
 			/>
@@ -51,7 +51,7 @@ const Projects = () => {
 								ariaLabel=""
 							/>
 						</div>
-						<p className="secondaryText">POWERSHELL UTILITY SCRIPT THAT COMPARES HASHES TO CHECK THE INTEGRITY OF FILES.</p>
+						<p className="secondaryText">Powershell utility script that compares hashes to check the integrity of files.</p>
 					</li>
 	
 					<li>
@@ -64,7 +64,7 @@ const Projects = () => {
 								ariaLabel=""
 							/>
 						</div>
-						<p className="secondaryText">COMMAND-LINE UTILITY TO DUMP THE BINARY AND HEXADECIMAL RENDITION OF A FILE.</p>
+						<p className="secondaryText">Command-line utility to dump the binary and hexadecimal redition of a file.</p>
 					</li>
 
 					<li>
@@ -77,7 +77,7 @@ const Projects = () => {
 								ariaLabel=""
 							/>
 						</div>
-						<p className="secondaryText">CRYPTOGRAPHY TOOLKIT THAT ALLOWS USERS TO ENCRYPT AND DECRYPT THEIR TEXT USING AN ALGORITHM OF THEIR CHOICE.</p>
+						<p className="secondaryText">Cryptography toolkit that allows users to encode and decode text using an algorithm of their choice.</p>
 					</li>
 	
 					<li>
@@ -90,7 +90,7 @@ const Projects = () => {
 								ariaLabel=""
 							/>
 						</div>
-						<p className="secondaryText">NETWORK SCANNER THAT FINDS ALL THE DEVICES CONNECTED IN THE NETWORK.</p>
+						<p className="secondaryText">Network scanner that finds all the devices connected in the network.</p>
 					</li>
 	
 					<li>
@@ -103,7 +103,7 @@ const Projects = () => {
 								ariaLabel=""
 							/>
 						</div>
-						<p className="secondaryText">POC FOR A FREE, OPEN-SOURCE SECURITY OPERATIONS CENTRE WHICH POSSESES AUTOMATION CAPABILITIES.</p>
+						<p className="secondaryText">POC for a free, open-source Security Operations Centre which possesses automation capabilities.</p>
 					</li>
 	
 	{/*				
@@ -129,7 +129,7 @@ const Projects = () => {
 								ariaLabel=""
 							/>
 						</div>
-						<p className="secondaryText">PORTSCANNER THAT IMPLEMENTS MULTITHREADING FOR SWIFT SCANS.</p>
+						<p className="secondaryText">Port scanner that implements multithreading for swift scans.</p>
 					</li>
 
 					<li>
@@ -142,7 +142,7 @@ const Projects = () => {
 								ariaLabel=""
 							/>
 						</div>
-						<p className="secondaryText">DUMPS READILY USABLE PROXIES TO BE USED FOR WEB-SCRAPING.</p>
+						<p className="secondaryText">Dumps readilty usable proxies for multiple purposes.</p>
 					</li>
 	
 	{/*
@@ -214,7 +214,7 @@ const Projects = () => {
 								ariaLabel=""
 							/>
 						</div>
-						<p className="secondaryText">WEB APP TO EVALUATE THE RISK FACED BY AN ORGANIZATION.</p>
+						<p className="secondaryText">Web application to evaluate risk faced by an organization.</p>
 					</li>
 				</ul>
 			</main>
