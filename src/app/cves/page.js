@@ -13,26 +13,26 @@ const CVEs = () => {
 	return (
 		<>
 			<Navbar
-				previousPage="KUNULL"
+				previousPage="Kunull"
 				previousPageClassName="tertiaryButton clickable glitch layers"
 				previousPageAriaLabel=""
 				previousPageHref="/"
 				
 				slash="&nbsp;/&nbsp;"
 				slashClassName="tertiaryText slash"
-				currentPage="CVES"
+				currentPage="CVEs"
 				currentPageClassName="tertiaryText currentPage"
 //				option2Page="experience clickable"
 
-				option1Page="CERTIFICATIONS"
+				option1Page="certifications"
 				option1PageClassName="certifications secondaryButton clickable"
 				option1PageAriaLabel=""
 	
-				option2Page="PROJECTS"
+				option2Page="projects"
 				option2PageClassName="projects secondaryButton clickable"
 				option2PageAriaLabel=""
 
-				option3Page="CVES"
+				option3Page="CVEs"
 				option3PageClassName="cves hidden clickable"
 				option3PageAriaLabel=""
 			/>
@@ -48,7 +48,7 @@ const CVEs = () => {
 							target="_blank"
 							aria-label=""
 						/>
-						<p className="secondaryText">ALL OF MY DISCLOSURES FROM 2024 THAT WERE ASSIGNED A CVE ID</p>
+						<p className="secondaryText">All of my disclosures from 2024 that were assigned a CVE ID.</p>
 					</li>
 				</ul>	
 			</main>
