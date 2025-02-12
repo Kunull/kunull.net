@@ -13,7 +13,7 @@ const Certifications = () => {
 	return (
 		<>
 			<Navbar
-				previousPage="KUNULL"
+				previousPage="Kunull"
 				previousPageClassName="tertiaryButton clickable glitch layers"
 				previousPageAriaLabel=""
 				previousPageHref="/"
@@ -21,19 +21,19 @@ const Certifications = () => {
 				slash="&nbsp;/&nbsp;"
 				slashClassName="tertiaryText slash"
 				
-				currentPage="CERTIFICATIONS"
+				currentPage="certifications"
 				currentPageClassName="tertiaryText currentPage"
 //				option2Page="experience clickable"
 
-				option1Page="CERTIFICATIONS"
+				option1Page="certifications"
 				option1PageClassName="certifications hidden clickable"
 				option1PageAriaLabel=""
 	
-				option2Page="PROJECTS"
+				option2Page="projects"
 				option2PageClassName="projects secondaryButton clickable"
 				option2PageAriaLabel=""
 
-				option3Page="CVES"
+				option3Page="CVEs"
 				option3PageClassName="cves secondaryButton clickable"
 				option3PageAriaLabel=""
 			/>
@@ -49,7 +49,7 @@ const Certifications = () => {
 							target="_blank"
 							aria-label=""
 						/>
-						<p className="secondaryText">E-LEARN SECURITY JUNIOR PENETRATION TESTER.</p>
+						<p className="secondaryText">E-Learn Security Junior Penetration Tester.</p>
 					</li>
 
 					<li>
@@ -62,7 +62,7 @@ const Certifications = () => {
 								ariaLabel=""
 							/>
 						</div>
-						<p className="secondaryText">CERTIFIED NETWORK SECURITY PRACTITIONER.</p>
+						<p className="secondaryText">Certified Network Security Practitioner.</p>
 					</li>
      
 {/*
@@ -90,7 +90,7 @@ const Certifications = () => {
 								ariaLabel=""
 							/>
 						</div>
-						<p className="secondaryText">INE CERTIFIED CLOUD ASSOCIATE.</p>
+						<p className="secondaryText">INE Certified Cloud Associate.</p>
 					</li>
 
 					<li>
@@ -103,7 +103,7 @@ const Certifications = () => {
 								ariaLabel=""
 							/>
 						</div>
-						<p className="secondaryText">NETWORK SECURITY EXPERT LEVEL 1.</p>
+						<p className="secondaryText">Network Security Expert Level 1.</p>
 					</li>
 
 					<li>
@@ -116,7 +116,7 @@ const Certifications = () => {
 								ariaLabel=""
 							/>
 						</div>
-						<p className="secondaryText">GOOGLE CYBERSECURITY PROFESSIONAL CERTIFICATE.</p>
+						<p className="secondaryText">Google Cybersecurity Professional Certificate.</p>
 					</li>
 
 {/*
