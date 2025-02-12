@@ -26,16 +26,16 @@ const Home = () => {
 				currentPage="Kunull"
 				currentPageClassName="tertiaryText currentPage glitch layers"
 	
-				option1Page="CERTIFICATIONS"	
+				option1Page="certifications"	
 				option1PageClassName="certifications secondaryButton clickable"
 				option1PageAriaLabel=""
 	
 //				option2Page="experience clickable"
-				option2Page="PROJECTS"
+				option2Page="projects"
 				option2PageClassName="projects secondaryButton clickable"
 				option2PageAriaLabel=""
 
-				option3Page="CVES"
+				option3Page="CVEs"
 				option3PageClassName="cves secondaryButton clickable"
 				option3PageAriaLabel=""
 					
@@ -48,80 +48,80 @@ const Home = () => {
 				<p className='spacing'>
 					<span className="primaryText">Hello. I am </span>
 					<span className="kunal primaryButton nonClickable">Kunal Walavalkar</span>	
-					<span className="primaryText">, A CYBER SECURITY RESEARCHER AND PRACTITIONER.</span>
+					<span className="primaryText">, a Cyber Security Researcher and Practitioner.</span>
     				</p>								
 								
 				<p className='spacing'>
-					<span className="primaryText">THIS SITE SHOWCASES MY </span>
+					<span className="primaryText">This site showcases my </span>
 					<Button 
-						button="PROJECTS" 
+						button="projects" 
 						buttonClassName="projects primaryButton clickable" 
 						buttonHref="/projects" 
 						ariaLabel=""
 					/>
-					<span className="primaryText"> AS WELL AS </span>
+					<span className="primaryText"> as well as </span>
 					<Button
-						button="CERTIFICATIONS"
+						button="certifications"
 						buttonClassName="certifications primaryButton clickable"
 						buttonHref="/certifications"
 						ariaLabel=""
 					/>
-					<span className="primaryText">. IN MY SPARE TIME I HUNT FOR </span>
+					<span className="primaryText">. in my spare time I hunt for </span>
 					<Button 
 						button="CVEs" 
 						buttonClassName="cves primaryButton clickable" 
 						buttonHref="https://kunull.vercel.app/cves" 
 						ariaLabel=""
 					/>
-					<span className="primaryText"> AND PUBLISH </span>
+					<span className="primaryText"> and publish </span>
 					<Button 
-						button="REPORTS" 
+						button="reports" 
 						buttonClassName="reports primaryButton clickable" 
 						buttonHref="https://reports.kunull.net/" 
 						target="_blank"
 						ariaLabel=""
 					/>
-					<span className="primaryText"> OF THE SAME.</span>
+					<span className="primaryText"> of the same.</span>
 				</p>	
 							
 				<p className='spacing'>
-					<span className="primaryText">ADDITIONALLY, I CREATE </span>
+					<span className="primaryText">Additionally, I create </span>
 					<Button 
-						button="WRITEUPS" 
+						button="writeups" 
 						buttonClassName="write-ups primaryButton clickable" 
 						buttonHref="https://writeups.kunull.net/" 
 						target="_blank"
 						ariaLabel=""
 					/>
-					<span className="primaryText"> FOR CTF CHALLENGES AND BOOT2ROOT MACHINES AND ALSO MAINTAIN A </span>
+					<span className="primaryText"> for CTF challenges and Boot2Root machines and also maintain a </span>
 					<Button 
-						button="BLOG" 
+						button="blog" 
 						buttonClassName="blog primaryButton clickable" 
 						buttonHref="https://blog.kunull.net/" 
 						target="_blank"
 						ariaLabel=""
 					/>
-					<span className="primaryText"> WHERE I WRITE ABOUT MY INTERESTS.</span>
+					<span className="primaryText"> where I write about my interests.</span>
 				</p>								
 								
 				<p className='spacing'>
-					<span className="primaryText">SEND ME AN </span>
+					<span className="primaryText">Send me an </span>
 					<Button
-						button="EMAIL"
+						button="email"
 						buttonClassName="email primaryButton clickable"
 						buttonHref="mailto:contact@kunull.net"
 						target="_blank"
 						ariaLabel=""
 					/>
-					<span className="primaryText"> OR MESSAGE ME THROUGH </span>
+					<span className="primaryText"> or message me through </span>
 					<Button
-						button="MATRIX"
+						button="Matrix"
 						buttonClassName="matrix primaryButton clickable"
 						buttonHref="https://matrix.to/#/@kunull:matrix.org"
 						target="_blank"
 						ariaLabel=""
 					/>			
-					<span className="primaryText"> IF YOU'D LIKE TO GET IN TOUCH.</span>
+					<span className="primaryText"> if you'd like to get in touch.</span>
 {/*						
 					<span className="primaryText"> IF YOU'D LIKE TO GET IN TOUCH. YOU CAN USE MY PUBLIC </span>
 					<Button
