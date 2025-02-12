@@ -15,7 +15,7 @@ const Home = () => {
 	return (
 		<>
 			<Navbar
-				previousPage="KUNULL"
+				previousPage="Kunull"
 				previousPageClassName="hidden"
 				previousAriaLabel=""
 				previousPageHref="/"
@@ -23,7 +23,7 @@ const Home = () => {
 				slash=""
 				slashClassName=""
 	
-				currentPage="KUNULL"
+				currentPage="Kunull"
 				currentPageClassName="tertiaryText currentPage glitch layers"
 	
 				option1Page="CERTIFICATIONS"	
@@ -46,8 +46,8 @@ const Home = () => {
 					
 			<main className="capital">
 				<p className='spacing'>
-					<span className="primaryText">HELLO. I AM </span>
-					<span className="kunal primaryButton nonClickable">KUNAL WALAVALKAR</span>	
+					<span className="primaryText">Hello. I am </span>
+					<span className="kunal primaryButton nonClickable">Kunal Walavalkar</span>	
 					<span className="primaryText">, A CYBER SECURITY RESEARCHER AND PRACTITIONER.</span>
     				</p>								
 								
