@@ -44,7 +44,7 @@ const CVEs = () => {
 						<Button
 							button="CVE-2024-*"
 							buttonClassName="cve-2024 primaryButton clickable"
-							buttonHref="https://reports-kunull.vercel.app/CVEs/2024/"
+							buttonHref="https://reports.kunull.net/CVEs/2024/"
 							target="_blank"
 							aria-label=""
 						/>
