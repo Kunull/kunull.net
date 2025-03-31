@@ -1,6 +1,6 @@
 import localFont from 'next/font/local'
 import './globals.css'
-// import PageTransition from '../components/PageTransition/PageTransition'
+import PageTransition from '../components/PageTransition/PageTransition'
 
 const myFont = localFont({ src: '../../public/assets/fonts/VCR OSD Mono/VCROSDMono.woff2' })
 
@@ -18,7 +18,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className={myFont.className}>
-        {/* <PageTransition> */}
+        <PageTransition> 
           <div className="sticky">
             <div className="effectGlitch"></div>
             <div className="effectNoise"></div>
@@ -30,7 +30,7 @@ export default function RootLayout({ children }) {
           </div>
 
           {children}
-        {/* </PageTransition> */}
+        </PageTransition>
       </body>
     </html>
   )
