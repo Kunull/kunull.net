@@ -28,21 +28,20 @@
 } */
 
 /* During page transitions - Keep original appearance but change behavior */
-.loading-page .scanLine {
+/* .loading-page .scanLine {
   animation: scanlineTransition 1s cubic-bezier(0.23, 1, 0.32, 1) !important;
   z-index: 999 !important; 
   opacity: 0.4 !important; 
-}
+} */
 
-/* Custom animation for scanline during transitions */
-@keyframes scanlineTransition {
+/* @keyframes scanlineTransition {
   0% {
     transform: translateY(var(--current-position, 0));
   }
   100% {
     transform: translateY(150%);
   }
-}
+} */
 
 /* .phase-in .sticky .scanLine {
   opacity: 0.25;
