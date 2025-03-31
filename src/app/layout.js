@@ -18,7 +18,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className={myFont.className}>
-        // <PageTransition>
+        {/* <PageTransition> */}
           <div className="sticky">
             <div className="effectGlitch"></div>
             <div className="effectNoise"></div>
@@ -30,7 +30,7 @@ export default function RootLayout({ children }) {
           </div>
 
           {children}
-        // </PageTransition>
+        {/* </PageTransition> */}
       </body>
     </html>
   )
