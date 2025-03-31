@@ -36,24 +36,3 @@ export default function RootLayout({ children }) {
   )
 }
 
-// export default function RootLayout({ children }) {
-//   return (
-//     <html lang="en">
-//       <body className={myFont.className}>
-//         {/* <PageTransition> */}
-//           <div className="sticky">
-//             <div className="effectGlitch"></div>
-//             <div className="effectNoise"></div>
-//             <div className="scanLine"></div>
-//             <div className="gradient"></div>
-//             <div className="noise"></div>
-//             <div className="backgroundLines"></div>
-//             <div className="backgroundEffect"></div>
-//           </div>
-
-//           {children}
-//         {/* </PageTransition> */}
-//       </body>
-//     </html>
-//   )
-// }
