@@ -6,7 +6,7 @@ const myFont = localFont({ src: '../../public/assets/fonts/VCR OSD Mono/VCROSDMo
 
 export const metadata = {
   manifest: '/manifest.json',
-  title: 'Create Next App',
+  title: 'Kunull | Kunal Walavalkar',
   description: 'Cyber security researcher and engineer',
 }
 
