@@ -26,6 +26,7 @@ export default function RootLayout({ children }) {
             <div className="gradient"></div>
             <div className="noise"></div>
             <div className="backgroundLines"></div>
+            <div className="rgbLines"></div>
             <div className="backgroundEffect"></div>
           </div>
 
