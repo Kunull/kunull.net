@@ -8,40 +8,58 @@
   pointer-events: none;
   position: relative;
   z-index: 10;
+  color: white !important;
+  text-shadow: 0 0 5px rgba(255, 255, 255, 0.7) !important;
 }
 
-/* Phase transitions */
 /* .phase-in main,
 .phase-in header,
 .phase-in footer,
 .phase-in .capital {
   filter: blur(5px) brightness(3) grayscale(1) contrast(1.2);
   transition: all 0.1s ease-in;
-}
+} */
 
-.phase-out main,
+/* .phase-out main,
 .phase-out header,
 .phase-out footer,
 .phase-out .capital {
   filter: blur(0) brightness(1) grayscale(0) contrast(1);
-  transition: all 0.1s ease-out;
+  transition: all 0.25s ease-out;
 } */
+
+.loading-page .backgroundLines {
+	height: 120%;
+	content: ' ';
+	display: block;
+	position: fixed;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	background: linear-gradient(rgba(0, 0, 0, 0.1) 50%, rgba(255, 255, 255, 0.025) 50%);
+  z-index: -2;
+	background-size: 100% 5px, 4px 100%;
+	pointer-events: none;
+}
 
 /* During page transitions - Keep original appearance but change behavior */
-/* .loading-page .scanLine {
-  animation: scanlineTransition 1s cubic-bezier(0.23, 1, 0.32, 1) !important;
+.loading-page .scanLine {
+  animation: scanLine 0.25s linear infinite;
+  /* animation: scanlineTransition 2s cubic-bezier(0.9, 0, 0.1, 1) !important; */
+  /* animation: scanlineTransition 2s cubic-bezier(0.23, 1, 0.32, 1) !important; */
   z-index: 999 !important; 
   opacity: 0.4 !important; 
-} */
+}
 
-/* @keyframes scanlineTransition {
+@keyframes scanlineTransition {
   0% {
     transform: translateY(var(--current-position, 0));
   }
   100% {
-    transform: translateY(150%);
+    transform: translateY(120%);
   }
-} */
+}
 
 /* .phase-in .sticky .scanLine {
   opacity: 0.25;
@@ -55,7 +73,8 @@
 
 /* Noise Effects */
 .loading-page .sticky .effectNoise {
-  opacity: 0.175;
+  filter: grayscale(100%);
+  opacity: 0.1;
   transition: opacity 0.3s ease-in-out;
   z-index: -4;
 }
@@ -63,16 +82,16 @@
 /* .phase-in .sticky .effectNoise {
   opacity: 0.25;
   transition: opacity 0.1s ease-in;
-}
+} */
 
-.phase-out .sticky .effectNoise {
+/* .phase-out .sticky .effectNoise {
   opacity: 0.0675;
-  transition: opacity 0.1s ease-out;
+  transition: opacity 0.3s ease-out;
 } */
 
 /* Glitch Effects */
 .loading-page .sticky .effectGlitch {
-  opacity: 0.25;
+  opacity: 0.75;
   transition: opacity 0.3s ease-in-out;
   z-index: -4;
 }
@@ -92,6 +111,7 @@
   opacity: 1;
   transition: opacity 0.3s ease-in-out; 
   z-index: -3;
+  background: radial-gradient(circle, rgb(0, 0, 0, 0.0)70%, rgba(0, 0, 0, 0.75));
 }
 
 /* .phase-in .sticky .gradient {
