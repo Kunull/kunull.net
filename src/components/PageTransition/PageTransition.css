@@ -3,7 +3,7 @@
 .loading-page header,
 .loading-page footer,
 .loading-page .capital {
-  filter: blur(4px) brightness(3) grayscale(1) contrast(10);
+  filter: blur(0.4svh) brightness(3) grayscale(1) contrast(10);
   transition: all 0.3s ease-in-out;
   pointer-events: none;
   position: relative;
