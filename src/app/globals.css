@@ -674,6 +674,17 @@ p {
 	pointer-events: none;
 }
 
+.rgbLines {
+    position: absolute;
+    inset: 0px;
+    pointer-events: none;
+    background-image: linear-gradient(to top, rgba(255, 255, 255, 0.0) 33.3333%, rgba(255, 255, 255, 0.0) 33.3333%, rgba(255, 255, 255, 0.0) 66.6667%, rgba(255, 255, 255, 0.0) 66.6667%), linear-gradient(to right, rgba(255, 0, 0, 0.99) 33.3333%, rgba(0, 255, 0, 0.99) 33.3333%, rgba(0, 255, 0, 0.99) 66.6667%, rgba(0, 0, 255, 0.99) 66.6667%);
+    background-size: 3px 3px;
+    mix-blend-mode: multiply;
+    opacity: 0.05;
+    z-index: 10;
+}
+
 /* .backgroundEffect1 {
 	height: 120%;
 	display: block;
