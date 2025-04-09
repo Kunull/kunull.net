@@ -43,6 +43,17 @@ const Certifications = () => {
 				<ul className="grid">
 					<li>
 						<Button
+							button="AWS SAA-C03"
+							buttonClassName="aws-saa primaryButton clickable"
+							buttonHref="/assets/certifications/eLearnSecurity-Junior-Penetration-Tester.pdf"
+							target="_blank"
+							aria-label=""
+						/>
+						<p className="secondaryText">AWS Certified Solutions Architect - Associate.</p>
+					</li>
+					
+					<li>
+						<Button
 							button="EJPT"
 							buttonClassName="ejpt primaryButton clickable"
 							buttonHref="/assets/certifications/eLearnSecurity-Junior-Penetration-Tester.pdf"
