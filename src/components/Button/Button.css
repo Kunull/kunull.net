@@ -108,6 +108,14 @@
   cursor:url('/assets/images/cursor-pointer-filled.png') 10 0,auto;
 } */
 
+.aws-saa::after {
+  content:"AWS SAA-C03";
+}
+
+.aws-saa:hover::after {
+  content:"4W5 544-C03";
+}
+
 
 .blog::after {
   content:"BLOG";
