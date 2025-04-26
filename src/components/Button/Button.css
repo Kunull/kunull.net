@@ -109,11 +109,11 @@
 } */
 
 .aws-saa::after {
-  content:"AWS SAA-C03";
+  content:"SAA-C03";
 }
 
 .aws-saa:hover::after {
-  content:"4W5 544=COE";
+  content:"544=C03";
 }
 
 
@@ -203,7 +203,7 @@
 }
 
 .cve-2024:hover::after {
-  content:"CV3=2O2A=*";
+  content:"CV3=2O24=*";
 }
 
 
