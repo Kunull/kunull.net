@@ -41,16 +41,18 @@ const Certifications = () => {
 					
 			<main>
 				<ul className="grid">
-					// <li>
-					// 	<Button
-					// 		button="AWS SCS-C02"
-					// 		buttonClassName="aws-scs primaryButton clickable"
-					// 		buttonHref="/assets/certifications/eLearnSecurity-Junior-Penetration-Tester.pdf"
-					// 		target="_blank"
-					// 		aria-label=""
-					// 	/>
-					// 	<p className="secondaryText">AWS Certified Security - Specialty.</p>
-					// </li>
+{/*
+					<li>
+						<Button
+							button="AWS SCS-C02"
+							buttonClassName="aws-scs primaryButton clickable"
+							buttonHref="/assets/certifications/eLearnSecurity-Junior-Penetration-Tester.pdf"
+							target="_blank"
+							aria-label=""
+						/>
+						<p className="secondaryText">AWS Certified Security - Specialty.</p>
+					</li>
+*/} 
 					
 					<li>
 						<Button
