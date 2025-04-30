@@ -70,7 +70,7 @@ const Home = () => {
 					<Button 
 						button="CVEs" 
 						buttonClassName="cves primaryButton clickable" 
-						buttonHref="https://kunull.vercel.app/cves" 
+						buttonHref="https://kunull.net/cves" 
 						ariaLabel=""
 					/>
 					<span className="primaryText"> and publish </span>
