@@ -50,10 +50,17 @@ const Home = () => {
 					<Button 
 						button="kunal" 
 						buttonClassName="kunal primaryButton nonClickable" 
-						buttonHref="" 
+						buttonHref="https://en.wikipedia.org/wiki/Personal_name" 
 						ariaLabel=""
 					/>
-					<span className="primaryText">, a Cyber Security Researcher and Engineer.</span>
+					<span className="primaryText" aka </span>
+					<Button 
+						button="kunull" 
+						buttonClassName="kunull primaryButton nonClickable" 
+						buttonHref="https://en.wikipedia.org/wiki/Pseudonym" 
+						ariaLabel=""
+					/>
+					<span className="primaryText">, a Security Researcher and Engineer.</span>
     				</p>								
 								
 				<p className='spacing'>
