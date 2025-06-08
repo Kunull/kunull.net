@@ -53,7 +53,7 @@ const Home = () => {
 						buttonHref="https://en.wikipedia.org/wiki/Personal_name" 
 						ariaLabel=""
 					/>
-					<span className="primaryText" aka </span>
+					<span className="primaryText"> aka </span>
 					<Button 
 						button="kunull" 
 						buttonClassName="kunull primaryButton nonClickable" 
