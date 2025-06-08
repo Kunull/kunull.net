@@ -378,6 +378,15 @@
 }
 
 
+.kunull::after {
+  content:"KUNULL";
+}
+
+.kunull:hover::after {
+  content:"KUNULL";
+}
+
+
 .linkedin::after {
   content:"LINKEDIN";
 }
