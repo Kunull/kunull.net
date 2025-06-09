@@ -77,7 +77,6 @@
 
 .clickable:hover {
   	cursor:url('/assets/images/cursor-pointer-small.png') 10 0,auto;
-	text-transform: lowercase;
 }
 
 .nonClickable {
