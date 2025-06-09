@@ -51,6 +51,7 @@ const Home = () => {
 						button="kunal" 
 						buttonClassName="kunal primaryButton nonClickable" 
 						buttonHref="https://en.wikipedia.org/wiki/Personal_name" 
+						target="_blank"
 						ariaLabel=""
 					/>
 					<span className="primaryText"> aka </span>
@@ -58,6 +59,7 @@ const Home = () => {
 						button="kunull" 
 						buttonClassName="kunull primaryButton nonClickable" 
 						buttonHref="https://en.wikipedia.org/wiki/Pseudonym" 
+						target="_blank"
 						ariaLabel=""
 					/>
 					<span className="primaryText">, a Security Researcher and Engineer.</span>
