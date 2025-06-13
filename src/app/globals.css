@@ -674,7 +674,7 @@ p {
 /* 	background: linear-gradient(rgba(0, 0, 0, 0.0) 50%, rgba(0, 0, 0, 0.275) 50%); */
 	background: linear-gradient(rgba(255, 255, 255, 0.005) 50%, rgba(0, 0, 0, 0.275) 50%);
   	z-index: 10;
-	background-size: 100% 9px, 0px 100%;
+	background-size: 100% 1.2svh, 0px 100%;
 	pointer-events: none;
 }
 
@@ -683,7 +683,7 @@ p {
     inset: 0px;
     pointer-events: none;
     background-image: linear-gradient(to top, rgba(255, 255, 255, 0.0) 33.3333%, rgba(255, 255, 255, 0.0) 33.3333%, rgba(255, 255, 255, 0.0) 66.6667%, rgba(255, 255, 255, 0.0) 66.6667%), linear-gradient(to right, rgba(255, 0, 0, 0.99) 33.3333%, rgba(0, 255, 0, 0.99) 33.3333%, rgba(0, 255, 0, 0.99) 66.6667%, rgba(0, 0, 255, 0.99) 66.6667%);
-    background-size: 3px 3px;
+    background-size: 0.5svh 3px;
     mix-blend-mode: multiply;
     opacity: 0.04;
     z-index: 10;
