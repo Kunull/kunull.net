@@ -39,7 +39,7 @@
 	right: 0;
 	background: linear-gradient(rgba(255, 255, 255, 0.025) 50%, rgba(0, 0, 0, 0.1) 50%);
 	z-index: -2;
-	background-size: 100% 1.25svh, 0 100%;
+	background-size: 100% 1.2svh, 0 100%;
 	pointer-events: none;
 }
 
