@@ -674,7 +674,7 @@ p {
 /* 	background: linear-gradient(rgba(0, 0, 0, 0.0) 50%, rgba(0, 0, 0, 0.275) 50%); */
 	background: linear-gradient(rgba(255, 255, 255, 0.005) 50%, rgba(0, 0, 0, 0.275) 50%);
   	z-index: 10;
-	background-size: 100% 1.2svh, 0px 100%;
+	background-size: 100% 1.25svh, 0px 100%;
 	pointer-events: none;
 }
 
