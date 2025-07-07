@@ -206,6 +206,15 @@
 }
 
 
+.esrever::after {
+  content:"ESREVER";
+}
+
+.esrever:hover::after {
+  content:"35R3V3R";
+}
+
+
 .experience::after {
   content:"EXPERIENCE";
 }
