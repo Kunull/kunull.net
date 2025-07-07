@@ -44,6 +44,19 @@ const Projects = () => {
 					<li>
 						<div className="capital">
 							<Button
+								button="ESREVER"
+								buttonClassName="esrever primaryButton clickable"
+								buttonHref=""
+								target="_blank"
+								ariaLabel=""
+							/>
+						</div>
+						<p className="secondaryText">Binary analysis and reverse engineering toolkit. (Coming soon)..</p>
+					</li>
+					
+					<li>
+						<div className="capital">
+							<Button
 								button="EMPOWERSHELL"
 								buttonClassName="empower primaryButton clickable"
 								buttonHref="https://github.com/Kunull/EmpowerShell"
