@@ -53,6 +53,7 @@ const Projects = () => {
 						</div>
 						<p className="secondaryText">Binary analysis and reverse engineering toolkit. (Coming soon)..</p>
 					</li>
+	{/*									
 					
 					<li>
 						<div className="capital">
@@ -105,6 +106,7 @@ const Projects = () => {
 						</div>
 						<p className="secondaryText">Network scanner that finds all the devices connected in the network.</p>
 					</li>
+	*/}									
 	
 					<li>
 						<div className="capital">
@@ -131,7 +133,7 @@ const Projects = () => {
 						</h2>
 						<span className="secondaryText">Local password manager with a built-in web server/interface.</span>
 					</li>
-	*/}
+
 					<li>
 						<div className="capital">
 							<Button
@@ -158,7 +160,6 @@ const Projects = () => {
 						<p className="secondaryText">Dumps readilty usable proxies for multiple purposes.</p>
 					</li>
 	
-	{/*
 					<li>
 						<h2>
 							<Button
@@ -170,9 +171,7 @@ const Projects = () => {
 						</h2>
 						<p className="secondaryText">user.js file for hardening Firefox browser.</p>
 					</li>
-	*/}
 
-	{/*
 					<li>
 						<div className="capital">
 							<Button
@@ -185,9 +184,7 @@ const Projects = () => {
 						</div>
 						<p className="secondaryText">WEB APP TO GENERATE PASSWORDS AND CHECK THEIR STRENGTH.</p>
 					</li>
-     	*/}
 
-	{/*
 					<li>
 						<div className="capital">
 							<Button
@@ -200,9 +197,7 @@ const Projects = () => {
 						</div>
 						<p className="secondaryText">Steganography tool that allows image, text, audio and video steganography.</p>
 					</li>
-	*/}
 
-	{/*
 					<li>
 						<div className="capital">
 							<Button
@@ -215,7 +210,6 @@ const Projects = () => {
 						</div>
 						<p className="secondaryText">Collection of Burp Suite extensions to enhace security testing.</p>
 					</li>
-	*/}
 					
 					<li>
 						<div className="capital">
@@ -229,6 +223,7 @@ const Projects = () => {
 						</div>
 						<p className="secondaryText">Web application to evaluate risk faced by an organization.</p>
 					</li>
+     	*/}
 				</ul>
 			</main>
 
