@@ -207,11 +207,11 @@
 
 
 .esrever::after {
-  content:"ESREVER";
+  content:"REVER";
 }
 
 .esrever:hover::after {
-  content:"35R3V3R";
+  content:"R3V3R";
 }
 
 
