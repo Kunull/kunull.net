@@ -622,7 +622,7 @@ p {
 
 @keyframes scanLine {
 	0% {
-		transform: translatey(-150%);
+		transform: translateY(-150%);
 	}
 
 	100% {
