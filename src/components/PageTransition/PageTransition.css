@@ -58,7 +58,8 @@
 
 @keyframes scanlineTransition {
   0% {
-    transform: translateY(var(--current-position, 0));
+/*     transform: translateY(var(--current-position, 0)); */
+	transform: translateY(-120%);
   }
   100% {
     transform: translateY(120%);
