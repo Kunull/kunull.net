@@ -53,7 +53,7 @@
 	position: absolute;
 	bottom: 100%;
 	pointer-events: none;
-	animation: scanlineTransition 0.2s linear infinite;
+	animation: scanlineTransition 0.5s linear infinite;
 }
 
 @keyframes scanlineTransition {
