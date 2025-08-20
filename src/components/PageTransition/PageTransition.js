@@ -5,7 +5,7 @@ import { usePathname, useSearchParams } from 'next/navigation';
 import './PageTransition.css';
 
 // Transition duration in milliseconds
-const TRANSITION_DURATION = 400;
+const TRANSITION_DURATION = 40000;
 const HALF_DURATION = TRANSITION_DURATION / 2;
 const QUARTER_DURATION = TRANSITION_DURATION / 4;
 
