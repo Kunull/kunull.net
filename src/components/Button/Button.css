@@ -108,6 +108,16 @@
   cursor:url('/assets/images/cursor-pointer-filled.png') 10 0,auto;
 } */
 
+
+.aafter::after {
+  content:"AAFTER";
+}
+
+.aafter:hover::after {
+  content:"44F73R";
+}
+
+
 .aws-saa::after {
   content:"SAA-C03";
 }
