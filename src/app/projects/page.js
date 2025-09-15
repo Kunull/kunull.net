@@ -53,6 +53,20 @@ const Projects = () => {
 						</div>
 						<p className="secondaryText">Binary analysis and reverse engineering toolkit. (Coming soon)..</p>
 					</li>
+
+					<li>
+						<div className="capital">
+							<Button
+								button="AAFTER"
+								buttonClassName="aafter primaryButton clickable"
+								buttonHref=""
+								target="_blank"
+								ariaLabel=""
+							/>
+						</div>
+						<p className="secondaryText">(CYWARE) Agentic Attack Flow Transformation, Enhancement & Rendering.</p>
+					</li>
+	
 	{/*									
 					
 					<li>
