@@ -64,7 +64,7 @@ const Projects = () => {
 								ariaLabel=""
 							/>
 						</div>
-						<p className="secondaryText">(CYWARE) Agentic Attack Flow Transformation, Enhancement & Rendering.</p>
+						<p className="secondaryText">Agentic Attack Flow Transformation, Enhancement & Rendering. [At CYWARE]</p>
 					</li>
 	
 	{/*									
