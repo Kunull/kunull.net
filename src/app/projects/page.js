@@ -57,14 +57,14 @@ const Projects = () => {
 					<li>
 						<div className="capital">
 							<Button
-								button="AAFTER"
-								buttonClassName="aafter primaryButton clickable"
+								button="AAFTRE"
+								buttonClassName="aaftre primaryButton clickable"
 								buttonHref=""
 								target="_blank"
 								ariaLabel=""
 							/>
 						</div>
-						<p className="secondaryText">Agentic Attack Flow Transformation, Enhancement & Rendering. [At CYWARE]</p>
+						<p className="secondaryText">Agentic Attack Flow Translation & Rendering Engine. [At CYWARE]</p>
 					</li>
 	
 	{/*									
