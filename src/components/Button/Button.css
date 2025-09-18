@@ -235,11 +235,11 @@
 
 
 .fossoc::after {
-  content:"F.O.S.S.O.C.";
+  content:"FOSSOC";
 }
 
 .fossoc:hover::after {
-  content:"F.0.5.5.0.C.";
+  content:"F0550C";
 }
 
 
