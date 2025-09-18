@@ -109,12 +109,12 @@
 } */
 
 
-.aafter::after {
-  content:"AAFTER";
+.aaftre::after {
+  content:"AAFTRE";
 }
 
-.aafter:hover::after {
-  content:"44F73R";
+.aaftre:hover::after {
+  content:"44F7R3";
 }
 
 
