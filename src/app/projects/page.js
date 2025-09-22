@@ -54,6 +54,7 @@ const Projects = () => {
 						<p className="secondaryText">Binary analysis and reverse engineering toolkit. (Coming soon)..</p>
 					</li>
 
+	{/*	
 					<li>
 						<div className="capital">
 							<Button
@@ -66,9 +67,7 @@ const Projects = () => {
 						</div>
 						<p className="secondaryText">Agentic Attack Flow Translation & Rendering Engine. [At CYWARE]</p>
 					</li>
-	
-	{/*									
-					
+						
 					<li>
 						<div className="capital">
 							<Button
