@@ -3,9 +3,9 @@ import Navbar from '../../components/Navbar/Navbar';
 import Footer from '../../components/Footer/Footer';
 
 export const metadata = {
-  title: 'Kunull | Certifications',
+  title: 'Kunull // Certifications',
   openGraph: {
-    title: 'Kunull | Certifications',
+    title: 'Kunull // Certifications',
   },
 }
 
