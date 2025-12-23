@@ -29,12 +29,15 @@ body {
 	margin-bottom: 10svh;
 	font-family: vcr, monospace;
 	animation: textShadow 1.6s infinite;
-	text-shadow: 
+	text-shadow: 0 0 10px rgba(255, 255, 255, .2)
 
-  var(--shadow-x-distance) 0px 0.08svh rgb(110,110,110,0.2),
-  calc(var(--shadow-x-distance)*2) 0px 0.08svh rgb(90,90,90,0.2),
-  calc(var(--shadow-x-distance)*3) 0px 0.08svh rgb(70,70,70,0.2),
-  calc(var(--shadow-x-distance)*4) 0px 0.08svh rgb(50,50,50,0.2);
+	/* Ghosting effect */
+/* text-shadow: var(--shadow-x-distance) 0px 0.08svh rgb(110,110,110,0.2), 
+		calc(var(--shadow-x-distance)*2) 0px 0.08svh rgb(90,90,90,0.2),
+		calc(var(--shadow-x-distance)*3) 0px 0.08svh rgb(70,70,70,0.2),
+		calc(var(--shadow-x-distance)*4) 0px 0.08svh rgb(50,50,50,0.2); */
+
+	
 	/* Red and Blue	 */
 /* 		var(--shadow-x-distance) var(--shadow-y-distance) 0 rgb(30,120,180,.5),
 		calc(var(--shadow-x-distance)*-1) calc(var(--shadow-y-distance)*-1) 0 rgba(135,22.5,90,.5); */
@@ -636,7 +639,7 @@ p {
 	height: 120%;
 	width: 100%;
 	background-size: cover;
-	opacity: 0.1;
+	opacity: 0.06;
 	z-index: -4;
 }
 
@@ -672,7 +675,7 @@ p {
 	bottom: 0;
 	right: 0;
 /* 	background: linear-gradient(rgba(0, 0, 0, 0.0) 50%, rgba(0, 0, 0, 0.275) 50%); */
-	background: linear-gradient(rgba(255, 255, 255, 0.0075) 50%, rgba(0, 0, 0, 0.275) 50%);
+	background: linear-gradient(rgba(255, 255, 255, 0.006) 50%, rgba(0, 0, 0, 0.275) 50%);
   	z-index: 10;
 	background-size: 100% 1svh, 0px 100%;
 	pointer-events: none;
