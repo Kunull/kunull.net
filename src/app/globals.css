@@ -29,10 +29,10 @@ body {
 	margin-bottom: 10svh;
 	font-family: vcr, monospace;
 	animation: textShadow 1.6s infinite;
-	text-shadow: 0 0 10px rgba(255, 255, 255, .2)
+	text-shadow: 0 0 10px rgba(255, 255, 255, .2);
 
 	/* Ghosting effect */
-/* text-shadow: var(--shadow-x-distance) 0px 0.08svh rgb(110,110,110,0.2), 
+/* 		var(--shadow-x-distance) 0px 0.08svh rgb(110,110,110,0.2), 
 		calc(var(--shadow-x-distance)*2) 0px 0.08svh rgb(90,90,90,0.2),
 		calc(var(--shadow-x-distance)*3) 0px 0.08svh rgb(70,70,70,0.2),
 		calc(var(--shadow-x-distance)*4) 0px 0.08svh rgb(50,50,50,0.2); */
