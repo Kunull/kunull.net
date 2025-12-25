@@ -10,7 +10,7 @@
   z-index: 10;
   color: white !important;
   /* text-shadow: 0 0 5px rgba(255, 255, 255, 0.7) !important; */
-  text-shadow: 0 0 10px rgba(255, 255, 255, 1) !important;
+  text-shadow: 0 0 5px rgba(255, 255, 255, 1) !important;
 }
 
 /* .phase-in main,
