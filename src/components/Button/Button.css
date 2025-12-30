@@ -199,7 +199,7 @@
 
 
 .cwe-79::after {
-  content:"CWE-79",
+  content:"CWE-79";
 }
 
 .cwe-79:hover::after {
@@ -208,7 +208,7 @@
 
 
 .cwe-94::after {
-  content:"CWE-94",
+  content:"CWE-94";
 }
 
 .cwe-94:hover::after {
