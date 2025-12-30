@@ -189,6 +189,33 @@
 }
 
 
+.cwe-89::after{
+  content: "CWE-89",
+}
+
+.cwe-89:hover::after {
+  content: "CW3-89";
+}
+
+
+.cwe-79::after{
+  content: "CWE-79",
+}
+
+.cwe-79:hover::after {
+  content: "CW3-79";
+}
+
+
+.cwe-94::after{
+  content: "CWE-94",
+}
+
+.cwe-94:hover::after {
+  content: "CW3-94";
+}
+
+
 .ejpt::after {
   content:"EJPT";
 }

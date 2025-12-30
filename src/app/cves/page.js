@@ -40,7 +40,7 @@ const CVEs = () => {
 					
       			<main className="capital">
 				<ul className="grid">
-					<li>
+					{/* <li>
 						<Button
 							button="CVE-2024-*"
 							buttonClassName="cve-2024 primaryButton clickable"
@@ -48,8 +48,42 @@ const CVEs = () => {
 							target="_blank"
 							aria-label=""
 						/>
-						<p className="secondaryText">All of my disclosures from 2024 that were assigned a CVE ID.</p>
+						<p className="secondaryText">All disclosures from 2024.</p>
+					</li> */}
+
+					<li>
+						<Button
+							button="CWE-89"
+							buttonClassName="cwe-89 primaryButton clickable"
+							buttonHref="https://reports.kunull.net/tags/cwe-89"
+							target="_blank"
+							aria-label=""
+						/>
+						<p className="secondaryText">IMPROPER NEUTRALIZATION OF SPECIAL ELEMENTS USED IN AN SQL COMMAND ('SQL INJECTION').</p>
 					</li>
+
+					<li>
+						<Button
+							button="CWE-79"
+							buttonClassName="cwe-89 primaryButton clickable"
+							buttonHref="https://reports.kunull.net/tags/cwe-79"
+							target="_blank"
+							aria-label=""
+						/>
+						<p className="secondaryText">IMPROPER NEUTRALIZATION OF INPUT DURING WEB PAGE GENERATION ('CROSS-SITE SCRIPTING').</p>
+					</li>
+
+					<li>
+						<Button
+							button="CWE-94"
+							buttonClassName="cwe-94 primaryButton clickable"
+							buttonHref="https://reports.kunull.net/tags/cwe-94"
+							target="_blank"
+							aria-label=""
+						/>
+						<p className="secondaryText">IMPROPER CONTROL OF GENERATION OF CODE ('CODE INJECTION').</p>
+					</li>
+
 				</ul>	
 			</main>
 
