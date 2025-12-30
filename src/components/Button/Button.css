@@ -194,7 +194,7 @@
 }
 
 .cwe-89:hover::after {
-  content:"CW3-89";
+  content:"CW3=89";
 }
 
 
@@ -203,7 +203,7 @@
 }
 
 .cwe-79:hover::after {
-  content:"CW3-79";
+  content:"CW3=79";
 }
 
 
@@ -212,7 +212,7 @@
 }
 
 .cwe-94:hover::after {
-  content:"CW3-94";
+  content:"CW3=94";
 }
 
 
