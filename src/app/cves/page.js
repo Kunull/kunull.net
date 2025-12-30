@@ -54,7 +54,7 @@ const CVEs = () => {
 					<li>
 						<Button
 							button="CWE-89"
-							buttonClassName="cve-2024 primaryButton clickable"
+							buttonClassName="cwe-89 primaryButton clickable"
 							buttonHref="https://reports.kunull.net/tags/cwe-89"
 							target="_blank"
 							aria-label=""
