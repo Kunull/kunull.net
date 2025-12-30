@@ -65,7 +65,7 @@ const CVEs = () => {
 					<li>
 						<Button
 							button="CWE-79"
-							buttonClassName="cwe-89 primaryButton clickable"
+							buttonClassName="cwe-79 primaryButton clickable"
 							buttonHref="https://reports.kunull.net/tags/cwe-79"
 							target="_blank"
 							aria-label=""
