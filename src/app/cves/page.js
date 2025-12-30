@@ -40,7 +40,7 @@ const CVEs = () => {
 					
       			<main className="capital">
 				<ul className="grid">
-					{/* <li>
+					<li>
 						<Button
 							button="CVE-2024-*"
 							buttonClassName="cve-2024 primaryButton clickable"
@@ -49,7 +49,7 @@ const CVEs = () => {
 							aria-label=""
 						/>
 						<p className="secondaryText">All disclosures from 2024.</p>
-					</li> */}
+					</li>
 
 					<li>
 						<Button
