@@ -60,7 +60,7 @@ const Footer = () => {
 		    				/>
 	  				</li>
 								
-				  	<li className="footerLi">
+				  	{/* <li className="footerLi">
 						<Button 
 		    					button="RESUME"
 							buttonClassName="resume secondaryButton clickable"
@@ -68,7 +68,7 @@ const Footer = () => {
 							target="_blank"
 							ariaLabel="Check out my resume"
 		  				/>
-					</li>
+					</li> */}
 				</ul>	
 
 								
