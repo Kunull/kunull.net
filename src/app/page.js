@@ -92,7 +92,7 @@ const Home = () => {
 						buttonHref="/certifications"
 						ariaLabel=""
 					/>
-					<span className="primaryText">. in my spare time I conduct vulnerability and malware </span>
+					<span className="primaryText">. In my spare time I conduct vulnerability and malware </span>
 					<Button 
 						button="research" 
 						buttonClassName="research primaryButton clickable" 
