@@ -9,9 +9,9 @@ const Footer = () => {
 				<ul className="footerGridInner">
 				  	<li className="footerLi">
 						<Button 
-		    					button="REPORTS"
-							buttonClassName="reports secondaryButton clickable"
-							buttonHref="https://reports.kunull.net/"
+							button="RESEARCH"
+							buttonClassName="research secondaryButton clickable"
+							buttonHref="https://research.kunull.net/"
 							target="_blank"
 							ariaLabel=""
 		  				/>

@@ -477,12 +477,12 @@
 }
 
 
-.reports::after {
-  content:"REPORTS";
+.research::after {
+  content:"RESEARCH";
 }
 
-.reports:hover::after {
-  content:"R390R75";
+.research:hover::after {
+  content:"R3534RCH";
 }
 
 

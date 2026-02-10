@@ -80,22 +80,15 @@ const Home = () => {
 						buttonHref="/certifications"
 						ariaLabel=""
 					/>
-					<span className="primaryText">. in my spare time I hunt for </span>
+					<span className="primaryText">. in my spare time I conduct vulnerability and malware </span>
 					<Button 
-						button="CVEs" 
-						buttonClassName="cves primaryButton clickable" 
-						buttonHref="https://kunull.net/cves" 
-						ariaLabel=""
-					/>
-					<span className="primaryText"> and publish </span>
-					<Button 
-						button="reports" 
-						buttonClassName="reports primaryButton clickable" 
-						buttonHref="https://reports.kunull.net/" 
+						button="research" 
+						buttonClassName="research primaryButton clickable" 
+						buttonHref="https://research.kunull.net/" 
 						target="_blank"
 						ariaLabel=""
 					/>
-					<span className="primaryText"> of the same.</span>
+					<span className="primaryText">.</span>
 				</p>	
 							
 				<p className='spacing'>
