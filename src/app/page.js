@@ -66,7 +66,7 @@ const Home = () => {
 				</p>		
 
 				<p className='spacing'>
-					<span className="primaryText">In my spare time I conduct vulnerability and malware </span>
+					<span className="primaryText">In my spare time I conduct </span>
 					<Button 
 						button="research" 
 						buttonClassName="research primaryButton clickable" 
@@ -74,7 +74,7 @@ const Home = () => {
 						target="_blank"
 						ariaLabel=""
 					/>
-					<span className="primaryText">, discovering security flaws and analyzing malicious software.</span>
+					<span className="primaryText"> discovering security flaws and analyzing malicious software.</span>
 				</p>						
 								
 				<p className='spacing'>
