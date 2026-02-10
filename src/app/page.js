@@ -99,7 +99,7 @@ const Home = () => {
 						buttonHref="https://writeups.kunull.net/" 
 						ariaLabel=""
 					/>
-					<span className="primaryText"> for CTF challenges and Boot2Root machines, and maintain a </span>
+					<span className="primaryText"> for CTF challenges and Boot2Root machines, and also maintain a </span>
 					<Button 
 						button="blog" 
 						buttonClassName="blog primaryButton clickable" 
