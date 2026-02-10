@@ -63,7 +63,19 @@ const Home = () => {
 						ariaLabel=""
 					/>
 					<span className="primaryText">, a Security Researcher and Engineer.</span>
-    				</p>								
+				</p>		
+
+				<p>
+					<span className="primaryText">In my spare time I conduct vulnerability and malware </span>
+					<Button 
+						button="research" 
+						buttonClassName="research primaryButton clickable" 
+						buttonHref="https://research.kunull.net/" 
+						target="_blank"
+						ariaLabel=""
+					/>
+					<span className="primaryText">, discovering security flaws and analyzing malicious software.</span>
+				</p>						
 								
 				<p className='spacing'>
 					<span className="primaryText">This site showcases my </span>
@@ -82,10 +94,10 @@ const Home = () => {
 					/>
 					<span className="primaryText">. in my spare time I conduct vulnerability and malware </span>
 					<Button 
+<<<<<<< HEAD
+=======
 						button="research" 
 						buttonClassName="research primaryButton clickable" 
-						buttonHref="https://research.kunull.net/" 
-						target="_blank"
 						ariaLabel=""
 					/>
 					<span className="primaryText">.</span>
@@ -94,13 +106,13 @@ const Home = () => {
 				<p className='spacing'>
 					<span className="primaryText">Additionally, I create </span>
 					<Button 
+>>>>>>> 76fc369802bc0de9d4e532bbe5ede60cac14d208
 						button="writeups" 
 						buttonClassName="write-ups primaryButton clickable" 
 						buttonHref="https://writeups.kunull.net/" 
-						target="_blank"
 						ariaLabel=""
 					/>
-					<span className="primaryText"> for CTF challenges and Boot2Root machines and also maintain a </span>
+					<span className="primaryText"> for CTF challenges and Boot2Root machines, and share interests on my </span>
 					<Button 
 						button="blog" 
 						buttonClassName="blog primaryButton clickable" 
@@ -108,7 +120,7 @@ const Home = () => {
 						target="_blank"
 						ariaLabel=""
 					/>
-					<span className="primaryText"> where I write about my interests.</span>
+					<span className="primaryText">.</span>
 				</p>								
 								
 				<p className='spacing'>
