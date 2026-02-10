@@ -66,18 +66,6 @@ const Home = () => {
 				</p>		
 
 				<p className='spacing'>
-					<span className="primaryText">In my spare time I conduct </span>
-					<Button 
-						button="research" 
-						buttonClassName="research primaryButton clickable" 
-						buttonHref="https://research.kunull.net/" 
-						target="_blank"
-						ariaLabel=""
-					/>
-					<span className="primaryText">, discovering vulnerabilities and analyzing malware.</span>
-				</p>						
-								
-				<p className='spacing'>
 					<span className="primaryText">This site showcases my </span>
 					<Button 
 						button="projects" 
@@ -92,6 +80,18 @@ const Home = () => {
 						buttonHref="/certifications"
 						ariaLabel=""
 					/>
+					<span className="primaryText">. In my spare time I conduct</span>
+					<Button 
+						button="research" 
+						buttonClassName="research primaryButton clickable" 
+						buttonHref="https://research.kunull.net/" 
+						target="_blank"
+						ariaLabel=""
+					/>
+					<span className="primaryText">, discovering vulnerabilities and analyzing malware.</span>
+				</p>						
+								
+				<p className='spacing'>
 					<span className="primaryText">. Additionally, I publish </span>
 					<Button 
 						button="writeups" 
