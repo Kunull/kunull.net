@@ -80,7 +80,7 @@ const Home = () => {
 						buttonHref="/certifications"
 						ariaLabel=""
 					/>
-					<span className="primaryText">. In my spare time I conduct</span>
+					<span className="primaryText">. In my spare time I conduct </span>
 					<Button 
 						button="research" 
 						buttonClassName="research primaryButton clickable" 
@@ -92,14 +92,14 @@ const Home = () => {
 				</p>						
 								
 				<p className='spacing'>
-					<span className="primaryText">. Additionally, I publish </span>
+					<span className="primaryText">Additionally, I publish </span>
 					<Button 
 						button="writeups" 
 						buttonClassName="write-ups primaryButton clickable" 
 						buttonHref="https://writeups.kunull.net/" 
 						ariaLabel=""
 					/>
-					<span className="primaryText"> for CTF challenges and Boot2Root machines, and share interests on my </span>
+					<span className="primaryText"> for CTF challenges and Boot2Root machines, and maintain a </span>
 					<Button 
 						button="blog" 
 						buttonClassName="blog primaryButton clickable" 
@@ -107,7 +107,7 @@ const Home = () => {
 						target="_blank"
 						ariaLabel=""
 					/>
-					<span className="primaryText">.</span>
+					<span className="primaryText"> where I write about my interests.</span>
 				</p>								
 								
 				<p className='spacing'>
