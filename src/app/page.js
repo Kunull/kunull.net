@@ -94,8 +94,6 @@ const Home = () => {
 					/>
 					<span className="primaryText">. in my spare time I conduct vulnerability and malware </span>
 					<Button 
-<<<<<<< HEAD
-=======
 						button="research" 
 						buttonClassName="research primaryButton clickable" 
 						ariaLabel=""
@@ -104,9 +102,8 @@ const Home = () => {
 				</p>	
 							
 				<p className='spacing'>
-					<span className="primaryText">Additionally, I create </span>
+					<span className="primaryText">Additionally, I publish </span>
 					<Button 
->>>>>>> 76fc369802bc0de9d4e532bbe5ede60cac14d208
 						button="writeups" 
 						buttonClassName="write-ups primaryButton clickable" 
 						buttonHref="https://writeups.kunull.net/" 
