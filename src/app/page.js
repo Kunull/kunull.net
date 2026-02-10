@@ -65,7 +65,7 @@ const Home = () => {
 					<span className="primaryText">, a Security Researcher and Engineer.</span>
 				</p>		
 
-				<p>
+				<p className='spacing'>
 					<span className="primaryText">In my spare time I conduct vulnerability and malware </span>
 					<Button 
 						button="research" 
