@@ -97,9 +97,10 @@ const Home = () => {
 						button="writeups" 
 						buttonClassName="write-ups primaryButton clickable" 
 						buttonHref="https://writeups.kunull.net/" 
+						target="_blank"
 						ariaLabel=""
 					/>
-					<span className="primaryText"> for CTF challenges and Boot2Root machines, and also maintain a </span>
+					<span className="primaryText"> for CTF challenges and Boot2Root machines, and share my interests on my </span>
 					<Button 
 						button="blog" 
 						buttonClassName="blog primaryButton clickable" 
@@ -107,7 +108,7 @@ const Home = () => {
 						target="_blank"
 						ariaLabel=""
 					/>
-					<span className="primaryText"> where I write about my interests.</span>
+					<span className="primaryText">.</span>
 				</p>								
 								
 				<p className='spacing'>
