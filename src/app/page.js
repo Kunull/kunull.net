@@ -92,17 +92,7 @@ const Home = () => {
 						buttonHref="/certifications"
 						ariaLabel=""
 					/>
-					<span className="primaryText">. In my spare time I conduct vulnerability and malware </span>
-					<Button 
-						button="research" 
-						buttonClassName="research primaryButton clickable" 
-						ariaLabel=""
-					/>
-					<span className="primaryText">.</span>
-				</p>	
-							
-				<p className='spacing'>
-					<span className="primaryText">Additionally, I publish </span>
+					<span className="primaryText">. Additionally, I publish </span>
 					<Button 
 						button="writeups" 
 						buttonClassName="write-ups primaryButton clickable" 
