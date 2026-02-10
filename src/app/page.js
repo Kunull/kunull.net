@@ -74,7 +74,7 @@ const Home = () => {
 						target="_blank"
 						ariaLabel=""
 					/>
-					<span className="primaryText"> discovering security flaws and analyzing malicious software.</span>
+					<span className="primaryText"> discovering vulnerabilites and analyzing malware.</span>
 				</p>						
 								
 				<p className='spacing'>
