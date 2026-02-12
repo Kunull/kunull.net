@@ -80,7 +80,7 @@ const Home = () => {
 						buttonHref="/certifications"
 						ariaLabel=""
 					/>
-					<span className="primaryText">. In my spare time I conduct independant security </span>
+					<span className="primaryText">. In my spare time I conduct independent security </span>
 					<Button 
 						button="research" 
 						buttonClassName="research primaryButton clickable" 
