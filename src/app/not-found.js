@@ -2,9 +2,9 @@ import Link from "next/link";
 import Button from '../components/Button/Button';
 
 export const metadata = {
-  title: '404 | Kunal Walavalkar',
+  title: 'Kunull // 404',
   openGraph: {
-    title: '404 | Kunal Walavalkar',
+    title: 'Kunull // 404',
   },
 }
 
